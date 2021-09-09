@@ -1,0 +1,10 @@
+---
+alias:'ranch 2, ranch rutus, rutus'
+---
+#location #production #resources #bedegaarnBaroni #Mistyfalls #delios
+
+Main: [[Family Planck]]
+Related: [[lumber ranches|Delios Ranches]]
+
+# Ranch Rutus
+![[Family Planck]]
