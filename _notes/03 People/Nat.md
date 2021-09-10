@@ -1,6 +1,4 @@
---- 
-title: Nat 
----
+---title: Nat---
 ---
 alias: 'nathaniel'
 type: 'pc'

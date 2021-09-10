@@ -1,6 +1,4 @@
---- 
-title: Greater Invisibility 
----
+---title: Greater Invisibility---
 # Greater Invisibility
 
 *4th-level illusion*

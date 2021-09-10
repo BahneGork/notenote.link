@@ -1,6 +1,4 @@
---- 
-title: +home 
----
+---title: +home---
 # Home
 ## Main MOCs
 Running the game

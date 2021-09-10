@@ -1,6 +1,4 @@
---- 
-title: Hell Hound 
----
+---title: Hell Hound---
 # Hell Hound
 
 *Medium fiend, lawful evil*

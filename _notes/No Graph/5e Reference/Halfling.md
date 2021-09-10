@@ -1,6 +1,4 @@
---- 
-title: Halfling 
----
+---title: Halfling---
 # Halfling
 
 ### Halfling Traits

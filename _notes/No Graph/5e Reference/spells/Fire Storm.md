@@ -1,6 +1,4 @@
---- 
-title: Fire Storm 
----
+---title: Fire Storm---
 # Fire Storm
 
 *7th-level evocation*

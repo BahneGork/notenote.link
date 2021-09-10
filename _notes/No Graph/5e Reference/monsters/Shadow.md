@@ -1,6 +1,4 @@
---- 
-title: Shadow 
----
+---title: Shadow---
 # Shadow
 
 *Medium undead, chaotic evil*

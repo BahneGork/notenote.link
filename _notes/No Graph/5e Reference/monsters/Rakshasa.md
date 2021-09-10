@@ -1,6 +1,4 @@
---- 
-title: Rakshasa 
----
+---title: Rakshasa---
 # Rakshasa
 
 *Medium fiend, lawful evil*

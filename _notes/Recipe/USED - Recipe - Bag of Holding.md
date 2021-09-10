@@ -1,6 +1,4 @@
---- 
-title: USED - Recipe - Bag of Holding 
----
+---title: USED - Recipe - Bag of Holding---
 #magicitemformula #recipe 
 
 ### Bag of Holding

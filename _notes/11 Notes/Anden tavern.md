@@ -1,6 +1,4 @@
---- 
-title: Anden tavern 
----
+---title: Anden tavern---
 #location #tavern 
 Main: [[Delios]]
 Related: [[Misty Falls]], [[blackwood]],[[Bedegaarn Barony]]

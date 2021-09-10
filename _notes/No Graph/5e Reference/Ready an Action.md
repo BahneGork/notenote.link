@@ -1,6 +1,4 @@
---- 
-title: Ready an Action 
----
+---title: Ready an Action---
 # Ready an Action
 as a [[combat action]] you can Ready an action.
 hvis nu man har extra attack og vil [[ready an action]], så kan man ikke trigger extra attack.

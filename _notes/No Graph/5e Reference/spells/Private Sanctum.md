@@ -1,6 +1,4 @@
---- 
-title: Private Sanctum 
----
+---title: Private Sanctum---
 # Private Sanctum
 
 *4th-level abjuration*

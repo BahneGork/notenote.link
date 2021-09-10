@@ -1,6 +1,4 @@
---- 
-title: Frog 
----
+---title: Frog---
 # Frog
 
 *Tiny beast, unaligned*

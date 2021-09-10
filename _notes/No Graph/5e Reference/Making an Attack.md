@@ -1,6 +1,4 @@
---- 
-title: Making an Attack 
----
+---title: Making an Attack---
 # Making an Attack
 
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.

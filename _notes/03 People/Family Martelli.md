@@ -1,6 +1,4 @@
---- 
-title: Family Martelli 
----
+---title: Family Martelli---
 #npc #faction #delios #Mistyfalls #lumberranch
 Main: [[Ranch 1 Falca]], [[Delios]]
 Related: [[Misty Falls]], [[Factions MOC]]

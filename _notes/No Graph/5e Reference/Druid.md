@@ -1,6 +1,4 @@
---- 
-title: Druid 
----
+---title: Druid---
 # Druid
 
 ### Class Features

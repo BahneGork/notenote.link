@@ -1,4 +1,2 @@
---- 
-title: sup 
----
+---title: sup---
 <sup></sup>

@@ -1,6 +1,4 @@
---- 
-title: Ring of Feather Falling 
----
+---title: Ring of Feather Falling---
 # Ring of Feather Falling
 
 *Ring, rare (requires attunement)*

@@ -1,6 +1,4 @@
---- 
-title: Brewer's supplies 
----
+---title: Brewer's supplies---
 # Brewer's supplies
 Main:
 Related: [[Tools]]

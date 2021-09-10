@@ -1,6 +1,4 @@
---- 
-title: Equipment 
----
+---title: Equipment---
 # Equipment
 
 ## Coinage

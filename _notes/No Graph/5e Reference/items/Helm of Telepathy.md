@@ -1,6 +1,4 @@
---- 
-title: Helm of Telepathy 
----
+---title: Helm of Telepathy---
 # Helm of Telepathy
 
 *Wondrous item, uncommon (requires attunement)*

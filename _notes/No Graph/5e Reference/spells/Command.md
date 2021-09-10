@@ -1,6 +1,4 @@
---- 
-title: Command 
----
+---title: Command---
 # Command
 
 *1st-level enchantment*

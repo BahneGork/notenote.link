@@ -1,6 +1,4 @@
---- 
-title: Revivify 
----
+---title: Revivify---
 # Revivify
 
 *3rd-level necromancy*

@@ -1,6 +1,4 @@
---- 
-title: Seeming 
----
+---title: Seeming---
 # Seeming
 
 *5th-level illusion*

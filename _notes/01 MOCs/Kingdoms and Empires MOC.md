@@ -1,6 +1,4 @@
---- 
-title: Kingdoms and Empires MOC 
----
+---title: Kingdoms and Empires MOC---
 #MOC 
 Main: [[+home]]
 

@@ -1,6 +1,4 @@
---- 
-title: Rat 
----
+---title: Rat---
 # Rat
 
 *Tiny beast, unaligned*

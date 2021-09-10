@@ -1,6 +1,4 @@
---- 
-title: Flying Snake 
----
+---title: Flying Snake---
 # Flying Snake
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Horseshoes of a Zephyr 
----
+---title: Horseshoes of a Zephyr---
 # Horseshoes of a Zephyr
 
 *Wondrous item, very rare*

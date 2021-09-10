@@ -1,6 +1,4 @@
---- 
-title: Giant Constrictor Snake 
----
+---title: Giant Constrictor Snake---
 # Giant Constrictor Snake
 
 *Huge beast, unaligned*

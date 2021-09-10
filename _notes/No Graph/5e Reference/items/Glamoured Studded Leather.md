@@ -1,6 +1,4 @@
---- 
-title: Glamoured Studded Leather 
----
+---title: Glamoured Studded Leather---
 # Glamoured Studded Leather
 
 *Armor (studded leather), rare*

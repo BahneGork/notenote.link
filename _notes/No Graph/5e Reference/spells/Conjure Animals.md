@@ -1,6 +1,4 @@
---- 
-title: Conjure Animals 
----
+---title: Conjure Animals---
 # Conjure Animals
 
 *3rd-level conjuration*

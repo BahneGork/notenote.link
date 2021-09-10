@@ -1,6 +1,4 @@
---- 
-title: Animate Dead 
----
+---title: Animate Dead---
 # Animate Dead
 
 *3rd-level necromancy*

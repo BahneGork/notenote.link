@@ -1,6 +1,4 @@
---- 
-title: Thieve's Tools 
----
+---title: Thieve's Tools---
 # Thieve's Tools
 Main:
 Related: [[Tools]]

@@ -1,6 +1,4 @@
---- 
-title: Web 
----
+---title: Web---
 # Web
 
 *2nd-level conjuration*

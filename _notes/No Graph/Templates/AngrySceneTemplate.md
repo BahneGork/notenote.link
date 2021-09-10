@@ -1,6 +1,4 @@
---- 
-title: AngrySceneTemplate 
----
+---title: AngrySceneTemplate---
 ## Set the Scene 
 visibility: Clear sunny day 
 smells and sounds: sounds of battle, savage warcries, metallic clangs and horses.

@@ -1,6 +1,4 @@
---- 
-title: Elk 
----
+---title: Elk---
 # Elk
 
 *Large beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Azer 
----
+---title: Azer---
 # Azer
 
 *Medium elemental, lawful neutral*

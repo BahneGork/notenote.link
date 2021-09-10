@@ -1,6 +1,4 @@
---- 
-title: Guiding Bolt 
----
+---title: Guiding Bolt---
 # Guiding Bolt
 
 *1st-level evocation*

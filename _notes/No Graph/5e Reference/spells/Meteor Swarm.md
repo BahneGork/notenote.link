@@ -1,6 +1,4 @@
---- 
-title: Meteor Swarm 
----
+---title: Meteor Swarm---
 # Meteor Swarm
 
 *9th-level evocation*

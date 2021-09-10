@@ -1,6 +1,4 @@
---- 
-title: Assumi Avalande 
----
+---title: Assumi Avalande---
 ---
 alias: 'Assumi'
 type: 'npc'

@@ -1,6 +1,4 @@
---- 
-title: Gnome 
----
+---title: Gnome---
 # Gnome
 
 ### Gnome Traits

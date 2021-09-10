@@ -1,6 +1,4 @@
---- 
-title: Giant Boar 
----
+---title: Giant Boar---
 # Giant Boar
 
 *Large beast, unaligned*

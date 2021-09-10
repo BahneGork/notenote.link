@@ -1,6 +1,4 @@
---- 
-title: Navigator's Tools 
----
+---title: Navigator's Tools---
 # Navigator's Tools
 Main:
 Related: [[Tools]]

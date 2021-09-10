@@ -1,6 +1,4 @@
---- 
-title: Word of Recall 
----
+---title: Word of Recall---
 # Word of Recall
 
 *6th-level conjuration*

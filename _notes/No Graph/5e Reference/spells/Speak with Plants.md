@@ -1,6 +1,4 @@
---- 
-title: Speak with Plants 
----
+---title: Speak with Plants---
 # Speak with Plants
 
 *3rd-level transmutation*

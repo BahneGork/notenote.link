@@ -1,6 +1,4 @@
---- 
-title: Detect Evil and Good 
----
+---title: Detect Evil and Good---
 # Detect Evil and Good
 
 *1st-level divination*

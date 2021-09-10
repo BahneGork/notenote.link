@@ -1,6 +1,4 @@
---- 
-title: mace Martelli 
----
+---title: mace Martelli---
 #npc #martelli #delios #lumberranch 
 
 Main: [[Family Martelli]], [[Ranch 1 Falca]]

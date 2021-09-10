@@ -1,6 +1,4 @@
---- 
-title: Wand of Polymorph 
----
+---title: Wand of Polymorph---
 # Wand of Polymorph
 
 *Wand, very rare (requires attunement by a spellcaster)*

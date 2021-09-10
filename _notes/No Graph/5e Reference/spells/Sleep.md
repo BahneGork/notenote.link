@@ -1,6 +1,4 @@
---- 
-title: Sleep 
----
+---title: Sleep---
 # Sleep
 
 *1st-level enchantment*

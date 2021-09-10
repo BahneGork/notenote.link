@@ -1,6 +1,4 @@
---- 
-title: Flaming Sphere 
----
+---title: Flaming Sphere---
 # Flaming Sphere
 
 *2nd-level conjuration*

@@ -1,6 +1,4 @@
---- 
-title: Commune 
----
+---title: Commune---
 # Commune
 
 *5th-level divination (ritual)*

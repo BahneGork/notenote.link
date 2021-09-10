@@ -1,6 +1,4 @@
---- 
-title: Draft Horse 
----
+---title: Draft Horse---
 # Draft Horse
 
 *Large beast, unaligned*

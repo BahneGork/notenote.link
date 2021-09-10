@@ -1,6 +1,4 @@
---- 
-title: Ranch 1 Falca 
----
+---title: Ranch 1 Falca---
 ---
 alias:'ranch 1, ranch falca, falca'
 ---

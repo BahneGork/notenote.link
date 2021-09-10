@@ -1,6 +1,4 @@
---- 
-title: Camel 
----
+---title: Camel---
 # Camel
 
 *Large beast, unaligned*

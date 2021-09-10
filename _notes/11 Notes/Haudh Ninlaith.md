@@ -1,6 +1,4 @@
---- 
-title: Haudh Ninlaith 
----
+---title: Haudh Ninlaith---
 #location #Mistyfalls #bedegaarnBaroni 
 Main: [[Logged - Session 26]]
 # Haudh Ninlaith

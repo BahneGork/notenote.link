@@ -1,6 +1,4 @@
---- 
-title: Wand of Secrets 
----
+---title: Wand of Secrets---
 # Wand of Secrets
 
 *Wand, uncommon*

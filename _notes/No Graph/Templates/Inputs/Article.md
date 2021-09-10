@@ -1,6 +1,4 @@
---- 
-title: Article 
----
+---title: Article---
 ---
 tags: 📥️/📰️
 aliases:

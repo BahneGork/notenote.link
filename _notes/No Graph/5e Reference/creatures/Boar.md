@@ -1,6 +1,4 @@
---- 
-title: Boar 
----
+---title: Boar---
 # Boar
 
 *Medium beast, unaligned*

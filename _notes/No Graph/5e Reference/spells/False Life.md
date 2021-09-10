@@ -1,6 +1,4 @@
---- 
-title: False Life 
----
+---title: False Life---
 # False Life
 
 *1st-level necromancy*

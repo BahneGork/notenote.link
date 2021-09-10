@@ -1,6 +1,4 @@
---- 
-title: Divination 
----
+---title: Divination---
 # Divination
 
 *4th-level divination (ritual)*

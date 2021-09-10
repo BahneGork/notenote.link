@@ -1,6 +1,4 @@
---- 
-title: MOC 
----
+---title: MOC---
 ---
 tags: 🗺️
 aliases: 

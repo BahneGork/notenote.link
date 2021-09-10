@@ -1,6 +1,4 @@
---- 
-title: Griffon 
----
+---title: Griffon---
 # Griffon
 
 *Large monstrosity, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Shillelagh 
----
+---title: Shillelagh---
 # Shillelagh
 
 *Transmutation cantrip*

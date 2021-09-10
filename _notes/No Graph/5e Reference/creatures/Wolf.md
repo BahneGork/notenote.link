@@ -1,6 +1,4 @@
---- 
-title: Wolf 
----
+---title: Wolf---
 # Wolf
 
 *Medium beast, unaligned*

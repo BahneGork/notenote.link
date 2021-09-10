@@ -1,6 +1,4 @@
---- 
-title: Giant Spider 
----
+---title: Giant Spider---
 # Giant Spider
 
 *Large beast, unaligned*

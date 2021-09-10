@@ -1,6 +1,4 @@
---- 
-title: Weapon, +1, +2, or +3 
----
+---title: Weapon, +1, +2, or +3---
 # Weapon, +1, +2, or +3
 
 *Weapon (any), uncommon (+1), rare (+2), or very rare (+3)*

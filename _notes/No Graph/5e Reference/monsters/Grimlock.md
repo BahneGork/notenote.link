@@ -1,6 +1,4 @@
---- 
-title: Grimlock 
----
+---title: Grimlock---
 # Grimlock
 
 *Medium humanoid (grimlock), neutral evil*

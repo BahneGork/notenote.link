@@ -1,6 +1,4 @@
---- 
-title: Wings of Flying 
----
+---title: Wings of Flying---
 # Wings of Flying
 
 *Wondrous item, rare (requires attunement)*

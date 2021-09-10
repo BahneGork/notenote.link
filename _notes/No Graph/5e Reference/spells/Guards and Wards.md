@@ -1,6 +1,4 @@
---- 
-title: Guards and Wards 
----
+---title: Guards and Wards---
 # Guards and Wards
 
 *6th-level abjuration*

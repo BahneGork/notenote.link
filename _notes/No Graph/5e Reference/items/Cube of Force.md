@@ -1,6 +1,4 @@
---- 
-title: Cube of Force 
----
+---title: Cube of Force---
 # Cube of Force
 
 *Wondrous item, rare (requires attunement)*

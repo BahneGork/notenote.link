@@ -1,6 +1,4 @@
---- 
-title: Cubic Gate 
----
+---title: Cubic Gate---
 # Cubic Gate
 
 *Wondrous item, legendary*

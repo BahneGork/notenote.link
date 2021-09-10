@@ -1,6 +1,4 @@
---- 
-title: Ghost 
----
+---title: Ghost---
 # Ghost
 
 *Medium undead, any alignment*

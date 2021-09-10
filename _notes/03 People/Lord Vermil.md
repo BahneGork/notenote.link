@@ -1,6 +1,4 @@
---- 
-title: Lord Vermil 
----
+---title: Lord Vermil---
 #npc #delios #people 
 Main: [[Delios]]
 Related: [[Jago]] [[Ranch Falca]] [[Ramon Chartrand - Alkymist]] [[Family Martelli]]

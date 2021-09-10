@@ -1,6 +1,4 @@
---- 
-title: Heat Metal 
----
+---title: Heat Metal---
 # Heat Metal
 
 *2nd-level transmutation*

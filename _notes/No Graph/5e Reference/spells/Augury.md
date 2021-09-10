@@ -1,6 +1,4 @@
---- 
-title: Augury 
----
+---title: Augury---
 # Augury
 
 *2nd-level divination (ritual)*

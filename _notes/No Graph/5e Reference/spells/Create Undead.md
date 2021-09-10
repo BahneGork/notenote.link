@@ -1,6 +1,4 @@
---- 
-title: Create Undead 
----
+---title: Create Undead---
 # Create Undead
 
 *6th-level necromancy*

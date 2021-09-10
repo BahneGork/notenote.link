@@ -1,6 +1,4 @@
---- 
-title: Delayed Blast Fireball 
----
+---title: Delayed Blast Fireball---
 # Delayed Blast Fireball
 
 *7th-level evocation*

@@ -1,6 +1,4 @@
---- 
-title: Ring of the Ram 
----
+---title: Ring of the Ram---
 # Ring of the Ram
 
 *Ring, rare (requires attunement)*

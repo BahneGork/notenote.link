@@ -1,6 +1,4 @@
---- 
-title: Swarm of Rats 
----
+---title: Swarm of Rats---
 # Swarm of Rats
 
 *Medium swarm of Tiny beasts, unaligned*

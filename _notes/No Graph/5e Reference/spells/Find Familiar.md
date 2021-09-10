@@ -1,6 +1,4 @@
---- 
-title: Find Familiar 
----
+---title: Find Familiar---
 # Find Familiar
 
 *1st-­level conjuration (ritual)*

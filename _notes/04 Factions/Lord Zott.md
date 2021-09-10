@@ -1,6 +1,4 @@
---- 
-title: Lord Zott 
----
+---title: Lord Zott---
 #god 
 Main: [[Factions MOC]]
 Related: [[Carthach ó Caskill]]

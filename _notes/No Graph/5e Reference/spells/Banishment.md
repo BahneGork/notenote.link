@@ -1,6 +1,4 @@
---- 
-title: Banishment 
----
+---title: Banishment---
 # Banishment
 
 *4th-level abjuration*

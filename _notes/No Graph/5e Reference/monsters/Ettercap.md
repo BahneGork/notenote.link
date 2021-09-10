@@ -1,6 +1,4 @@
---- 
-title: Ettercap 
----
+---title: Ettercap---
 # Ettercap
 
 *Medium monstrosity, neutral evil*

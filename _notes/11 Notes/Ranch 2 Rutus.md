@@ -1,6 +1,4 @@
---- 
-title: Ranch 2 Rutus 
----
+---title: Ranch 2 Rutus---
 ---
 alias:'ranch 2, ranch rutus, rutus'
 ---

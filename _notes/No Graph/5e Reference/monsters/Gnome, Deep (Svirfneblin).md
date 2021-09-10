@@ -1,6 +1,4 @@
---- 
-title: Gnome, Deep (Svirfneblin) 
----
+---title: Gnome, Deep (Svirfneblin)---
 # Gnome, Deep (Svirfneblin)
 
 *Small humanoid (gnome), neutral good*

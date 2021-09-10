@@ -1,6 +1,4 @@
---- 
-title: Fighter 
----
+---title: Fighter---
 # Fighter
 
 ### Class Features

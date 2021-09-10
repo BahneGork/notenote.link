@@ -1,6 +1,4 @@
---- 
-title: Hydra 
----
+---title: Hydra---
 # Hydra
 
 *Huge monstrosity, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Deer 
----
+---title: Deer---
 # Deer
 
 *Medium beast, unaligned*

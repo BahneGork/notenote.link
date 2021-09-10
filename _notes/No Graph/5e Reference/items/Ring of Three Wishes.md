@@ -1,6 +1,4 @@
---- 
-title: Ring of Three Wishes 
----
+---title: Ring of Three Wishes---
 # Ring of Three Wishes
 
 *Ring, legendary*

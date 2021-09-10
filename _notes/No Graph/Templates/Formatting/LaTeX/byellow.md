@@ -1,4 +1,2 @@
---- 
-title: byellow 
----
+---title: byellow---
 \color{byellow}

@@ -1,6 +1,4 @@
---- 
-title: Apparatus of the Crab 
----
+---title: Apparatus of the Crab---
 # Apparatus of the Crab
 
 *Wondrous item, legendary*

@@ -1,6 +1,4 @@
---- 
-title: Delios MOC 
----
+---title: Delios MOC---
 ---
 title: {{title}}
 ---

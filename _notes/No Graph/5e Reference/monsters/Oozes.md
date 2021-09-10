@@ -1,6 +1,4 @@
---- 
-title: Oozes 
----
+---title: Oozes---
 # Oozes
 
 

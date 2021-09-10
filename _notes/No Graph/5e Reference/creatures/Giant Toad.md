@@ -1,6 +1,4 @@
---- 
-title: Giant Toad 
----
+---title: Giant Toad---
 # Giant Toad
 
 *Large beast, unaligned*

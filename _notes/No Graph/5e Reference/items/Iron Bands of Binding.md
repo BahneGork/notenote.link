@@ -1,6 +1,4 @@
---- 
-title: Iron Bands of Binding 
----
+---title: Iron Bands of Binding---
 # Iron Bands of Binding
 
 *Wondrous item, rare*

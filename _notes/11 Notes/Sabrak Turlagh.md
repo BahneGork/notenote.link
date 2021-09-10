@@ -1,6 +1,4 @@
---- 
-title: Sabrak Turlagh 
----
+---title: Sabrak Turlagh---
 #dwarven #language #title
 
 *Sabrak Thurlagh* equals something along the lines of "The flawed ones in the fields of broken dreams". 

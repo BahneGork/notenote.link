@@ -1,6 +1,4 @@
---- 
-title: Troll 
----
+---title: Troll---
 # Troll
 
 *Large giant, chaotic evil*

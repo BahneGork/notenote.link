@@ -1,6 +1,4 @@
---- 
-title: Fallen star inn - first visit 
----
+---title: Fallen star inn - first visit---
 [[Fallen star inn Shadow Company HQ]]
 
 ## Patrons

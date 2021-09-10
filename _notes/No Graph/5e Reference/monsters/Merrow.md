@@ -1,6 +1,4 @@
---- 
-title: Merrow 
----
+---title: Merrow---
 # Merrow
 
 *Large monstrosity, chaotic evil*

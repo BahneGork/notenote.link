@@ -1,6 +1,4 @@
---- 
-title: The nature of magic item Formulas 
----
+---title: The nature of magic item Formulas---
 #thinking 
 Main: [[Recipes]]
 Related: [[loot]]

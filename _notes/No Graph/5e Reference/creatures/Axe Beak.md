@@ -1,6 +1,4 @@
---- 
-title: Axe Beak 
----
+---title: Axe Beak---
 # Axe Beak
 
 *Large beast, unaligned*

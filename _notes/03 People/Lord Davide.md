@@ -1,6 +1,4 @@
---- 
-title: Lord Davide 
----
+---title: Lord Davide---
 tags: #🗣 #npc #delios 
 2021-07-14
 21:05

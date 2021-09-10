@@ -1,6 +1,4 @@
---- 
-title: Drider 
----
+---title: Drider---
 # Drider
 
 *Large monstrosity, chaotic evil*

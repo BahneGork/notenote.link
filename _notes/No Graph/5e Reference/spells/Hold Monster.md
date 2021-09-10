@@ -1,6 +1,4 @@
---- 
-title: Hold Monster 
----
+---title: Hold Monster---
 # Hold Monster
 
 *5th-level enchantment*

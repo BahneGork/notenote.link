@@ -1,6 +1,4 @@
---- 
-title: Potter's Tools 
----
+---title: Potter's Tools---
 # Potter's Tools
 Main:
 Related: [[Tools]]

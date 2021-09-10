@@ -1,6 +1,4 @@
---- 
-title: Silence 
----
+---title: Silence---
 # Silence
 
 *2nd-level illusion (ritual)*

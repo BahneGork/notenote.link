@@ -1,6 +1,4 @@
---- 
-title: Specter 
----
+---title: Specter---
 # Specter
 
 *Medium undead, chaotic evil*

@@ -1,6 +1,4 @@
---- 
-title: Rhinoceros 
----
+---title: Rhinoceros---
 # Rhinoceros
 
 *Large beast, unaligned*

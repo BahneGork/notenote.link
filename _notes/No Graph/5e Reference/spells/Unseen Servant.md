@@ -1,6 +1,4 @@
---- 
-title: Unseen Servant 
----
+---title: Unseen Servant---
 # Unseen Servant
 
 *1st-level conjuration (ritual)*

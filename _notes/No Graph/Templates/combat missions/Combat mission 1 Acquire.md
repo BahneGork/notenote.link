@@ -1,6 +1,4 @@
---- 
-title: Combat mission 1 Acquire 
----
+---title: Combat mission 1 Acquire---
 ### Mission 1: Acquire
 
 _“You have something we want…_

@@ -1,6 +1,4 @@
---- 
-title: Contagion 
----
+---title: Contagion---
 # Contagion
 
 *5th-level necromancy*

@@ -1,4 +1,2 @@
---- 
-title: def term 
----
+---title: def term---
 <dt>term</dt>

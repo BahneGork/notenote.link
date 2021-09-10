@@ -1,6 +1,4 @@
---- 
-title: Spare the Dying 
----
+---title: Spare the Dying---
 # Spare the Dying
 
 *Necromancy cantrip*

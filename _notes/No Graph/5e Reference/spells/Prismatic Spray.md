@@ -1,6 +1,4 @@
---- 
-title: Prismatic Spray 
----
+---title: Prismatic Spray---
 # Prismatic Spray
 
 *7th-level evocation*

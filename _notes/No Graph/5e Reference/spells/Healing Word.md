@@ -1,6 +1,4 @@
---- 
-title: Healing Word 
----
+---title: Healing Word---
 # Healing Word
 
 *1st-level evocation*

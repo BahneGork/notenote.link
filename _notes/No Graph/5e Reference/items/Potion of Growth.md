@@ -1,6 +1,4 @@
---- 
-title: Potion of Growth 
----
+---title: Potion of Growth---
 # Potion of Growth
 
 *Potion, uncommon*

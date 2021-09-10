@@ -1,6 +1,4 @@
---- 
-title: Shield 
----
+---title: Shield---
 # Shield
 
 *1st-level abjuration*

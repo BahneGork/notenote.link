@@ -1,6 +1,4 @@
---- 
-title: Gentle Repose 
----
+---title: Gentle Repose---
 # Gentle Repose
 
 *2nd-level necromancy (ritual)*

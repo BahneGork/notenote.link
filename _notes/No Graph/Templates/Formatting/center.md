@@ -1,4 +1,2 @@
---- 
-title: center 
----
+---title: center---
 <center></center>

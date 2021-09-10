@@ -1,6 +1,4 @@
---- 
-title: Lamia 
----
+---title: Lamia---
 # Lamia
 
 *Large monstrosity, chaotic evil*

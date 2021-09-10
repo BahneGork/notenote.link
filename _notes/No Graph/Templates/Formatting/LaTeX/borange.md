@@ -1,4 +1,2 @@
---- 
-title: borange 
----
+---title: borange---
 \color{borange}

@@ -1,6 +1,4 @@
---- 
-title: Recipe - Cape of the Mountebank 
----
+---title: Recipe - Cape of the Mountebank---
 #magicitemformula #recipe 
 ### Cape of the Mountebank
 

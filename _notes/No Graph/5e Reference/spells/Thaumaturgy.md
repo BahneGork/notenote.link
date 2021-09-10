@@ -1,6 +1,4 @@
---- 
-title: Thaumaturgy 
----
+---title: Thaumaturgy---
 # Thaumaturgy
 
 *Transmutation cantrip*

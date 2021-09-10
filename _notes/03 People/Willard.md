@@ -1,6 +1,4 @@
---- 
-title: Willard 
----
+---title: Willard---
 #npc #shadowcompany  
 
 Main: [[Fallen star inn Shadow Company HQ]]

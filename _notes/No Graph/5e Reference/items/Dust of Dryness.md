@@ -1,6 +1,4 @@
---- 
-title: Dust of Dryness 
----
+---title: Dust of Dryness---
 # Dust of Dryness
 
 *Wondrous item, uncommon*

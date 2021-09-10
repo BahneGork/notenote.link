@@ -1,6 +1,4 @@
---- 
-title: Dryad 
----
+---title: Dryad---
 # Dryad
 
 *Medium fey, neutral*

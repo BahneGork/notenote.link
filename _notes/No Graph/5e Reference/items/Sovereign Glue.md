@@ -1,6 +1,4 @@
---- 
-title: Sovereign Glue 
----
+---title: Sovereign Glue---
 # Sovereign Glue
 
 *Wondrous item, legendary*

@@ -1,6 +1,4 @@
---- 
-title: Giant Octopus 
----
+---title: Giant Octopus---
 # Giant Octopus
 
 *Large beast, unaligned*

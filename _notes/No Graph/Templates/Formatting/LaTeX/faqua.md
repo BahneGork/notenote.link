@@ -1,4 +1,2 @@
---- 
-title: faqua 
----
+---title: faqua---
 \color{faqua}

@@ -1,6 +1,4 @@
---- 
-title: Hunter’s Mark 
----
+---title: Hunter’s Mark---
 # Hunterâ€™s Mark
 
 *1st-Â­level divination*

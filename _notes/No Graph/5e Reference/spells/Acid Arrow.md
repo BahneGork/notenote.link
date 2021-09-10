@@ -1,6 +1,4 @@
---- 
-title: Acid Arrow 
----
+---title: Acid Arrow---
 # Acid Arrow
 
 *2nd-level evocation*

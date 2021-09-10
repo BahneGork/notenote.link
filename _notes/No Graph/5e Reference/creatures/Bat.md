@@ -1,6 +1,4 @@
---- 
-title: Bat 
----
+---title: Bat---
 # Bat
 
 *Tiny beast, unaligned*

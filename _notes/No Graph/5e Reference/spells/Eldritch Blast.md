@@ -1,6 +1,4 @@
---- 
-title: Eldritch Blast 
----
+---title: Eldritch Blast---
 # Eldritch Blast
 
 *Evocation cantrip*

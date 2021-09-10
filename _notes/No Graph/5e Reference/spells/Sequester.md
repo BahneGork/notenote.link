@@ -1,6 +1,4 @@
---- 
-title: Sequester 
----
+---title: Sequester---
 # Sequester
 
 *7th-level transmutation*

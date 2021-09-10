@@ -1,6 +1,4 @@
---- 
-title: Owlbear 
----
+---title: Owlbear---
 # Owlbear
 
 *Large monstrosity, unaligned*

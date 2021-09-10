@@ -1,6 +1,4 @@
---- 
-title: Grick 
----
+---title: Grick---
 # Grick
 
 *Medium monstrosity, neutral*

@@ -1,6 +1,4 @@
---- 
-title: Ashmar Downs 
----
+---title: Ashmar Downs---
 #location #teleportcircle #blueguardians
 
 # Ashmar Downs

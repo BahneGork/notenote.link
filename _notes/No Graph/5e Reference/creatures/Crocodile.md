@@ -1,6 +1,4 @@
---- 
-title: Crocodile 
----
+---title: Crocodile---
 # Crocodile
 
 *Large beast, unaligned*

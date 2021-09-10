@@ -1,6 +1,4 @@
---- 
-title: Awaken 
----
+---title: Awaken---
 # Awaken
 
 *5th-level transmutation*

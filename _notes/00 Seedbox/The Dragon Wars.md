@@ -1,6 +1,4 @@
---- 
-title: The Dragon Wars 
----
+---title: The Dragon Wars---
 ---
 alias: 'Dragon wars'
 ---

@@ -1,6 +1,4 @@
---- 
-title: Polymorph 
----
+---title: Polymorph---
 # Polymorph
 
 *4th-level transmutation*

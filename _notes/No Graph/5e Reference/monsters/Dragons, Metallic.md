@@ -1,6 +1,4 @@
---- 
-title: Dragons, Metallic 
----
+---title: Dragons, Metallic---
 # Dragons, Metallic
 
 

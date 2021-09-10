@@ -1,6 +1,4 @@
---- 
-title: Vorpal Sword 
----
+---title: Vorpal Sword---
 # Vorpal Sword
 
 *Weapon (any sword that deals slashing damage), legendary (requires attunement)*

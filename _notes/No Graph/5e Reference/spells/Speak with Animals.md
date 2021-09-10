@@ -1,6 +1,4 @@
---- 
-title: Speak with Animals 
----
+---title: Speak with Animals---
 # Speak with Animals
 
 *1st-level divination (ritual)*

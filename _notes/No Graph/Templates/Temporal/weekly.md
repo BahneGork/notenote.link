@@ -1,6 +1,4 @@
---- 
-title: weekly 
----
+---title: weekly---
 ### Weekly Review:
 %% This template Requires the Templatr plugin and should be run on fridays, if not on friday, the value offsets should be adjusted %%
 [[<%tp.date.now("YYYY-[W]ww", -7)%>]] <== This Week ==> [[<%tp.date.now("YYYY-[W]ww", 7)%>]]

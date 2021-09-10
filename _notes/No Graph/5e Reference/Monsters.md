@@ -1,6 +1,4 @@
---- 
-title: Monsters 
----
+---title: Monsters---
 # Monsters
 - [[Aboleth]]
 - [[Angels]]

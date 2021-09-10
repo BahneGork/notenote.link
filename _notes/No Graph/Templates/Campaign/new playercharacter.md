@@ -1,6 +1,4 @@
---- 
-title: new playercharacter 
----
+---title: new playercharacter---
 ---
 alias: ''
 type: 'pc'

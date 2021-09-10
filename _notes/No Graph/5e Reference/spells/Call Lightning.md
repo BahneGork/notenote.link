@@ -1,6 +1,4 @@
---- 
-title: Call Lightning 
----
+---title: Call Lightning---
 # Call Lightning
 
 *3rd-level conjuration*

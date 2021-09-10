@@ -1,6 +1,4 @@
---- 
-title: Simulacrum 
----
+---title: Simulacrum---
 # Simulacrum
 
 *7th-level illusion*

@@ -1,6 +1,4 @@
---- 
-title: Gargoyle 
----
+---title: Gargoyle---
 # Gargoyle
 
 *Medium elemental, chaotic evil*

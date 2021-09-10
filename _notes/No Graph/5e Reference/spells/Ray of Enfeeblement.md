@@ -1,6 +1,4 @@
---- 
-title: Ray of Enfeeblement 
----
+---title: Ray of Enfeeblement---
 # Ray of Enfeeblement
 
 *2nd-level necromancy*

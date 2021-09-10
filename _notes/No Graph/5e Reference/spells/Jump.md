@@ -1,6 +1,4 @@
---- 
-title: Jump 
----
+---title: Jump---
 # Jump
 
 *1st-level transmutation*

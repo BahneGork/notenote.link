@@ -1,6 +1,4 @@
---- 
-title: Medallion of Thoughts 
----
+---title: Medallion of Thoughts---
 # Medallion of Thoughts
 
 *Wondrous item, uncommon (requires attunement)*

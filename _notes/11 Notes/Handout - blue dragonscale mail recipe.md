@@ -1,6 +1,4 @@
---- 
-title: Handout - blue dragonscale mail recipe 
----
+---title: Handout - blue dragonscale mail recipe---
 #handout #recipe #magicitemformula 
 Main: [[Master loot]] Related: [[Dragon Scale Mail]]
 ### Blue Dragon Scale Mail

@@ -1,6 +1,4 @@
---- 
-title: Inflict Wounds 
----
+---title: Inflict Wounds---
 # Inflict Wounds
 
 *1st-level necromancy*

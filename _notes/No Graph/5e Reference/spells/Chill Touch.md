@@ -1,6 +1,4 @@
---- 
-title: Chill Touch 
----
+---title: Chill Touch---
 # Chill Touch
 
 *Necromancy cantrip*

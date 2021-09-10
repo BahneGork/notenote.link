@@ -1,6 +1,4 @@
---- 
-title: Blindness slash Deafness 
----
+---title: Blindness slash Deafness---
 # Blindness/Deafness
 
 *2nd-level necromancy*

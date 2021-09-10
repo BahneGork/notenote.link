@@ -1,6 +1,4 @@
---- 
-title: Creation 
----
+---title: Creation---
 # Creation
 
 *5th-level illusion*

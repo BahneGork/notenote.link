@@ -1,6 +1,4 @@
---- 
-title: Kanban 
----
+---title: Kanban---
 ---
 tags: ⚙️
 aliases: 

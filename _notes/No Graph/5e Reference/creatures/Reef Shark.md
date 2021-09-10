@@ -1,6 +1,4 @@
---- 
-title: Reef Shark 
----
+---title: Reef Shark---
 # Reef Shark
 
 *Medium beast, unaligned*

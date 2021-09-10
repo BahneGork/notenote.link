@@ -1,6 +1,4 @@
---- 
-title: Stone of Good Luck (Luckstone) 
----
+---title: Stone of Good Luck (Luckstone)---
 # Stone of Good Luck (Luckstone)
 
 *Wondrous item, uncommon (requires attunement)*

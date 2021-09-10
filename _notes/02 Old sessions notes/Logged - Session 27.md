@@ -1,6 +1,4 @@
---- 
-title: Logged - Session 27 
----
+---title: Logged - Session 27---
 #logged 
 # Session 27 - Next 
 

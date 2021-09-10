@@ -1,6 +1,4 @@
---- 
-title: Conjure Fey 
----
+---title: Conjure Fey---
 # Conjure Fey
 
 *6th-level conjuration*

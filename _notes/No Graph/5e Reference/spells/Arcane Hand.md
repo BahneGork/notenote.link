@@ -1,6 +1,4 @@
---- 
-title: Arcane Hand 
----
+---title: Arcane Hand---
 # Arcane Hand
 
 *5th-level evocation*

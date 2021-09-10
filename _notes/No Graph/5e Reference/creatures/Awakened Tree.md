@@ -1,6 +1,4 @@
---- 
-title: Awakened Tree 
----
+---title: Awakened Tree---
 # Awakened Tree
 
 *Huge plant, unaligned*

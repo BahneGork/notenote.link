@@ -1,6 +1,4 @@
---- 
-title: Elf 
----
+---title: Elf---
 # Elf
 
 ### Elf Traits

@@ -1,6 +1,4 @@
---- 
-title: Bard 
----
+---title: Bard---
 # Bard
 
 ### Class Features

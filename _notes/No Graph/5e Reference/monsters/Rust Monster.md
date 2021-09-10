@@ -1,6 +1,4 @@
---- 
-title: Rust Monster 
----
+---title: Rust Monster---
 # Rust Monster
 
 *Medium monstrosity, unaligned*

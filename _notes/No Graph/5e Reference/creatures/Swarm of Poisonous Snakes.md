@@ -1,6 +1,4 @@
---- 
-title: Swarm of Poisonous Snakes 
----
+---title: Swarm of Poisonous Snakes---
 # Swarm of Poisonous Snakes
 
 *Medium swarm of Tiny beasts, unaligned*

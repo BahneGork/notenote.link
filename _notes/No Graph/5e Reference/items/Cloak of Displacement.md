@@ -1,6 +1,4 @@
---- 
-title: Cloak of Displacement 
----
+---title: Cloak of Displacement---
 # Cloak of Displacement
 
 *Wondrous item, rare (requires attunement)*

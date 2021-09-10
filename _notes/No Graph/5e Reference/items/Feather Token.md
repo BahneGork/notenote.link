@@ -1,6 +1,4 @@
---- 
-title: Feather Token 
----
+---title: Feather Token---
 # Feather Token
 
 *Wondrous item, rare*

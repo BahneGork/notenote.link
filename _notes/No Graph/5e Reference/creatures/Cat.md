@@ -1,6 +1,4 @@
---- 
-title: Cat 
----
+---title: Cat---
 # Cat
 
 *Tiny beast, unaligned*

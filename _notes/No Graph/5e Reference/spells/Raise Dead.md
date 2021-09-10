@@ -1,6 +1,4 @@
---- 
-title: Raise Dead 
----
+---title: Raise Dead---
 # Raise Dead
 
 *5th-level necromancy*

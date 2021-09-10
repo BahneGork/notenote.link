@@ -1,6 +1,4 @@
---- 
-title: Horseshoes of Speed 
----
+---title: Horseshoes of Speed---
 # Horseshoes of Speed
 
 *Wondrous item, rare*

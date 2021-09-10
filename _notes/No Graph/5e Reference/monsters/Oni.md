@@ -1,6 +1,4 @@
---- 
-title: Oni 
----
+---title: Oni---
 # Oni
 
 *Large giant, lawful evil*

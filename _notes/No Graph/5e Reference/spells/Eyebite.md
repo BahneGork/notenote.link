@@ -1,6 +1,4 @@
---- 
-title: Eyebite 
----
+---title: Eyebite---
 # Eyebite
 
 *6th-level necromancy*

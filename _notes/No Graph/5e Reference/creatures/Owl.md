@@ -1,6 +1,4 @@
---- 
-title: Owl 
----
+---title: Owl---
 # Owl
 
 *Tiny beast, unaligned*

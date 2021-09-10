@@ -1,6 +1,4 @@
---- 
-title: Wand of Fireballs 
----
+---title: Wand of Fireballs---
 # Wand of Fireballs
 
 *Wand, rare (requires attunement by a spellcaster)*

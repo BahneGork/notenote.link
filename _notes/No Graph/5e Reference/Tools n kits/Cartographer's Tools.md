@@ -1,6 +1,4 @@
---- 
-title: Cartographer's Tools 
----
+---title: Cartographer's Tools---
 # Cartographer's Tools
 Main:
 Related: [[Tools]]

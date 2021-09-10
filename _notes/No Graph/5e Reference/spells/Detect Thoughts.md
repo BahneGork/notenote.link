@@ -1,6 +1,4 @@
---- 
-title: Detect Thoughts 
----
+---title: Detect Thoughts---
 # Detect Thoughts
 
 *2nd-level divination*

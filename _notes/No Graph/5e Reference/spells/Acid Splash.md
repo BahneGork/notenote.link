@@ -1,6 +1,4 @@
---- 
-title: Acid Splash 
----
+---title: Acid Splash---
 # Acid Splash
 
 *Conjuration cantrip*

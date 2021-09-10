@@ -1,6 +1,4 @@
---- 
-title: ABC 
----
+---title: ABC---
 | Letter | Association |
 |:------:|:----------- |
 |   A    |             | 

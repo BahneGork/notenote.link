@@ -1,6 +1,4 @@
---- 
-title: Quipper 
----
+---title: Quipper---
 # Quipper
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Shambling Mound 
----
+---title: Shambling Mound---
 # Shambling Mound
 
 *Large plant, unaligned*

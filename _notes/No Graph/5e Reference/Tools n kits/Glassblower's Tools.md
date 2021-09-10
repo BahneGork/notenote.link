@@ -1,6 +1,4 @@
---- 
-title: Glassblower's Tools 
----
+---title: Glassblower's Tools---
 # Glassblower's Tools
 Main:
 Related: [[Tools]]

@@ -1,6 +1,4 @@
---- 
-title: Light 
----
+---title: Light---
 # Light
 
 *Evocation cantrip*

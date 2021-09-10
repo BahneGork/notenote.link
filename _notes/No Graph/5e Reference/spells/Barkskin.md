@@ -1,6 +1,4 @@
---- 
-title: Barkskin 
----
+---title: Barkskin---
 # Barkskin
 
 *2nd-level transmutation*

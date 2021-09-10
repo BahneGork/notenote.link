@@ -1,6 +1,4 @@
---- 
-title: Nightmare 
----
+---title: Nightmare---
 # Nightmare
 
 *Large fiend, neutral evil*

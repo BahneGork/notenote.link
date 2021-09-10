@@ -1,6 +1,4 @@
---- 
-title: Gate 
----
+---title: Gate---
 # Gate
 
 *9th-level conjuration*

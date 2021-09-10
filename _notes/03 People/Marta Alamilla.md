@@ -1,6 +1,4 @@
---- 
-title: Marta Alamilla 
----
+---title: Marta Alamilla---
 #npc #delios #theblackportrait  
 
 [[Marta Alamilla.png]]

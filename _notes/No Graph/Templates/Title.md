@@ -1,4 +1,2 @@
---- 
-title: Title 
----
+---title: Title---
 <%tp.file.title%>

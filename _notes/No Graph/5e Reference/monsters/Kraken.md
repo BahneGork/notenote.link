@@ -1,6 +1,4 @@
---- 
-title: Kraken 
----
+---title: Kraken---
 # Kraken
 
 *Gargantuan monstrosity (titan), chaotic evil*

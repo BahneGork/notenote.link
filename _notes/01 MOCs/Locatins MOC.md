@@ -1,6 +1,4 @@
---- 
-title: Locatins MOC 
----
+---title: Locatins MOC---
 #MOC 
 Related: [[people MOC]]
 

@@ -1,6 +1,4 @@
---- 
-title: Freezing Sphere 
----
+---title: Freezing Sphere---
 # Freezing Sphere
 
 *6th-level evocation*

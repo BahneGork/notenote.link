@@ -1,6 +1,4 @@
---- 
-title: Maze 
----
+---title: Maze---
 # Maze
 
 *8th-level conjuration*

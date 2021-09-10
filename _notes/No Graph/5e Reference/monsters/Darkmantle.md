@@ -1,6 +1,4 @@
---- 
-title: Darkmantle 
----
+---title: Darkmantle---
 # Darkmantle
 
 *Small monstrosity, unaligned*

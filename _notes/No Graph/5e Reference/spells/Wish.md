@@ -1,6 +1,4 @@
---- 
-title: Wish 
----
+---title: Wish---
 # Wish
 
 *9th-level conjuration*

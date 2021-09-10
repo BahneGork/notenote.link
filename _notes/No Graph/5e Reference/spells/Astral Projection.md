@@ -1,6 +1,4 @@
---- 
-title: Astral Projection 
----
+---title: Astral Projection---
 # Astral Projection
 
 *9th-level necromancy*

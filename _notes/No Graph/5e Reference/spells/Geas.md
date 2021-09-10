@@ -1,6 +1,4 @@
---- 
-title: Geas 
----
+---title: Geas---
 # Geas
 
 *5th-level enchantment*

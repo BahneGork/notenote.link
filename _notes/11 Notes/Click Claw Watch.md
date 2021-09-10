@@ -1,6 +1,4 @@
---- 
-title: Click Claw Watch 
----
+---title: Click Claw Watch---
 #location #keep #Mistyfalls 
 Main: [[Misty Falls]]
 

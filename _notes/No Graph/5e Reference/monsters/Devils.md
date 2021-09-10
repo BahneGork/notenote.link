@@ -1,6 +1,4 @@
---- 
-title: Devils 
----
+---title: Devils---
 # Devils
 
 

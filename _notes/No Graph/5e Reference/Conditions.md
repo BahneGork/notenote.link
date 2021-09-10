@@ -1,6 +1,4 @@
---- 
-title: Conditions 
----
+---title: Conditions---
 # Conditions
 
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.

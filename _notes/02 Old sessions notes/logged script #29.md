@@ -1,6 +1,4 @@
---- 
-title: logged script #29 
----
+---title: logged script #29---
 #next #scriptsession28
 
 # Fallen star inn

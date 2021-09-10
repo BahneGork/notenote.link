@@ -1,6 +1,4 @@
---- 
-title: +PC Relfection 
----
+---title: +PC Relfection---
 #playercharacters #reflection
 Main: [[The Heroes MOC]]
 Related: [[The Shadow Company MOC]]

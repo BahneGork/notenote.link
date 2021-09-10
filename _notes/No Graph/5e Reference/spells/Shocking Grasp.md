@@ -1,6 +1,4 @@
---- 
-title: Shocking Grasp 
----
+---title: Shocking Grasp---
 # Shocking Grasp
 
 *Evocation cantrip*

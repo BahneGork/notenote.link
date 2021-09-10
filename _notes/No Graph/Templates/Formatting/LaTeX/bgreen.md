@@ -1,4 +1,2 @@
---- 
-title: bgreen 
----
+---title: bgreen---
 \color{bgreen}

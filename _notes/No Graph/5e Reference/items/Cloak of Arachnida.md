@@ -1,6 +1,4 @@
---- 
-title: Cloak of Arachnida 
----
+---title: Cloak of Arachnida---
 # Cloak of Arachnida
 
 *Wondrous item, very rare (requires attunement)*

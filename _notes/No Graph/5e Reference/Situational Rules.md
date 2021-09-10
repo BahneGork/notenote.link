@@ -1,6 +1,4 @@
---- 
-title: Situational Rules 
----
+---title: Situational Rules---
 # Situational Rules
 
 ## Traps

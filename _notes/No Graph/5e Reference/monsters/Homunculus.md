@@ -1,6 +1,4 @@
---- 
-title: Homunculus 
----
+---title: Homunculus---
 # Homunculus
 
 *Tiny construct, neutral*

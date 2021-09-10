@@ -1,6 +1,4 @@
---- 
-title: Ankheg 
----
+---title: Ankheg---
 # Ankheg
 
 *Large monstrosity, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Half-Dragon Template 
----
+---title: Half-Dragon Template---
 # Half-Dragon Template
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.

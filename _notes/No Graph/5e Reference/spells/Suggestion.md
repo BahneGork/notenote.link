@@ -1,6 +1,4 @@
---- 
-title: Suggestion 
----
+---title: Suggestion---
 # Suggestion
 
 *2nd-level enchantment*

@@ -1,6 +1,4 @@
---- 
-title: Transport via Plants 
----
+---title: Transport via Plants---
 # Transport via Plants
 
 *6th-level conjuration*

@@ -1,6 +1,4 @@
---- 
-title: Satyr 
----
+---title: Satyr---
 # Satyr
 
 *Medium fey, chaotic neutral*

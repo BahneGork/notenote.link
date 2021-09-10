@@ -1,6 +1,4 @@
---- 
-title: Scrying 
----
+---title: Scrying---
 # Scrying
 
 *5th-level divination*

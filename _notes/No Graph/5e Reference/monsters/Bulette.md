@@ -1,6 +1,4 @@
---- 
-title: Bulette 
----
+---title: Bulette---
 # Bulette
 
 *Large monstrosity, unaligned*

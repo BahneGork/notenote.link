@@ -1,6 +1,4 @@
---- 
-title: Giant Frog 
----
+---title: Giant Frog---
 # Giant Frog
 
 *Medium beast, unaligned*

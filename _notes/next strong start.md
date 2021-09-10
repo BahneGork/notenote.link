@@ -1,4 +1,2 @@
---- 
-title: next strong start 
----
+---title: next strong start---
 # option 1

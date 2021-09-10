@@ -1,6 +1,4 @@
---- 
-title: Creatures 
----
+---title: Creatures---
 # Creatures
 - [[Ape]]
 - [[Awakened Shrub]]

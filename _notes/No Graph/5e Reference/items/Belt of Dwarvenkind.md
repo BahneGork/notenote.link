@@ -1,6 +1,4 @@
---- 
-title: Belt of Dwarvenkind 
----
+---title: Belt of Dwarvenkind---
 # Belt of Dwarvenkind
 
 *Wondrous item, rare (requires attunement)*

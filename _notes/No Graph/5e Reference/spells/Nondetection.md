@@ -1,6 +1,4 @@
---- 
-title: Nondetection 
----
+---title: Nondetection---
 # Nondetection
 
 *3rd-level abjuration*

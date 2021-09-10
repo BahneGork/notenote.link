@@ -1,6 +1,4 @@
---- 
-title: True Seeing 
----
+---title: True Seeing---
 # True Seeing
 
 *6th-level divination*

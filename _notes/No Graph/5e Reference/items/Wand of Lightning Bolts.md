@@ -1,6 +1,4 @@
---- 
-title: Wand of Lightning Bolts 
----
+---title: Wand of Lightning Bolts---
 # Wand of Lightning Bolts
 
 *Wand, rare (requires attunement by a spellcaster)*

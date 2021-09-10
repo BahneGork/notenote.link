@@ -1,6 +1,4 @@
---- 
-title: Confusion 
----
+---title: Confusion---
 # Confusion
 
 *4th-level enchantment*

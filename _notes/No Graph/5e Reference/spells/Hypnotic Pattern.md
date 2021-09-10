@@ -1,6 +1,4 @@
---- 
-title: Hypnotic Pattern 
----
+---title: Hypnotic Pattern---
 # Hypnotic Pattern
 
 *3rd-level illusion*

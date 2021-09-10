@@ -1,6 +1,4 @@
---- 
-title: Gorgon 
----
+---title: Gorgon---
 # Gorgon
 
 *Large monstrosity, unaligned*

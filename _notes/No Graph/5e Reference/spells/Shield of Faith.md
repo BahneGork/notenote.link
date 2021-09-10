@@ -1,6 +1,4 @@
---- 
-title: Shield of Faith 
----
+---title: Shield of Faith---
 # Shield of Faith
 
 *1st-level abjuration*

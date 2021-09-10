@@ -1,6 +1,4 @@
---- 
-title: Pony 
----
+---title: Pony---
 # Pony
 
 *Medium beast, unaligned*

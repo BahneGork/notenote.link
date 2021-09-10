@@ -1,6 +1,4 @@
---- 
-title: Glyph of Warding 
----
+---title: Glyph of Warding---
 # Glyph of Warding
 
 *3rd-level abjuration*

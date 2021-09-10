@@ -1,6 +1,4 @@
---- 
-title: Lantern of Revealing 
----
+---title: Lantern of Revealing---
 # Lantern of Revealing
 
 *Wondrous item, uncommon*

@@ -1,6 +1,4 @@
---- 
-title: Wand of Fear 
----
+---title: Wand of Fear---
 # Wand of Fear
 
 *Wand, rare (requires attunement)*

@@ -1,6 +1,4 @@
---- 
-title: Dimension Door 
----
+---title: Dimension Door---
 # Dimension Door
 
 *4th-level conjuration*

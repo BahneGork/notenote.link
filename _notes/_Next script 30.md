@@ -1,6 +1,4 @@
---- 
-title: _Next script 30 
----
+---title: _Next script 30---
 #next #scriptsession30
 
 

@@ -1,6 +1,4 @@
---- 
-title: Carpet of Flying 
----
+---title: Carpet of Flying---
 # Carpet of Flying
 
 *Wondrous item, very rare*

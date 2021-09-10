@@ -1,6 +1,4 @@
---- 
-title: Delios Founders Festival Topic of Conversation 
----
+---title: Delios Founders Festival Topic of Conversation---
 # Delios Founders Festival Topic of Conversation
 Main:
 Related: [[annual founders celebration]]

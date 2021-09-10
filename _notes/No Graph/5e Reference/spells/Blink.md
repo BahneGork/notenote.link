@@ -1,6 +1,4 @@
---- 
-title: Blink 
----
+---title: Blink---
 # Blink
 
 *3rd-level transmutation*

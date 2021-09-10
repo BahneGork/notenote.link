@@ -1,6 +1,4 @@
---- 
-title: The Bedegaarn Barony MOC 
----
+---title: The Bedegaarn Barony MOC---
 ---
 alias: 'Bedegaarn Barony'
 ---

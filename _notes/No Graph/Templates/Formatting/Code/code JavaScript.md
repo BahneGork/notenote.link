@@ -1,6 +1,4 @@
---- 
-title: code JavaScript 
----
+---title: code JavaScript---
 ```javascript
 
 ```

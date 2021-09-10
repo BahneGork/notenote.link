@@ -1,6 +1,4 @@
---- 
-title: Finger of Death 
----
+---title: Finger of Death---
 # Finger of Death
 
 *7th-level necromancy*

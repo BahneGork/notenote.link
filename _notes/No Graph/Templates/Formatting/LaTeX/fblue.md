@@ -1,4 +1,2 @@
---- 
-title: fblue 
----
+---title: fblue---
 \color{fblue}

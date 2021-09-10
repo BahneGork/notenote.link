@@ -1,6 +1,4 @@
---- 
-title: Wyvern 
----
+---title: Wyvern---
 # Wyvern
 
 *Large dragon, unaligned*

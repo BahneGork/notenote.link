@@ -1,6 +1,4 @@
---- 
-title: Chimera 
----
+---title: Chimera---
 # Chimera
 
 *Large monstrosity, chaotic evil*

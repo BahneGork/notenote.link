@@ -1,6 +1,4 @@
---- 
-title: Subregion lists 
----
+---title: Subregion lists---
 #randomencounters  #subregionlist #subregion  
 Main: region  - campaign       Related:  session note
 

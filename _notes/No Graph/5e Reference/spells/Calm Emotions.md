@@ -1,6 +1,4 @@
---- 
-title: Calm Emotions 
----
+---title: Calm Emotions---
 # Calm Emotions
 
 *2nd-level enchantment*

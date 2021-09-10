@@ -1,6 +1,4 @@
---- 
-title: Actions in Combat 
----
+---title: Actions in Combat---
 # Actions in Combat
 
 When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.

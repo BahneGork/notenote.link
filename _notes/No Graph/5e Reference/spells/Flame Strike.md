@@ -1,6 +1,4 @@
---- 
-title: Flame Strike 
----
+---title: Flame Strike---
 # Flame Strike
 
 *5th-level evocation*

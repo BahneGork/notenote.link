@@ -1,6 +1,4 @@
---- 
-title: the sorrowful lady 
----
+---title: the sorrowful lady---
 #npc #dead #history 
 related:
 [[Tapestry of Grief]]

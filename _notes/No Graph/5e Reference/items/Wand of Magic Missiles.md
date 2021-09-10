@@ -1,6 +1,4 @@
---- 
-title: Wand of Magic Missiles 
----
+---title: Wand of Magic Missiles---
 # Wand of Magic Missiles
 
 *Wand, uncommon*

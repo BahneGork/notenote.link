@@ -1,6 +1,4 @@
---- 
-title: Figurine of Wondrous Power 
----
+---title: Figurine of Wondrous Power---
 # Figurine of Wondrous Power
 
 *Wondrous item, rarity by figurine*

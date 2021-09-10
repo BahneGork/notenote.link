@@ -1,6 +1,4 @@
---- 
-title: Folding Boat 
----
+---title: Folding Boat---
 # Folding Boat
 
 *Wondrous item, rare*

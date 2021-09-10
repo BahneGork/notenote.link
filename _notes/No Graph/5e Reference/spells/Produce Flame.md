@@ -1,6 +1,4 @@
---- 
-title: Produce Flame 
----
+---title: Produce Flame---
 # Produce Flame
 
 *Conjuration cantrip*

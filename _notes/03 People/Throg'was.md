@@ -1,6 +1,4 @@
---- 
-title: Throg'was 
----
+---title: Throg'was---
 ## “Throg’was”
 [[Throg’was]] translates to “those who seek to regain our honor”
 ## what are they

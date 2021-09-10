@@ -1,6 +1,4 @@
---- 
-title: Mammoth 
----
+---title: Mammoth---
 # Mammoth
 
 *Huge beast, unaligned*

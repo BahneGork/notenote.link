@@ -1,6 +1,4 @@
---- 
-title: Mimic 
----
+---title: Mimic---
 # Mimic
 
 *Medium monstrosity (shapechanger), neutral*

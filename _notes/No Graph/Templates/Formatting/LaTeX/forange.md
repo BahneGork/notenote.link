@@ -1,4 +1,2 @@
---- 
-title: forange 
----
+---title: forange---
 \color{forange}

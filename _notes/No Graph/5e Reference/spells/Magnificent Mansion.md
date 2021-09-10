@@ -1,6 +1,4 @@
---- 
-title: Magnificent Mansion 
----
+---title: Magnificent Mansion---
 # Magnificent Mansion
 
 *7th-level conjuration*

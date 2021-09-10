@@ -1,6 +1,4 @@
---- 
-title: Tiger 
----
+---title: Tiger---
 # Tiger
 
 *Large beast, unaligned*

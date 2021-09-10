@@ -1,6 +1,4 @@
---- 
-title: Octopus 
----
+---title: Octopus---
 # Octopus
 
 *Small beast, unaligned*

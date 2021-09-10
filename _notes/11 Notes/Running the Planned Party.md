@@ -1,6 +1,4 @@
---- 
-title: Running the Planned Party 
----
+---title: Running the Planned Party---
 # Running the Planned Party    
 Main:
 Related: [[annual founders celebration]]

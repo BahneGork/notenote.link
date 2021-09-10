@@ -1,6 +1,4 @@
---- 
-title: Fire Bolt 
----
+---title: Fire Bolt---
 # Fire Bolt
 
 *Evocation cantrip*

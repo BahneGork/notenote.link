@@ -1,6 +1,4 @@
---- 
-title: Guidance 
----
+---title: Guidance---
 # Guidance
 
 *Divination cantrip*

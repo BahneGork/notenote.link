@@ -1,6 +1,4 @@
---- 
-title: Giant Shark 
----
+---title: Giant Shark---
 # Giant Shark
 
 *Huge beast, unaligned*

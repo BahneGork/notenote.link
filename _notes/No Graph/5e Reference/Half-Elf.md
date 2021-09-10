@@ -1,6 +1,4 @@
---- 
-title: Half-Elf 
----
+---title: Half-Elf---
 # Half-Elf
 
 ### Half-Elf Traits

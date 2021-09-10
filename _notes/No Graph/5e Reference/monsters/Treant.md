@@ -1,6 +1,4 @@
---- 
-title: Treant 
----
+---title: Treant---
 # Treant
 
 *Huge plant, chaotic good*

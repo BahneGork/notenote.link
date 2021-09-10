@@ -1,6 +1,4 @@
---- 
-title: Basilisk 
----
+---title: Basilisk---
 # Basilisk
 
 *Medium monstrosity, unaligned*

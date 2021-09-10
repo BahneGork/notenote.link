@@ -1,6 +1,4 @@
---- 
-title: Book 
----
+---title: Book---
 ---
 tags: 📥️/📚️
 aliases: 

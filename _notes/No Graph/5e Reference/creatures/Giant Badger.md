@@ -1,6 +1,4 @@
---- 
-title: Giant Badger 
----
+---title: Giant Badger---
 # Giant Badger
 
 *Medium beast, unaligned*

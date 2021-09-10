@@ -1,6 +1,4 @@
---- 
-title: Poisonous Snake 
----
+---title: Poisonous Snake---
 # Poisonous Snake
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Robe of Eyes 
----
+---title: Robe of Eyes---
 # Robe of Eyes
 
 *Wondrous item, rare (requires attunement)*

@@ -1,6 +1,4 @@
---- 
-title: Arrow of Slaying 
----
+---title: Arrow of Slaying---
 # Arrow of Slaying
 
 *Weapon (arrow), very rare*

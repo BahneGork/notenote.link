@@ -1,6 +1,4 @@
---- 
-title: Rope of Entanglement 
----
+---title: Rope of Entanglement---
 # Rope of Entanglement
 
 *Wondrous item, rare*

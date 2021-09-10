@@ -1,6 +1,4 @@
---- 
-title: Hideous Laughter 
----
+---title: Hideous Laughter---
 # Hideous Laughter
 
 *1st-level enchantment*

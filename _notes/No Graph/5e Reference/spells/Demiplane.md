@@ -1,6 +1,4 @@
---- 
-title: Demiplane 
----
+---title: Demiplane---
 # Demiplane
 
 *8th-level conjuration*

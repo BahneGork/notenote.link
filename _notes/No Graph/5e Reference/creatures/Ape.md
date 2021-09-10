@@ -1,6 +1,4 @@
---- 
-title: Ape 
----
+---title: Ape---
 # Ape
 
 *Medium beast, unaligned*

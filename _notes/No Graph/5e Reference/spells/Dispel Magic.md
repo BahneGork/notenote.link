@@ -1,6 +1,4 @@
---- 
-title: Dispel Magic 
----
+---title: Dispel Magic---
 # Dispel Magic
 
 *3rd-level abjuration*

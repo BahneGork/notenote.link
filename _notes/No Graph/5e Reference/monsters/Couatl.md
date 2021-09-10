@@ -1,6 +1,4 @@
---- 
-title: Couatl 
----
+---title: Couatl---
 # Couatl
 
 *Medium celestial, lawful good*

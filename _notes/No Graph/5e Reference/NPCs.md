@@ -1,6 +1,4 @@
---- 
-title: NPCs 
----
+---title: NPCs---
 #NPCs
 
 - [[Acolyte]]

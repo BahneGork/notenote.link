@@ -1,6 +1,4 @@
---- 
-title: Counterspell 
----
+---title: Counterspell---
 # Counterspell
 
 *3rd-­level abjuration*

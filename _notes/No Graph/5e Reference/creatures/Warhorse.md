@@ -1,6 +1,4 @@
---- 
-title: Warhorse 
----
+---title: Warhorse---
 # Warhorse
 
 *Large beast, unaligned*

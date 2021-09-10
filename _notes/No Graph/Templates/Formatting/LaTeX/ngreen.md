@@ -1,4 +1,2 @@
---- 
-title: ngreen 
----
+---title: ngreen---
 \color{ngreen}

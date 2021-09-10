@@ -1,6 +1,4 @@
---- 
-title: Scorpion 
----
+---title: Scorpion---
 # Scorpion
 
 *Tiny beast, unaligned*

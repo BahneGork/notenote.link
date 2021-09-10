@@ -1,6 +1,4 @@
---- 
-title: Druid (NPC) 
----
+---title: Druid (NPC)---
 # Druid
 
 *Medium humanoid (any race), any alignment*

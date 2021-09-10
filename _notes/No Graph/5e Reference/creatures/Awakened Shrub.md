@@ -1,6 +1,4 @@
---- 
-title: Awakened Shrub 
----
+---title: Awakened Shrub---
 # Awakened Shrub
 
 *Small plant, unaligned*

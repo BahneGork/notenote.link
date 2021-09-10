@@ -1,6 +1,4 @@
---- 
-title: Sunbeam 
----
+---title: Sunbeam---
 # Sunbeam
 
 *6th-level evocation*

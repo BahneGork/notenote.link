@@ -1,6 +1,4 @@
---- 
-title: Deck of Many Things 
----
+---title: Deck of Many Things---
 # Deck of Many Things
 
 *Wondrous item, legendary*

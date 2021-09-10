@@ -1,6 +1,4 @@
---- 
-title: Potion of Gaseous Form 
----
+---title: Potion of Gaseous Form---
 # Potion of Gaseous Form
 
 *Potion, rare*

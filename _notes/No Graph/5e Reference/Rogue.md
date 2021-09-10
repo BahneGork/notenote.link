@@ -1,6 +1,4 @@
---- 
-title: Rogue 
----
+---title: Rogue---
 # Rogue
 
 ### Class Features

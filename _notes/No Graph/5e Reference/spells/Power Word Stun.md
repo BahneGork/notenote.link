@@ -1,6 +1,4 @@
---- 
-title: Power Word Stun 
----
+---title: Power Word Stun---
 # Power Word Stun
 
 *8th-level enchantment*

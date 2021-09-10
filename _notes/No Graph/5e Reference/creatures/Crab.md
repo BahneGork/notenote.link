@@ -1,6 +1,4 @@
---- 
-title: Crab 
----
+---title: Crab---
 # Crab
 
 *Tiny beast, unaligned*

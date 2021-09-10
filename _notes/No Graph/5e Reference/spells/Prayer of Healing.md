@@ -1,6 +1,4 @@
---- 
-title: Prayer of Healing 
----
+---title: Prayer of Healing---
 # Prayer of Healing
 
 *2nd-level evocation*

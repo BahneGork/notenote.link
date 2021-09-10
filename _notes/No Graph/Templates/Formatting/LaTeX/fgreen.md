@@ -1,4 +1,2 @@
---- 
-title: fgreen 
----
+---title: fgreen---
 \color{fgreen}

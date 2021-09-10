@@ -1,6 +1,4 @@
---- 
-title: Merfolk 
----
+---title: Merfolk---
 # Merfolk
 
 *Medium humanoid (merfolk), neutral*

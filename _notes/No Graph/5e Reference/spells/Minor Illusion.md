@@ -1,6 +1,4 @@
---- 
-title: Minor Illusion 
----
+---title: Minor Illusion---
 # Minor Illusion
 
 *Illusion cantrip*

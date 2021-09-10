@@ -1,6 +1,4 @@
---- 
-title: Recipe - Arrow of slaying 
----
+---title: Recipe - Arrow of slaying---
 #magicitemformula #recipe
 
 ### Arrow of Slaying

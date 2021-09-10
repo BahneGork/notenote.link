@@ -1,6 +1,4 @@
---- 
-title: Mule 
----
+---title: Mule---
 # Mule
 
 *Medium beast, unaligned*

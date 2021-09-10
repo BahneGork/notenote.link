@@ -1,6 +1,4 @@
---- 
-title: Dwarf 
----
+---title: Dwarf---
 # Dwarf
 
 ### Dwarf Traits

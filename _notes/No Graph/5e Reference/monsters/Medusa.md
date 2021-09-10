@@ -1,6 +1,4 @@
---- 
-title: Medusa 
----
+---title: Medusa---
 # Medusa
 
 *Medium monstrosity, lawful evil*

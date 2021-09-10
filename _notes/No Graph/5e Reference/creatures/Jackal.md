@@ -1,6 +1,4 @@
---- 
-title: Jackal 
----
+---title: Jackal---
 # Jackal
 
 *Small beast, unaligned*

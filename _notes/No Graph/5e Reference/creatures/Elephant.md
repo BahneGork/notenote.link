@@ -1,6 +1,4 @@
---- 
-title: Elephant 
----
+---title: Elephant---
 # Elephant
 
 *Huge beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Mermaid Flow 
----
+---title: Mermaid Flow---
 ```mermaid
 graph LR
 	%%==============%%

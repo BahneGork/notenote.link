@@ -1,6 +1,4 @@
---- 
-title: Lion 
----
+---title: Lion---
 # Lion
 
 *Large beast, unaligned*

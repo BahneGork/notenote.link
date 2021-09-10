@@ -1,6 +1,4 @@
---- 
-title: Pegasus 
----
+---title: Pegasus---
 # Pegasus
 
 *Large celestial, chaotic good*

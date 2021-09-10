@@ -1,6 +1,4 @@
---- 
-title: Doppelganger 
----
+---title: Doppelganger---
 # Doppelganger
 
 *Medium monstrosity (shapechanger), neutral*

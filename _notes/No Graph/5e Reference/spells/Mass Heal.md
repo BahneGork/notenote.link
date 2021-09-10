@@ -1,6 +1,4 @@
---- 
-title: Mass Heal 
----
+---title: Mass Heal---
 # Mass Heal
 
 *9th-level evocation*

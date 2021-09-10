@@ -1,6 +1,4 @@
---- 
-title: Tongues 
----
+---title: Tongues---
 # Tongues
 
 *3rd-level divination*

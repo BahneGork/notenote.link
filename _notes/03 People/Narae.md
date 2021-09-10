@@ -1,6 +1,4 @@
---- 
-title: Narae 
----
+---title: Narae---
 ---
 alias: 'Narae'
 type: 'pc'

@@ -1,6 +1,4 @@
---- 
-title: _Next Session 30 
----
+---title: _Next Session 30---
 # Session 30 - Next 
 #next 
 Date: Lørdag 18 Sep 2021

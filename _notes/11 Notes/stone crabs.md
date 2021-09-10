@@ -1,6 +1,4 @@
---- 
-title: stone crabs 
----
+---title: stone crabs---
 #monster #Mistyfalls #clickclawmoors
 
 Main: [[Click claw moors]]

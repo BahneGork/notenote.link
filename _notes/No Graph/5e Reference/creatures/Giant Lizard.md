@@ -1,6 +1,4 @@
---- 
-title: Giant Lizard 
----
+---title: Giant Lizard---
 # Giant Lizard
 
 *Large beast, unaligned*

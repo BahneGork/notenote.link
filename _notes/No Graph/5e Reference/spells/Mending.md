@@ -1,6 +1,4 @@
---- 
-title: Mending 
----
+---title: Mending---
 # Mending
 
 *Transmutation cantrip*

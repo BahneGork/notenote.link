@@ -1,6 +1,4 @@
---- 
-title: Blur 
----
+---title: Blur---
 # Blur
 
 *2nd-level illusion*

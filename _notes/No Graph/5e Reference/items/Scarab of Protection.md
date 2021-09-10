@@ -1,6 +1,4 @@
---- 
-title: Scarab of Protection 
----
+---title: Scarab of Protection---
 # Scarab of Protection
 
 *Wondrous item, legendary (requires attunement)*

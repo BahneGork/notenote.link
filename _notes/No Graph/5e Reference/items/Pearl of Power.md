@@ -1,6 +1,4 @@
---- 
-title: Pearl of Power 
----
+---title: Pearl of Power---
 # Pearl of Power
 
 *Wondrous item, uncommon (requires attunement by a spellcaster)*

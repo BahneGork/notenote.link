@@ -1,6 +1,4 @@
---- 
-title: Xorn 
----
+---title: Xorn---
 # Xorn
 
 *Medium elemental, neutral*

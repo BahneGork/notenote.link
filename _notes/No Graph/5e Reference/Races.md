@@ -1,6 +1,4 @@
---- 
-title: Races 
----
+---title: Races---
 # Races
 
 ## Racial Traits

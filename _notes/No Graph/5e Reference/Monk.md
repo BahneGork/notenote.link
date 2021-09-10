@@ -1,6 +1,4 @@
---- 
-title: Monk 
----
+---title: Monk---
 # Monk
 
 ### Class Features

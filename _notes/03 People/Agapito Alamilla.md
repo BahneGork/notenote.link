@@ -1,6 +1,4 @@
---- 
-title: Agapito Alamilla 
----
+---title: Agapito Alamilla---
 #npc #delios #theblackportrait
 
 Main: [[Black portrait inn]]

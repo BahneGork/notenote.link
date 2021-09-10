@@ -1,6 +1,4 @@
---- 
-title: Clone 
----
+---title: Clone---
 # Clone
 
 *8th-level necromancy*

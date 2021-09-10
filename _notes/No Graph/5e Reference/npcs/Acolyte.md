@@ -1,6 +1,4 @@
---- 
-title: Acolyte 
----
+---title: Acolyte---
 # Acolyte
 
 *Medium humanoid (any race), any alignment*

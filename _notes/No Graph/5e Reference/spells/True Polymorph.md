@@ -1,6 +1,4 @@
---- 
-title: True Polymorph 
----
+---title: True Polymorph---
 # True Polymorph
 
 *9th-level transmutation*

@@ -1,6 +1,4 @@
---- 
-title: Telepathic Bond 
----
+---title: Telepathic Bond---
 # Telepathic Bond
 
 *5th-level divination (ritual)*

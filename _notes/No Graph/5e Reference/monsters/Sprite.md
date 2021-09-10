@@ -1,6 +1,4 @@
---- 
-title: Sprite 
----
+---title: Sprite---
 # Sprite
 
 *Tiny fey, neutral good*

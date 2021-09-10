@@ -1,6 +1,4 @@
---- 
-title: Vampires 
----
+---title: Vampires---
 # Vampires
 
 

@@ -1,4 +1,2 @@
---- 
-title: fred 
----
+---title: fred---
 \color{fred}

@@ -1,6 +1,4 @@
---- 
-title: Well of Many Worlds 
----
+---title: Well of Many Worlds---
 # Well of Many Worlds
 
 *Wondrous item, legendary*

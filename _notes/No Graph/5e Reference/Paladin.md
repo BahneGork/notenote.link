@@ -1,6 +1,4 @@
---- 
-title: Paladin 
----
+---title: Paladin---
 # Paladin
 
 ### Class Features

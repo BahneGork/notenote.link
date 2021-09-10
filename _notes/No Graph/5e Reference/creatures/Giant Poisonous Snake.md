@@ -1,6 +1,4 @@
---- 
-title: Giant Poisonous Snake 
----
+---title: Giant Poisonous Snake---
 # Giant Poisonous Snake
 
 *Medium beast, unaligned*

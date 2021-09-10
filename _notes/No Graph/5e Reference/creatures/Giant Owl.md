@@ -1,6 +1,4 @@
---- 
-title: Giant Owl 
----
+---title: Giant Owl---
 # Giant Owl
 
 *Large beast, neutral*

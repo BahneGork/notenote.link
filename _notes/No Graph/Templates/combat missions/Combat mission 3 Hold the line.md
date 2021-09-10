@@ -1,6 +1,4 @@
---- 
-title: Combat mission 3 Hold the line 
----
+---title: Combat mission 3 Hold the line---
 ### Mission 3: Hold the Line
 
 _“We are the 300!_

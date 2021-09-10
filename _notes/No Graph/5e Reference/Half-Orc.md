@@ -1,6 +1,4 @@
---- 
-title: Half-Orc 
----
+---title: Half-Orc---
 # Half-Orc
 
 ### Half-Orc Traits

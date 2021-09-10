@@ -1,6 +1,4 @@
---- 
-title: Baboon 
----
+---title: Baboon---
 # Baboon
 
 *Small beast, unaligned*

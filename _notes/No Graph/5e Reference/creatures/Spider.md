@@ -1,6 +1,4 @@
---- 
-title: Spider 
----
+---title: Spider---
 # Spider
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Wizard 
----
+---title: Wizard---
 # Wizard
 
 ### Class Features

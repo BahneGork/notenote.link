@@ -1,4 +1,2 @@
---- 
-title: norange 
----
+---title: norange---
 \color{norange}

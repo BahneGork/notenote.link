@@ -1,6 +1,4 @@
---- 
-title: Lightning Bolt 
----
+---title: Lightning Bolt---
 # Lightning Bolt
 
 *3rd-level evocation*

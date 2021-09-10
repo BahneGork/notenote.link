@@ -1,6 +1,4 @@
---- 
-title: Passwall 
----
+---title: Passwall---
 # Passwall
 
 *5th-level transmutation*

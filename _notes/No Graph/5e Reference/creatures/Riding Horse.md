@@ -1,6 +1,4 @@
---- 
-title: Riding Horse 
----
+---title: Riding Horse---
 # Riding Horse
 
 *Large beast, unaligned*

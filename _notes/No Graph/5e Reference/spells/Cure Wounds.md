@@ -1,6 +1,4 @@
---- 
-title: Cure Wounds 
----
+---title: Cure Wounds---
 # Cure Wounds
 
 *1st-level evocation*

@@ -1,6 +1,4 @@
---- 
-title: Goodberry 
----
+---title: Goodberry---
 # Goodberry
 
 *1st-level transmutation*

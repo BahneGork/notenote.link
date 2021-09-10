@@ -1,6 +1,4 @@
---- 
-title: Factions MOC 
----
+---title: Factions MOC---
 #MOC #factions #reputation
 
 §"reputation"

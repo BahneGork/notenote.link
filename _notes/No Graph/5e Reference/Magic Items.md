@@ -1,6 +1,4 @@
---- 
-title: Magic Items 
----
+---title: Magic Items---
 # Magic Items
 - [[Adamantine Armor]]
 - [[Ammunition, +1, +2, or +3]]

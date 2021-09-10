@@ -1,6 +1,4 @@
---- 
-title: Detect Poison and Disease 
----
+---title: Detect Poison and Disease---
 # Detect Poison and Disease
 
 *1st-level divination (ritual)*

@@ -1,3 +1,1 @@
---- 
-title: council of three 
----
+---title: council of three---

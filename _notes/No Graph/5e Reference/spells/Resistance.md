@@ -1,6 +1,4 @@
---- 
-title: Resistance 
----
+---title: Resistance---
 # Resistance
 
 *Abjuration cantrip*

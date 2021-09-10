@@ -1,6 +1,4 @@
---- 
-title: Instant Fortress 
----
+---title: Instant Fortress---
 # Instant Fortress
 
 *Wondrous item, rare*

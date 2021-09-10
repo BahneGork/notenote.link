@@ -1,6 +1,4 @@
---- 
-title: Druidcraft 
----
+---title: Druidcraft---
 # Druidcraft
 
 *Transmutation cantrip*

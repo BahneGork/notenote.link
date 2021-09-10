@@ -1,6 +1,4 @@
---- 
-title: Talisman of Ultimate Evil 
----
+---title: Talisman of Ultimate Evil---
 # Talisman of Ultimate Evil
 
 *Wondrous item, legendary (requires attunement by a creature of evil alignment)*

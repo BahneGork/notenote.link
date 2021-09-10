@@ -1,6 +1,4 @@
---- 
-title: Protection from Energy 
----
+---title: Protection from Energy---
 # Protection from Energy
 
 *3rd-level abjuration*

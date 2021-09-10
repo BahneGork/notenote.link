@@ -1,6 +1,4 @@
---- 
-title: Arcane Lock 
----
+---title: Arcane Lock---
 # Arcane Lock
 
 *2nd-level abjuration*

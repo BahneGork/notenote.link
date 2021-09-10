@@ -1,6 +1,4 @@
---- 
-title: Mage Hand 
----
+---title: Mage Hand---
 # Mage Hand
 
 *Conjuration cantrip*

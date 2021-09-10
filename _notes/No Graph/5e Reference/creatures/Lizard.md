@@ -1,6 +1,4 @@
---- 
-title: Lizard 
----
+---title: Lizard---
 # Lizard
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Divine Word 
----
+---title: Divine Word---
 # Divine Word
 
 *7th-level evocation*

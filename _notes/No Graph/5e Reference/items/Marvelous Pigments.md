@@ -1,6 +1,4 @@
---- 
-title: Marvelous Pigments 
----
+---title: Marvelous Pigments---
 # Marvelous Pigments
 
 *Wondrous item, very rare*

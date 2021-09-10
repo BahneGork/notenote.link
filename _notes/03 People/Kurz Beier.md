@@ -1,6 +1,4 @@
---- 
-title: Kurz Beier 
----
+---title: Kurz Beier---
 #npc #history #survivor #blackoakfight #house-Volantis 
 Main: [[The black oak fight]]
 Related: [[people MOC]], [[Logged -  Session 28]]

@@ -1,6 +1,4 @@
---- 
-title: Wight 
----
+---title: Wight---
 # Wight
 
 *Medium undead, neutral evil*

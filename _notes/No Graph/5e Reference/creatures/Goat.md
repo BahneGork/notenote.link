@@ -1,6 +1,4 @@
---- 
-title: Goat 
----
+---title: Goat---
 # Goat
 
 *Medium beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Fog Cloud 
----
+---title: Fog Cloud---
 # Fog Cloud
 
 *1st-level conjuration*

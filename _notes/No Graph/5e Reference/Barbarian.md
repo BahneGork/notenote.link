@@ -1,6 +1,4 @@
---- 
-title: Barbarian 
----
+---title: Barbarian---
 # Barbarian
 
 ### Class Features

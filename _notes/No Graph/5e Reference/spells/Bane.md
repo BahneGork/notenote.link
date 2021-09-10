@@ -1,6 +1,4 @@
---- 
-title: Bane 
----
+---title: Bane---
 # Bane
 
 *1st-level enchantment*

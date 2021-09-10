@@ -1,6 +1,4 @@
---- 
-title: Thug 
----
+---title: Thug---
 # Thug
 
 *Medium humanoid (any race), any non-good alignment*

@@ -1,6 +1,4 @@
---- 
-title: Slow 
----
+---title: Slow---
 # Slow
 
 *3rd-level transmutation*

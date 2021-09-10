@@ -1,6 +1,4 @@
---- 
-title: Succubus slash Incubus 
----
+---title: Succubus slash Incubus---
 # Succubus/Incubus
 
 *Medium fiend (shapechanger), neutral evil*

@@ -1,6 +1,4 @@
---- 
-title: Hippogriff 
----
+---title: Hippogriff---
 # Hippogriff
 
 *Large monstrosity, unaligned*

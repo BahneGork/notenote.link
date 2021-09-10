@@ -1,6 +1,4 @@
---- 
-title: The Shadow Company MOC 
----
+---title: The Shadow Company MOC---
 #playerfaction #playercharacters 
 
 # The Shadow Company 

@@ -1,6 +1,4 @@
---- 
-title: Genies 
----
+---title: Genies---
 # Genies
 
 

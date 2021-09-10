@@ -1,6 +1,4 @@
---- 
-title: Stinking Cloud 
----
+---title: Stinking Cloud---
 # Stinking Cloud
 
 *3rd-level conjuration*

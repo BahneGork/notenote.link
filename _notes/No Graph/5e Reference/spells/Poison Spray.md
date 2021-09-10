@@ -1,6 +1,4 @@
---- 
-title: Poison Spray 
----
+---title: Poison Spray---
 # Poison Spray
 
 *Conjuration cantrip*

@@ -1,6 +1,4 @@
---- 
-title: Winged Boots 
----
+---title: Winged Boots---
 # Winged Boots
 
 *Wondrous item, uncommon (requires attunement)*

@@ -1,6 +1,4 @@
---- 
-title: Control Water 
----
+---title: Control Water---
 # Control Water
 
 *4th-level transmutation*

@@ -1,4 +1,2 @@
---- 
-title: Today 
----
+---title: Today---
 <%tp.date.now("YYYY-MM-DD")%>

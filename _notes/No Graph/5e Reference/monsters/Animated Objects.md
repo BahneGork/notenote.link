@@ -1,6 +1,4 @@
---- 
-title: Animated Objects 
----
+---title: Animated Objects---
 # Animated Objects
 
 

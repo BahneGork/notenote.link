@@ -1,6 +1,4 @@
---- 
-title: Giant Goat 
----
+---title: Giant Goat---
 # Giant Goat
 
 *Large beast, unaligned*

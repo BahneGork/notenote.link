@@ -1,6 +1,4 @@
---- 
-title: Jeweler's Tools 
----
+---title: Jeweler's Tools---
 # Jeweler's Tools
 Main:
 Related: [[Tools]]

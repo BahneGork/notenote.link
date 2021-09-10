@@ -1,6 +1,4 @@
---- 
-title: Sea Horse 
----
+---title: Sea Horse---
 # Sea Horse
 
 *Tiny beast, unaligned*

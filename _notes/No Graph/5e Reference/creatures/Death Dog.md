@@ -1,6 +1,4 @@
---- 
-title: Death Dog 
----
+---title: Death Dog---
 # Death Dog
 
 *Medium monstrosity, neutral evil*

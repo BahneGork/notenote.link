@@ -1,6 +1,4 @@
---- 
-title: Teleport 
----
+---title: Teleport---
 # Teleport
 
 *7th-level conjuration*

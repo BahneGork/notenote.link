@@ -1,6 +1,4 @@
---- 
-title: Arendur Rising Campaign MOC 
----
+---title: Arendur Rising Campaign MOC---
 ---
 alias: [Campaign]
 ---

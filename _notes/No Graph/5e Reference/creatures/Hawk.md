@@ -1,6 +1,4 @@
---- 
-title: Hawk 
----
+---title: Hawk---
 # Hawk
 
 *Tiny beast, unaligned*

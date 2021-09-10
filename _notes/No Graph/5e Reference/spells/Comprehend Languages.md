@@ -1,6 +1,4 @@
---- 
-title: Comprehend Languages 
----
+---title: Comprehend Languages---
 # Comprehend Languages
 
 *1st-level divination (ritual)*

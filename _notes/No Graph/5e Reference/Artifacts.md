@@ -1,6 +1,4 @@
---- 
-title: Artifacts 
----
+---title: Artifacts---
 # Artifacts
 
 ### Orb of Dragonkind

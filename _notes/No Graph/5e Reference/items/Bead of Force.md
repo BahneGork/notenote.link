@@ -1,6 +1,4 @@
---- 
-title: Bead of Force 
----
+---title: Bead of Force---
 # Bead of Force
 
 *Wondrous item, rare*

@@ -1,6 +1,4 @@
---- 
-title: Mage 
----
+---title: Mage---
 # Mage
 
 *Medium humanoid (any race), any alignment*

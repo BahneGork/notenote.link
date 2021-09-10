@@ -1,6 +1,4 @@
---- 
-title: +Secrets Revealed 
----
+---title: +Secrets Revealed---
 # Secrets Revealed about Time 
 Main:
 Related: [[The black oak fight]]

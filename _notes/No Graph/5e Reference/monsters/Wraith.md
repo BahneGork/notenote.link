@@ -1,6 +1,4 @@
---- 
-title: Wraith 
----
+---title: Wraith---
 # Wraith
 
 *Medium undead, neutral evil*

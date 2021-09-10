@@ -1,6 +1,4 @@
---- 
-title: Weasel 
----
+---title: Weasel---
 # Weasel
 
 *Tiny beast, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Crafting 
----
+---title: Crafting---
 [[Crafting]]
 [[Recipes]]
 [[formula]]

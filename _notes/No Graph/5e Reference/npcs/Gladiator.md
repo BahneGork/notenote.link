@@ -1,6 +1,4 @@
---- 
-title: Gladiator 
----
+---title: Gladiator---
 # Gladiator
 
 *Medium humanoid (any race), any alignment*

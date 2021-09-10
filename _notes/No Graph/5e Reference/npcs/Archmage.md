@@ -1,6 +1,4 @@
---- 
-title: Archmage 
----
+---title: Archmage---
 # Archmage
 
 *Medium humanoid (any race), any alignment*

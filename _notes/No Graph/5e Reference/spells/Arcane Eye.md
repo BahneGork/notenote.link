@@ -1,6 +1,4 @@
---- 
-title: Arcane Eye 
----
+---title: Arcane Eye---
 # Arcane Eye
 
 *4th-level divination*

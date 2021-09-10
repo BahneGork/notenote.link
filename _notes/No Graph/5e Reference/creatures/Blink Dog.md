@@ -1,6 +1,4 @@
---- 
-title: Blink Dog 
----
+---title: Blink Dog---
 # Blink Dog
 
 *Medium fey, lawful good*

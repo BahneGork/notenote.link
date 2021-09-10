@@ -1,6 +1,4 @@
---- 
-title: Glibness 
----
+---title: Glibness---
 # Glibness
 
 *8th-level transmutation*

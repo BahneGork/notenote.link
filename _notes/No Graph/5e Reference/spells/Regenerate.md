@@ -1,6 +1,4 @@
---- 
-title: Regenerate 
----
+---title: Regenerate---
 # Regenerate
 
 *7th-level transmutation*

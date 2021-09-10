@@ -1,6 +1,4 @@
---- 
-title: Fear 
----
+---title: Fear---
 # Fear
 
 *3rd-level illusion*

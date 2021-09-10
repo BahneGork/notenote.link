@@ -1,6 +1,4 @@
---- 
-title: Deck of Illusions 
----
+---title: Deck of Illusions---
 # Deck of Illusions
 
 *Wondrous item, uncommon*

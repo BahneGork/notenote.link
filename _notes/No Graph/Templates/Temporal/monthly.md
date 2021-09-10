@@ -1,6 +1,4 @@
---- 
-title: monthly 
----
+---title: monthly---
 ### Monthly Review:
 %% This template Requires the Templater plugin %%
 [[<%tp.date.now("YYYY-[M]MM", -27)%>]] <== <button class="date_button_today">This Month</button> ==> [[<%tp.date.now("YYYY-[M]MM", 27)%>]]

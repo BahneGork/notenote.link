@@ -1,6 +1,4 @@
---- 
-title: Message 
----
+---title: Message---
 # Message
 
 *Transmutation cantrip*

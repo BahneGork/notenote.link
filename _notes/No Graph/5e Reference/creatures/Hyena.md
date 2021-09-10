@@ -1,6 +1,4 @@
---- 
-title: Hyena 
----
+---title: Hyena---
 # Hyena
 
 *Medium beast, unaligned*

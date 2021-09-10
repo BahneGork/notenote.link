@@ -1,6 +1,4 @@
---- 
-title: ubønhørlige 
----
+---title: ubønhørlige---
 #ord
 Lader sig ikke ombestemme eller formilde.
 synonym: ubÃ¸jelig, nÃ¥delÃ¸s

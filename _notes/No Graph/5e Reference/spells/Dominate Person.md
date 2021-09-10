@@ -1,6 +1,4 @@
---- 
-title: Dominate Person 
----
+---title: Dominate Person---
 # Dominate Person
 
 *5th-level enchantment*

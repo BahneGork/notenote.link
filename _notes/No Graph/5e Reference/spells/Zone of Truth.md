@@ -1,6 +1,4 @@
---- 
-title: Zone of Truth 
----
+---title: Zone of Truth---
 # Zone of Truth
 
 *2nd-level enchantment*

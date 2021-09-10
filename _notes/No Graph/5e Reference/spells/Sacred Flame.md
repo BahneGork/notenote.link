@@ -1,6 +1,4 @@
---- 
-title: Sacred Flame 
----
+---title: Sacred Flame---
 # Sacred Flame
 
 *Evocation cantrip*

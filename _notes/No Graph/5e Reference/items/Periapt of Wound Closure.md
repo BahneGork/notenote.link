@@ -1,6 +1,4 @@
---- 
-title: Periapt of Wound Closure 
----
+---title: Periapt of Wound Closure---
 # Periapt of Wound Closure
 
 *Wondrous item, uncommon (requires attunement)*

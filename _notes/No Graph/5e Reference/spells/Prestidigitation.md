@@ -1,6 +1,4 @@
---- 
-title: Prestidigitation 
----
+---title: Prestidigitation---
 # Prestidigitation
 
 *Transmutation cantrip*

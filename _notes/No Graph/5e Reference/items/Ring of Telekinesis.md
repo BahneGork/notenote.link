@@ -1,6 +1,4 @@
---- 
-title: Ring of Telekinesis 
----
+---title: Ring of Telekinesis---
 # Ring of Telekinesis
 
 *Ring, very rare (requires attunement)*

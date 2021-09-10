@@ -1,6 +1,4 @@
---- 
-title: Pseudodragon 
----
+---title: Pseudodragon---
 # Pseudodragon
 
 *Tiny dragon, neutral good*

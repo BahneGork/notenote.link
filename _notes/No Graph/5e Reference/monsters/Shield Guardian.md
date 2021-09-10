@@ -1,6 +1,4 @@
---- 
-title: Shield Guardian 
----
+---title: Shield Guardian---
 # Shield Guardian
 
 *Large construct, unaligned*

@@ -1,6 +1,4 @@
---- 
-title: Sphere of Annihilation 
----
+---title: Sphere of Annihilation---
 # Sphere of Annihilation
 
 *Wondrous item, legendary*

@@ -1,6 +1,4 @@
---- 
-title: Contingency 
----
+---title: Contingency---
 # Contingency
 
 *6th-level evocation*

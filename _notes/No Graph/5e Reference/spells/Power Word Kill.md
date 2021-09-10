@@ -1,6 +1,4 @@
---- 
-title: Power Word Kill 
----
+---title: Power Word Kill---
 # Power Word Kill
 
 *9th-level enchantment*

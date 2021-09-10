@@ -1,6 +1,4 @@
---- 
-title: Otyugh 
----
+---title: Otyugh---
 # Otyugh
 
 *Large aberration, neutral*

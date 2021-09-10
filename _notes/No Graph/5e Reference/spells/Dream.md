@@ -1,6 +1,4 @@
---- 
-title: Dream 
----
+---title: Dream---
 # Dream
 
 *5th-level illusion*

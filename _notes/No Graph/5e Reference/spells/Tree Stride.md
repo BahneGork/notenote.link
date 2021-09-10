@@ -1,6 +1,4 @@
---- 
-title: Tree Stride 
----
+---title: Tree Stride---
 # Tree Stride
 
 *5th-level conjuration*

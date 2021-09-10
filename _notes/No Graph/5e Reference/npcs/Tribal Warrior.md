@@ -1,6 +1,4 @@
---- 
-title: Tribal Warrior 
----
+---title: Tribal Warrior---
 # Tribal Warrior
 
 *Medium humanoid (any race), any alignment*

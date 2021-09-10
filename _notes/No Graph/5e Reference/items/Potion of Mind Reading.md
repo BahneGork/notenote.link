@@ -1,6 +1,4 @@
---- 
-title: Potion of Mind Reading 
----
+---title: Potion of Mind Reading---
 # Potion of Mind Reading
 
 *Potion, rare*

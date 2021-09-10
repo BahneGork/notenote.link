@@ -1,6 +1,4 @@
---- 
-title: Commune with Nature 
----
+---title: Commune with Nature---
 # Commune with Nature
 
 *5th-level divination (ritual)*

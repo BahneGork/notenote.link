@@ -1,6 +1,4 @@
---- 
-title: Mastiff 
----
+---title: Mastiff---
 # Mastiff
 
 *Medium beast, unaligned*

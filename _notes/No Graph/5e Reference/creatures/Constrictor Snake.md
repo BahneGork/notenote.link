@@ -1,6 +1,4 @@
---- 
-title: Constrictor Snake 
----
+---title: Constrictor Snake---
 # Constrictor Snake
 
 *Large beast, unaligned*

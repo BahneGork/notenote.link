@@ -1,6 +1,4 @@
---- 
-title: Daylight 
----
+---title: Daylight---
 # Daylight
 
 *3rd-level evocation*

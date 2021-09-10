@@ -1,6 +1,4 @@
---- 
-title: Compulsion 
----
+---title: Compulsion---
 # Compulsion
 
 *4th-­level enchantment*

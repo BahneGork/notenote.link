@@ -1,6 +1,4 @@
---- 
-title: The Heroes MOC 
----
+---title: The Heroes MOC---
 #MOC #players #playercharacters #playerfaction #retainers 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related:
 # The Heroes MOC

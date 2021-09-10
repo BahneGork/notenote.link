@@ -1,6 +1,4 @@
---- 
-title: Reincarnate 
----
+---title: Reincarnate---
 # Reincarnate
 
 *5th-level transmutation*

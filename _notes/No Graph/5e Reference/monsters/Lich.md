@@ -1,6 +1,4 @@
---- 
-title: Lich 
----
+---title: Lich---
 # Lich
 
 *Medium undead, any evil alignment*

@@ -1,6 +1,4 @@
---- 
-title: Headband of Intellect 
----
+---title: Headband of Intellect---
 # Headband of Intellect
 
 *Wondrous item, uncommon (requires attunement)*

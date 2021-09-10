@@ -1,6 +1,4 @@
---- 
-title: Tiefling 
----
+---title: Tiefling---
 # Tiefling
 
 ### Tiefling Traits

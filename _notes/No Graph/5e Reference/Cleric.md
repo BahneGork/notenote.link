@@ -1,6 +1,4 @@
---- 
-title: Cleric 
----
+---title: Cleric---
 # Cleric
 
 ### Class Features

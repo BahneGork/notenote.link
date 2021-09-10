@@ -1,6 +1,4 @@
---- 
-title: Detect Magic 
----
+---title: Detect Magic---
 # Detect Magic
 
 *1st-level divination (ritual)*

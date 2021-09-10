@@ -1,6 +1,4 @@
---- 
-title: Delios Festival Script 
----
+---title: Delios Festival Script---
 #script #delios #festival
 [[Delios]] [[annual founders celebration|founders festival]]
 

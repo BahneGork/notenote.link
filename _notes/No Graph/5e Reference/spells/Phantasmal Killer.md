@@ -1,6 +1,4 @@
---- 
-title: Phantasmal Killer 
----
+---title: Phantasmal Killer---
 # Phantasmal Killer
 
 *4th-level illusion*

@@ -1,6 +1,4 @@
---- 
-title: Mirror Image 
----
+---title: Mirror Image---
 # Mirror Image
 
 *2nd-level illusion*

@@ -1,6 +1,4 @@
---- 
-title: Harpy 
----
+---title: Harpy---
 # Harpy
 
 *Medium monstrosity, chaotic evil*

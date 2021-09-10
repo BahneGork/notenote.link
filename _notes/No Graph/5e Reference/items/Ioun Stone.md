@@ -1,6 +1,4 @@
---- 
-title: Ioun Stone 
----
+---title: Ioun Stone---
 # Ioun Stone
 
 *Wondrous item, rarity varies (requires attunement)*

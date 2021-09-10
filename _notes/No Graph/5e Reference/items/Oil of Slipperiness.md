@@ -1,6 +1,4 @@
---- 
-title: Oil of Slipperiness 
----
+---title: Oil of Slipperiness---
 # Oil of Slipperiness
 
 *Potion, uncommon*

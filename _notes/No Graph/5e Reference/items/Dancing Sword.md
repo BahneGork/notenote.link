@@ -1,6 +1,4 @@
---- 
-title: Dancing Sword 
----
+---title: Dancing Sword---
 # Dancing Sword
 
 *Weapon (any sword), very rare (requires attunement)*

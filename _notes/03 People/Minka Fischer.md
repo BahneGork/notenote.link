@@ -1,6 +1,4 @@
---- 
-title: Minka Fischer 
----
+---title: Minka Fischer---
 #npc  #🗣 #delios 
 Main: [[people MOC]]
 Related: [[Anden tavern]], [[Delios]]

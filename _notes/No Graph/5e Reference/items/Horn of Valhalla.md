@@ -1,6 +1,4 @@
---- 
-title: Horn of Valhalla 
----
+---title: Horn of Valhalla---
 # Horn of Valhalla
 
 *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*

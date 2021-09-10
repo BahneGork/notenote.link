@@ -1,6 +1,4 @@
---- 
-title: Enlarge slash Reduce 
----
+---title: Enlarge slash Reduce---
 # Enlarge/Reduce
 
 *2nd-level transmutation*

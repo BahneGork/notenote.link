@@ -1,6 +1,4 @@
---- 
-title: Wall of Force 
----
+---title: Wall of Force---
 # Wall of Force
 
 *5th-level evocation*

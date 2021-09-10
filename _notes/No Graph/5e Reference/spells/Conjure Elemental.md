@@ -1,6 +1,4 @@
---- 
-title: Conjure Elemental 
----
+---title: Conjure Elemental---
 # Conjure Elemental
 
 *5th-level conjuration*

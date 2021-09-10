@@ -1,6 +1,4 @@
---- 
-title: Worg 
----
+---title: Worg---
 # Worg
 
 *Large monstrosity, neutral evil*
