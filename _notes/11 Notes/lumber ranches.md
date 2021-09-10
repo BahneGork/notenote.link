@@ -1,5 +1,5 @@
 --- 
-title:lumber ranches 
+title: lumber ranches 
 ---
 ---
 alias: 'lumber ranch families, Delios lumber farms, Delios Ranches'

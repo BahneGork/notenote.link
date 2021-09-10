@@ -1,5 +1,5 @@
 --- 
-title:Veteran 
+title: Veteran 
 ---
 # Veteran
 

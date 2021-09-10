@@ -1,5 +1,5 @@
 --- 
-title:Faustus Antili 
+title: Faustus Antili 
 ---
 #npc #thefulcrom #minorguild #trade #fixer 
 [[Faustus Antili]] is the faceman of a minor guild [[The Fulcrom]].

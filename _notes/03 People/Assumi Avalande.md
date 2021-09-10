@@ -1,5 +1,5 @@
 --- 
-title:Assumi Avalande 
+title: Assumi Avalande 
 ---
 ---
 alias: 'Assumi'

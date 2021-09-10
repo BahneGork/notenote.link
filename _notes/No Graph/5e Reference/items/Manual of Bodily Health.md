@@ -1,5 +1,5 @@
 --- 
-title:Manual of Bodily Health 
+title: Manual of Bodily Health 
 ---
 # Manual of Bodily Health
 

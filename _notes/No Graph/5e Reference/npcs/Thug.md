@@ -1,5 +1,5 @@
 --- 
-title:Thug 
+title: Thug 
 ---
 # Thug
 

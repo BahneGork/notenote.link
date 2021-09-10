@@ -1,5 +1,5 @@
 --- 
-title:Power Word Kill 
+title: Power Word Kill 
 ---
 # Power Word Kill
 

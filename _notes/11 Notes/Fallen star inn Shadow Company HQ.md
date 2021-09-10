@@ -1,5 +1,5 @@
 --- 
-title:Fallen star inn Shadow Company HQ 
+title: Fallen star inn Shadow Company HQ 
 ---
 # Fallen star inn Shadow Company HQ
 Main: [[The Shadow Company MOC]]

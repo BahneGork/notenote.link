@@ -1,5 +1,5 @@
 --- 
-title:Fog Cloud 
+title: Fog Cloud 
 ---
 # Fog Cloud
 

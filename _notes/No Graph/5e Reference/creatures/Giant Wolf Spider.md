@@ -1,5 +1,5 @@
 --- 
-title:Giant Wolf Spider 
+title: Giant Wolf Spider 
 ---
 # Giant Wolf Spider
 

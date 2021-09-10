@@ -1,5 +1,5 @@
 --- 
-title:Efreeti Bottle 
+title: Efreeti Bottle 
 ---
 # Efreeti Bottle
 

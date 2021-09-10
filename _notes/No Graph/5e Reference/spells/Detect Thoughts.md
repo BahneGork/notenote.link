@@ -1,5 +1,5 @@
 --- 
-title:Detect Thoughts 
+title: Detect Thoughts 
 ---
 # Detect Thoughts
 

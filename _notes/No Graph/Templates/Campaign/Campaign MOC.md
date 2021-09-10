@@ -1,5 +1,5 @@
 --- 
-title:Campaign MOC 
+title: Campaign MOC 
 ---
 ---
 alias: [Campaign]

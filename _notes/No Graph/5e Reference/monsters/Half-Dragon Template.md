@@ -1,5 +1,5 @@
 --- 
-title:Half-Dragon Template 
+title: Half-Dragon Template 
 ---
 # Half-Dragon Template
 

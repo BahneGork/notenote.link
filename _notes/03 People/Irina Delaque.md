@@ -1,5 +1,5 @@
 --- 
-title:Irina Delaque 
+title: Irina Delaque 
 ---
 #npc #female #delios 
 Main: [[people MOC]]

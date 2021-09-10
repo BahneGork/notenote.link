@@ -1,5 +1,5 @@
 --- 
-title:Wind Fan 
+title: Wind Fan 
 ---
 # Wind Fan
 

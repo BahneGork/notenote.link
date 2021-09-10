@@ -1,5 +1,5 @@
 --- 
-title:Giant Frog 
+title: Giant Frog 
 ---
 # Giant Frog
 

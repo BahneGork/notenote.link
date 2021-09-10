@@ -1,5 +1,5 @@
 --- 
-title:Weapon, +1, +2, or +3 
+title: Weapon, +1, +2, or +3 
 ---
 # Weapon, +1, +2, or +3
 

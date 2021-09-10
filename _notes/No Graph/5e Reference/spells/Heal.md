@@ -1,5 +1,5 @@
 --- 
-title:Heal 
+title: Heal 
 ---
 # Heal
 

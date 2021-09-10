@@ -1,5 +1,5 @@
 --- 
-title:Flame Strike 
+title: Flame Strike 
 ---
 # Flame Strike
 

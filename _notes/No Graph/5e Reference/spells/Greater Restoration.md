@@ -1,5 +1,5 @@
 --- 
-title:Greater Restoration 
+title: Greater Restoration 
 ---
 # Greater Restoration
 

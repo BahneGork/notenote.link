@@ -1,5 +1,5 @@
 --- 
-title:keyleigh dufaigh 
+title: keyleigh dufaigh 
 ---
 #npc #slaver #delios #ranchfalca
 Main: [[people MOC]]

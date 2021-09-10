@@ -1,5 +1,5 @@
 --- 
-title:Recipe - Cloak of Displacement 
+title: Recipe - Cloak of Displacement 
 ---
 #magicitemformula #recipe 
 ### Cloak of Displacement

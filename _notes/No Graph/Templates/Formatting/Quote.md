@@ -1,5 +1,5 @@
 --- 
-title:Quote 
+title: Quote 
 ---
 > 
 > 

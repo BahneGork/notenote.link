@@ -1,5 +1,5 @@
 --- 
-title:Talisman of the Sphere 
+title: Talisman of the Sphere 
 ---
 # Talisman of the Sphere
 

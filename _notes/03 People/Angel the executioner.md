@@ -1,5 +1,5 @@
 --- 
-title:Angel the executioner 
+title: Angel the executioner 
 ---
 tags: #🗣  #npc #tearknight  #delios 
 2021-08-24

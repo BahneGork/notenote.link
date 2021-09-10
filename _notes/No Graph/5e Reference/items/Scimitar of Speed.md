@@ -1,5 +1,5 @@
 --- 
-title:Scimitar of Speed 
+title: Scimitar of Speed 
 ---
 # Scimitar of Speed
 

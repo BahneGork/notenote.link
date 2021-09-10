@@ -1,5 +1,5 @@
 --- 
-title:Dwarven Plate 
+title: Dwarven Plate 
 ---
 # Dwarven Plate
 

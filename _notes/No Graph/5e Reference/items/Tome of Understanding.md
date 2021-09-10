@@ -1,5 +1,5 @@
 --- 
-title:Tome of Understanding 
+title: Tome of Understanding 
 ---
 # Tome of Understanding
 

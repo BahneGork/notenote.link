@@ -1,5 +1,5 @@
 --- 
-title:Potion of Resistance 
+title: Potion of Resistance 
 ---
 # Potion of Resistance
 

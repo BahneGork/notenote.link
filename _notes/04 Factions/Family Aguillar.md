@@ -1,5 +1,5 @@
 --- 
-title:Family Aguillar 
+title: Family Aguillar 
 ---
 #npc #faction #lumberranch #delios 
 

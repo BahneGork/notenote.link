@@ -1,5 +1,5 @@
 --- 
-title:Azarumme empire 
+title: Azarumme empire 
 ---
 #ancienthistory #location #bedegaarnBaroni 
 Main: [[Kingdoms and Empires MOC]]

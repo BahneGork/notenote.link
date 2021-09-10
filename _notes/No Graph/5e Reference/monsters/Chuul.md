@@ -1,5 +1,5 @@
 --- 
-title:Chuul 
+title: Chuul 
 ---
 # Chuul
 

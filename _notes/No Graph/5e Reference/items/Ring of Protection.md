@@ -1,5 +1,5 @@
 --- 
-title:Ring of Protection 
+title: Ring of Protection 
 ---
 # Ring of Protection
 

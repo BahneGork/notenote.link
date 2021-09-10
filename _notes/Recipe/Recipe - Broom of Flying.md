@@ -1,5 +1,5 @@
 --- 
-title:Recipe - Broom of Flying 
+title: Recipe - Broom of Flying 
 ---
 #magicitemformula #recipe 
 ### Broom of Flying

@@ -1,5 +1,5 @@
 --- 
-title:Chime of Opening 
+title: Chime of Opening 
 ---
 # Chime of Opening
 

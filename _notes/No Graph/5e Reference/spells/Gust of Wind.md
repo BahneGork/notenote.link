@@ -1,5 +1,5 @@
 --- 
-title:Gust of Wind 
+title: Gust of Wind 
 ---
 # Gust of Wind
 

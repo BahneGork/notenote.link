@@ -1,5 +1,5 @@
 --- 
-title:Lesser Restoration 
+title: Lesser Restoration 
 ---
 # Lesser Restoration
 

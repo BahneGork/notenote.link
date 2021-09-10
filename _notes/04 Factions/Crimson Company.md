@@ -1,5 +1,5 @@
 --- 
-title:Crimson Company 
+title: Crimson Company 
 ---
 Cedric Belmont
 Brumor Stålfod

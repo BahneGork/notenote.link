@@ -1,5 +1,5 @@
 --- 
-title:Wand of the War Mage, +1, +2, or +3 
+title: Wand of the War Mage, +1, +2, or +3 
 ---
 # Wand of the War Mage, +1, +2, or +3
 

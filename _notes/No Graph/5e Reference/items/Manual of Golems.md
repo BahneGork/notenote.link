@@ -1,5 +1,5 @@
 --- 
-title:Manual of Golems 
+title: Manual of Golems 
 ---
 # Manual of Golems
 

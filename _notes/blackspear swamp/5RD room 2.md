@@ -1,4 +1,4 @@
 --- 
-title:5RD room 2 
+title: 5RD room 2 
 ---
 the puzzle

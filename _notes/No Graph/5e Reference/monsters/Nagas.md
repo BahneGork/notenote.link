@@ -1,5 +1,5 @@
 --- 
-title:Nagas 
+title: Nagas 
 ---
 # Nagas
 

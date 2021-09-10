@@ -1,5 +1,5 @@
 --- 
-title:Staff of the Python 
+title: Staff of the Python 
 ---
 # Staff of the Python
 

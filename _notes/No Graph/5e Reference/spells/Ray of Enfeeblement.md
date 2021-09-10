@@ -1,5 +1,5 @@
 --- 
-title:Ray of Enfeeblement 
+title: Ray of Enfeeblement 
 ---
 # Ray of Enfeeblement
 

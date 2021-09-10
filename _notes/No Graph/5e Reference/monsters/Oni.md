@@ -1,5 +1,5 @@
 --- 
-title:Oni 
+title: Oni 
 ---
 # Oni
 

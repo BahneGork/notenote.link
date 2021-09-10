@@ -1,5 +1,5 @@
 --- 
-title:Rope of Climbing 
+title: Rope of Climbing 
 ---
 # Rope of Climbing
 

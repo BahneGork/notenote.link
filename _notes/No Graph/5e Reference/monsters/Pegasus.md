@@ -1,5 +1,5 @@
 --- 
-title:Pegasus 
+title: Pegasus 
 ---
 # Pegasus
 

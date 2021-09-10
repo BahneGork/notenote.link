@@ -1,5 +1,5 @@
 --- 
-title:Chain Lightning 
+title: Chain Lightning 
 ---
 # Chain Lightning
 

@@ -1,5 +1,5 @@
 --- 
-title:Dominate Monster 
+title: Dominate Monster 
 ---
 # Dominate Monster
 

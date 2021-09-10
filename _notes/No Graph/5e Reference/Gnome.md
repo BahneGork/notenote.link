@@ -1,5 +1,5 @@
 --- 
-title:Gnome 
+title: Gnome 
 ---
 # Gnome
 

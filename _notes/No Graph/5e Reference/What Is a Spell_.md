@@ -1,5 +1,5 @@
 --- 
-title:What Is a Spell_ 
+title: What Is a Spell_ 
 ---
 # What Is a Spell?
 

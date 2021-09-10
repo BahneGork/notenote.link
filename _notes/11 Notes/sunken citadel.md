@@ -1,5 +1,5 @@
 --- 
-title:sunken citadel 
+title: sunken citadel 
 ---
 #location
 The citadel was once a Tiamat stronghold.

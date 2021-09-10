@@ -1,5 +1,5 @@
 --- 
-title:Magic Mouth 
+title: Magic Mouth 
 ---
 # Magic Mouth
 

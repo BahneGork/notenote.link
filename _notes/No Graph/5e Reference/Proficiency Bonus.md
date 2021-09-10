@@ -1,5 +1,5 @@
 --- 
-title:Proficiency Bonus 
+title: Proficiency Bonus 
 ---
 # Proficiency Bonus
 

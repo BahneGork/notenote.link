@@ -1,5 +1,5 @@
 --- 
-title:Mass Heal 
+title: Mass Heal 
 ---
 # Mass Heal
 

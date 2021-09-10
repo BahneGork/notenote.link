@@ -1,5 +1,5 @@
 --- 
-title:Customizing NPCs 
+title: Customizing NPCs 
 ---
 # Customizing NPCs
 

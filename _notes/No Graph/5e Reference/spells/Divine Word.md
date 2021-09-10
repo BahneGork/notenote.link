@@ -1,5 +1,5 @@
 --- 
-title:Divine Word 
+title: Divine Word 
 ---
 # Divine Word
 

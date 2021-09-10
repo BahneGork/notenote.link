@@ -1,5 +1,5 @@
 --- 
-title:Hellish Rebuke 
+title: Hellish Rebuke 
 ---
 # Hellish Rebuke
 

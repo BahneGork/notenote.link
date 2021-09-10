@@ -1,5 +1,5 @@
 --- 
-title:Tome of Leadership and Influence 
+title: Tome of Leadership and Influence 
 ---
 # Tome of Leadership and Influence
 

@@ -1,5 +1,5 @@
 --- 
-title:Ettin 
+title: Ettin 
 ---
 # Ettin
 

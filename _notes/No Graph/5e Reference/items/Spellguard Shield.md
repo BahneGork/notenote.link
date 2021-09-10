@@ -1,5 +1,5 @@
 --- 
-title:Spellguard Shield 
+title: Spellguard Shield 
 ---
 # Spellguard Shield
 

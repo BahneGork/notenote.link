@@ -1,5 +1,5 @@
 --- 
-title:Pipes of Haunting 
+title: Pipes of Haunting 
 ---
 # Pipes of Haunting
 

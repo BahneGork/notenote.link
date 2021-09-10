@@ -1,5 +1,5 @@
 --- 
-title:Shield, +1, +2, or +3 
+title: Shield, +1, +2, or +3 
 ---
 # Shield, +1, +2, or +3
 

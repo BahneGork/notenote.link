@@ -1,5 +1,5 @@
 --- 
-title:Bandit Captain 
+title: Bandit Captain 
 ---
 # Bandit Captain
 

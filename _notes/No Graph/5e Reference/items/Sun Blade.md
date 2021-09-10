@@ -1,5 +1,5 @@
 --- 
-title:Sun Blade 
+title: Sun Blade 
 ---
 # Sun Blade
 

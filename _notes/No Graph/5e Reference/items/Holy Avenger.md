@@ -1,5 +1,5 @@
 --- 
-title:Holy Avenger 
+title: Holy Avenger 
 ---
 # Holy Avenger
 

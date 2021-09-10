@@ -1,5 +1,5 @@
 --- 
-title:def list 
+title: def list 
 ---
 <dl>
 	<dt></dt>

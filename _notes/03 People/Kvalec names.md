@@ -1,5 +1,5 @@
 --- 
-title:Kvalec names 
+title: Kvalec names 
 ---
 #names #kvalec 
 Main: [[people MOC]]

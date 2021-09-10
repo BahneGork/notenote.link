@@ -1,5 +1,5 @@
 --- 
-title:Ogre 
+title: Ogre 
 ---
 # Ogre
 

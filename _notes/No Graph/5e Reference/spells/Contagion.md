@@ -1,5 +1,5 @@
 --- 
-title:Contagion 
+title: Contagion 
 ---
 # Contagion
 

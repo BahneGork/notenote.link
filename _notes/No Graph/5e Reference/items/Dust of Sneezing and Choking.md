@@ -1,5 +1,5 @@
 --- 
-title:Dust of Sneezing and Choking 
+title: Dust of Sneezing and Choking 
 ---
 # Dust of Sneezing and Choking
 

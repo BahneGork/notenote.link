@@ -1,5 +1,5 @@
 --- 
-title:Arcanists Magic Aura 
+title: Arcanists Magic Aura 
 ---
 # Arcanist's Magic Aura
 

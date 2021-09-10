@@ -1,5 +1,5 @@
 --- 
-title:Cockatrice 
+title: Cockatrice 
 ---
 # Cockatrice
 

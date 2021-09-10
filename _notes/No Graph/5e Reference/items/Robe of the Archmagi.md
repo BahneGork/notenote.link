@@ -1,5 +1,5 @@
 --- 
-title:Robe of the Archmagi 
+title: Robe of the Archmagi 
 ---
 # Robe of the Archmagi
 

@@ -1,5 +1,5 @@
 --- 
-title:Expeditious Retreat 
+title: Expeditious Retreat 
 ---
 # Expeditious Retreat
 

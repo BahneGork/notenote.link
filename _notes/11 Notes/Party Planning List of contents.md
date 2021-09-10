@@ -1,5 +1,5 @@
 --- 
-title:Party Planning List of contents 
+title: Party Planning List of contents 
 ---
 # Party Planning List of contents
 Main:

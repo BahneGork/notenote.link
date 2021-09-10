@@ -1,5 +1,5 @@
 --- 
-title:Recipe - Boots of Elvenkind 
+title: Recipe - Boots of Elvenkind 
 ---
 #magicitemformula #recipe 
 ### Boots of Elvenkind

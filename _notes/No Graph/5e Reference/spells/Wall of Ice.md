@@ -1,5 +1,5 @@
 --- 
-title:Wall of Ice 
+title: Wall of Ice 
 ---
 # Wall of Ice
 

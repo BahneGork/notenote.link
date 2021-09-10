@@ -1,5 +1,5 @@
 --- 
-title:Giant Fire Beetle 
+title: Giant Fire Beetle 
 ---
 # Giant Fire Beetle
 

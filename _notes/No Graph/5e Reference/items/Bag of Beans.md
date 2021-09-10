@@ -1,5 +1,5 @@
 --- 
-title:Bag of Beans 
+title: Bag of Beans 
 ---
 # Bag of Beans
 

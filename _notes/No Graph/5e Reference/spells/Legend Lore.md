@@ -1,5 +1,5 @@
 --- 
-title:Legend Lore 
+title: Legend Lore 
 ---
 # Legend Lore
 

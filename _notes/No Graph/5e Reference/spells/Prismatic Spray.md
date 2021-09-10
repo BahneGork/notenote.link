@@ -1,5 +1,5 @@
 --- 
-title:Prismatic Spray 
+title: Prismatic Spray 
 ---
 # Prismatic Spray
 

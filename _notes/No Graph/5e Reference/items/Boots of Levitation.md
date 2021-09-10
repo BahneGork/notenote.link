@@ -1,5 +1,5 @@
 --- 
-title:Boots of Levitation 
+title: Boots of Levitation 
 ---
 # Boots of Levitation
 

@@ -1,4 +1,4 @@
 --- 
-title:Jago 
+title: Jago 
 ---
 #npc #delios #shopkeeper

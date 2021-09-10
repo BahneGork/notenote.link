@@ -1,5 +1,5 @@
 --- 
-title:Giant Ape 
+title: Giant Ape 
 ---
 # Giant Ape
 

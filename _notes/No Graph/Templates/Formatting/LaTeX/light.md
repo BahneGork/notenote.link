@@ -1,4 +1,4 @@
 --- 
-title:light 
+title: light 
 ---
 \color{light}

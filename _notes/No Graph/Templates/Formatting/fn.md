@@ -1,4 +1,4 @@
 --- 
-title:fn 
+title: fn 
 ---
 ^[]

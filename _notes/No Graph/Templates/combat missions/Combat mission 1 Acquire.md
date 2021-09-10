@@ -1,5 +1,5 @@
 --- 
-title:Combat mission 1 Acquire 
+title: Combat mission 1 Acquire 
 ---
 ### Mission 1: Acquire
 

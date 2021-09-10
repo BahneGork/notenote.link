@@ -1,5 +1,5 @@
 --- 
-title:Sequester 
+title: Sequester 
 ---
 # Sequester
 

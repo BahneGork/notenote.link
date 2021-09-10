@@ -1,5 +1,5 @@
 --- 
-title:Recipe - Cloak of Invisibility 
+title: Recipe - Cloak of Invisibility 
 ---
 #magicitemformula #recipe 
 ### Cloak of Invisibility

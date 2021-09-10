@@ -1,5 +1,5 @@
 --- 
-title:Dinosaurs 
+title: Dinosaurs 
 ---
 # Dinosaurs
 

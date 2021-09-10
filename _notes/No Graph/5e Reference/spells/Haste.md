@@ -1,5 +1,5 @@
 --- 
-title:Haste 
+title: Haste 
 ---
 # Haste
 

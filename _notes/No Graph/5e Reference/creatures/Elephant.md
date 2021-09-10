@@ -1,5 +1,5 @@
 --- 
-title:Elephant 
+title: Elephant 
 ---
 # Elephant
 

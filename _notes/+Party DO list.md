@@ -1,5 +1,5 @@
 --- 
-title:+Party DO list 
+title: +Party DO list 
 ---
 #partyrdolist #living
 

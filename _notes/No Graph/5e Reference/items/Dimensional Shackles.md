@@ -1,5 +1,5 @@
 --- 
-title:Dimensional Shackles 
+title: Dimensional Shackles 
 ---
 # Dimensional Shackles
 

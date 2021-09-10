@@ -1,5 +1,5 @@
 --- 
-title:Ring of Regeneration 
+title: Ring of Regeneration 
 ---
 # Ring of Regeneration
 

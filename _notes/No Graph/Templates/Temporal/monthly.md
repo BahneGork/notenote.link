@@ -1,5 +1,5 @@
 --- 
-title:monthly 
+title: monthly 
 ---
 ### Monthly Review:
 %% This template Requires the Templater plugin %%

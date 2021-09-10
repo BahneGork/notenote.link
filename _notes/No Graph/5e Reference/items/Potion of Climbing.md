@@ -1,5 +1,5 @@
 --- 
-title:Potion of Climbing 
+title: Potion of Climbing 
 ---
 # Potion of Climbing
 

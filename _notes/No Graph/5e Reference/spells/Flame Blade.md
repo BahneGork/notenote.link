@@ -1,5 +1,5 @@
 --- 
-title:Flame Blade 
+title: Flame Blade 
 ---
 # Flame Blade
 

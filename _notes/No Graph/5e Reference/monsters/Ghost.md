@@ -1,5 +1,5 @@
 --- 
-title:Ghost 
+title: Ghost 
 ---
 # Ghost
 

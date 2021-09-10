@@ -1,5 +1,5 @@
 --- 
-title:Scarab of Protection 
+title: Scarab of Protection 
 ---
 # Scarab of Protection
 

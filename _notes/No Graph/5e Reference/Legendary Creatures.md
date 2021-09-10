@@ -1,5 +1,5 @@
 --- 
-title:Legendary Creatures 
+title: Legendary Creatures 
 ---
 # Legendary Creatures
 

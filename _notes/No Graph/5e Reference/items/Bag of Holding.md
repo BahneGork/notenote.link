@@ -1,5 +1,5 @@
 --- 
-title:Bag of Holding 
+title: Bag of Holding 
 ---
 # Bag of Holding
 

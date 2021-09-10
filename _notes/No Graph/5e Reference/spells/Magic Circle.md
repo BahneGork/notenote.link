@@ -1,5 +1,5 @@
 --- 
-title:Magic Circle 
+title: Magic Circle 
 ---
 # Magic Circle
 

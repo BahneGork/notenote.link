@@ -1,5 +1,5 @@
 --- 
-title:Ring of Shooting Stars 
+title: Ring of Shooting Stars 
 ---
 # Ring of Shooting Stars
 

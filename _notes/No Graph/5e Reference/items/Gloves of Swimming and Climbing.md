@@ -1,5 +1,5 @@
 --- 
-title:Gloves of Swimming and Climbing 
+title: Gloves of Swimming and Climbing 
 ---
 # Gloves of Swimming and Climbing
 

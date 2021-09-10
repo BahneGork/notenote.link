@@ -1,5 +1,5 @@
 --- 
-title:Wall of Fire 
+title: Wall of Fire 
 ---
 # Wall of Fire
 

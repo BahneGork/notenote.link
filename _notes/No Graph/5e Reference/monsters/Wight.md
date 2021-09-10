@@ -1,5 +1,5 @@
 --- 
-title:Wight 
+title: Wight 
 ---
 # Wight
 

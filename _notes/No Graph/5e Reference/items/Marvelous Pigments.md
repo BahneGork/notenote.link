@@ -1,5 +1,5 @@
 --- 
-title:Marvelous Pigments 
+title: Marvelous Pigments 
 ---
 # Marvelous Pigments
 

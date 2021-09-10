@@ -1,5 +1,5 @@
 --- 
-title:Planar Binding 
+title: Planar Binding 
 ---
 # Planar Binding
 

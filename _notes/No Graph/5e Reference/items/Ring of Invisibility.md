@@ -1,5 +1,5 @@
 --- 
-title:Ring of Invisibility 
+title: Ring of Invisibility 
 ---
 # Ring of Invisibility
 

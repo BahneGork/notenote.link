@@ -1,5 +1,5 @@
 --- 
-title:Priest 
+title: Priest 
 ---
 # Priest
 

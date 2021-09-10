@@ -1,5 +1,5 @@
 --- 
-title:Contingency 
+title: Contingency 
 ---
 # Contingency
 

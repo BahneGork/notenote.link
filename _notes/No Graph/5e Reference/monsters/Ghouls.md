@@ -1,5 +1,5 @@
 --- 
-title:Ghouls 
+title: Ghouls 
 ---
 # Ghouls
 

@@ -1,5 +1,5 @@
 --- 
-title:Spike Growth 
+title: Spike Growth 
 ---
 # Spike Growth
 

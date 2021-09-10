@@ -1,5 +1,5 @@
 --- 
-title:Remove Curse 
+title: Remove Curse 
 ---
 # Remove Curse
 

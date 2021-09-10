@@ -1,5 +1,5 @@
 --- 
-title:Arcane Hand 
+title: Arcane Hand 
 ---
 # Arcane Hand
 

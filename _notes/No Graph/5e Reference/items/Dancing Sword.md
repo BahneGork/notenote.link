@@ -1,5 +1,5 @@
 --- 
-title:Dancing Sword 
+title: Dancing Sword 
 ---
 # Dancing Sword
 

@@ -1,5 +1,5 @@
 --- 
-title:Conjure Minor Elementals 
+title: Conjure Minor Elementals 
 ---
 # Conjure Minor Elementals
 

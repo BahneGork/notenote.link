@@ -1,5 +1,5 @@
 --- 
-title:Warhorse 
+title: Warhorse 
 ---
 # Warhorse
 

@@ -1,5 +1,5 @@
 --- 
-title:Etherealness 
+title: Etherealness 
 ---
 # Etherealness
 

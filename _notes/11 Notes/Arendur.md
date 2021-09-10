@@ -1,5 +1,5 @@
 --- 
-title:Arendur 
+title: Arendur 
 ---
 #location 
 The throne city of [[Ursia]]

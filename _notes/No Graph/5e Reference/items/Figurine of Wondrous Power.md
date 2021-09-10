@@ -1,5 +1,5 @@
 --- 
-title:Figurine of Wondrous Power 
+title: Figurine of Wondrous Power 
 ---
 # Figurine of Wondrous Power
 

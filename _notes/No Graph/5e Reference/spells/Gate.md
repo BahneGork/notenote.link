@@ -1,5 +1,5 @@
 --- 
-title:Gate 
+title: Gate 
 ---
 # Gate
 

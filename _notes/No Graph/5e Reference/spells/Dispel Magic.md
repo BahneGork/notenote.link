@@ -1,5 +1,5 @@
 --- 
-title:Dispel Magic 
+title: Dispel Magic 
 ---
 # Dispel Magic
 

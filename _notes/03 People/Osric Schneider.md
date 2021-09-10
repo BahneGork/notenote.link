@@ -1,5 +1,5 @@
 --- 
-title:Osric Schneider 
+title: Osric Schneider 
 ---
 ---
 alias: 'Osric the townspeaker'

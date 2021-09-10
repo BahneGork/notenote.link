@@ -1,5 +1,5 @@
 --- 
-title:Frekka Flammehår 
+title: Frekka Flammehår 
 ---
 ---
 alias: 'Frekka'

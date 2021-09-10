@@ -1,5 +1,5 @@
 --- 
-title:Helm of Comprehending Languages 
+title: Helm of Comprehending Languages 
 ---
 # Helm of Comprehending Languages
 

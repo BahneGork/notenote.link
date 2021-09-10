@@ -1,5 +1,5 @@
 --- 
-title:Giant Rat 
+title: Giant Rat 
 ---
 # Giant Rat
 

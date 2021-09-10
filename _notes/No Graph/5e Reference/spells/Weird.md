@@ -1,5 +1,5 @@
 --- 
-title:Weird 
+title: Weird 
 ---
 # Weird
 

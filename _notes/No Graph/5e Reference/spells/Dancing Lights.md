@@ -1,5 +1,5 @@
 --- 
-title:Dancing Lights 
+title: Dancing Lights 
 ---
 # Dancing Lights
 

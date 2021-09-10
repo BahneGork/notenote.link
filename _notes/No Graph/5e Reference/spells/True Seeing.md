@@ -1,5 +1,5 @@
 --- 
-title:True Seeing 
+title: True Seeing 
 ---
 # True Seeing
 

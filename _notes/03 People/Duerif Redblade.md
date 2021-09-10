@@ -1,5 +1,5 @@
 --- 
-title:Duerif Redblade 
+title: Duerif Redblade 
 ---
 #npc #people #dwarf 
 Main: [[people MOC]]

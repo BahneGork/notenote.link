@@ -1,5 +1,5 @@
 --- 
-title:Commune 
+title: Commune 
 ---
 # Commune
 

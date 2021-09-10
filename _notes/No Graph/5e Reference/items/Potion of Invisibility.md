@@ -1,5 +1,5 @@
 --- 
-title:Potion of Invisibility 
+title: Potion of Invisibility 
 ---
 # Potion of Invisibility
 

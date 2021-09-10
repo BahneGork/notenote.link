@@ -1,5 +1,5 @@
 --- 
-title:Cult Fanatic 
+title: Cult Fanatic 
 ---
 # Cult Fanatic
 

@@ -1,5 +1,5 @@
 --- 
-title:Arcane Lock 
+title: Arcane Lock 
 ---
 # Arcane Lock
 

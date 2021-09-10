@@ -1,5 +1,5 @@
 --- 
-title:Nine Lives Stealer 
+title: Nine Lives Stealer 
 ---
 # Nine Lives Stealer
 

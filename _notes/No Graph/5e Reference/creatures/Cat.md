@@ -1,5 +1,5 @@
 --- 
-title:Cat 
+title: Cat 
 ---
 # Cat
 

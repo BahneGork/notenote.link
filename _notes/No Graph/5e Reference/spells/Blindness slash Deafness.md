@@ -1,5 +1,5 @@
 --- 
-title:Blindness slash Deafness 
+title: Blindness slash Deafness 
 ---
 # Blindness/Deafness
 

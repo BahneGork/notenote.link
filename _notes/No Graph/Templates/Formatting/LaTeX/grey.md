@@ -1,4 +1,4 @@
 --- 
-title:grey 
+title: grey 
 ---
 \color{grey}

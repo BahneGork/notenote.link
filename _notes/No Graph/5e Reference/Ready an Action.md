@@ -1,5 +1,5 @@
 --- 
-title:Ready an Action 
+title: Ready an Action 
 ---
 # Ready an Action
 as a [[combat action]] you can Ready an action.

@@ -1,5 +1,5 @@
 --- 
-title:Teleportation Circle 
+title: Teleportation Circle 
 ---
 # Teleportation Circle
 

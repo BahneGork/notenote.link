@@ -1,5 +1,5 @@
 --- 
-title:Locate Creature 
+title: Locate Creature 
 ---
 # Locate Creature
 

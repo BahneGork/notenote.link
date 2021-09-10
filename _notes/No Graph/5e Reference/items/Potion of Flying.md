@@ -1,5 +1,5 @@
 --- 
-title:Potion of Flying 
+title: Potion of Flying 
 ---
 # Potion of Flying
 

@@ -1,4 +1,4 @@
 --- 
-title:npurple 
+title: npurple 
 ---
 \color{npurple}

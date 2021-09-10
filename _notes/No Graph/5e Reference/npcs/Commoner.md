@@ -1,5 +1,5 @@
 --- 
-title:Commoner 
+title: Commoner 
 ---
 # Commoner
 

@@ -1,5 +1,5 @@
 --- 
-title:Antimagic Field 
+title: Antimagic Field 
 ---
 # Antimagic Field
 

@@ -1,5 +1,5 @@
 --- 
-title:Feeblemind 
+title: Feeblemind 
 ---
 # Feeblemind
 

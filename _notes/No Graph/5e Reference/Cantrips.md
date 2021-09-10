@@ -1,5 +1,5 @@
 --- 
-title:Cantrips 
+title: Cantrips 
 ---
 # Cantrips
 

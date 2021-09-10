@@ -1,5 +1,5 @@
 --- 
-title:Longstrider 
+title: Longstrider 
 ---
 # Longstrider
 

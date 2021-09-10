@@ -1,5 +1,5 @@
 --- 
-title:Riding Horse 
+title: Riding Horse 
 ---
 # Riding Horse
 

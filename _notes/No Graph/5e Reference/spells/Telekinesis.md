@@ -1,5 +1,5 @@
 --- 
-title:Telekinesis 
+title: Telekinesis 
 ---
 # Telekinesis
 

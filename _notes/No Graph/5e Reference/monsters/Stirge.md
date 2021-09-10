@@ -1,5 +1,5 @@
 --- 
-title:Stirge 
+title: Stirge 
 ---
 # Stirge
 

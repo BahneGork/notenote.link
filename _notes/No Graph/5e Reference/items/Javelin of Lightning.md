@@ -1,5 +1,5 @@
 --- 
-title:Javelin of Lightning 
+title: Javelin of Lightning 
 ---
 # Javelin of Lightning
 

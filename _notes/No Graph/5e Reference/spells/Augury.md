@@ -1,5 +1,5 @@
 --- 
-title:Augury 
+title: Augury 
 ---
 # Augury
 

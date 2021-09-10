@@ -1,5 +1,5 @@
 --- 
-title:Constrictor Snake 
+title: Constrictor Snake 
 ---
 # Constrictor Snake
 

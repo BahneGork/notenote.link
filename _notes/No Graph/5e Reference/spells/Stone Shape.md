@@ -1,5 +1,5 @@
 --- 
-title:Stone Shape 
+title: Stone Shape 
 ---
 # Stone Shape
 

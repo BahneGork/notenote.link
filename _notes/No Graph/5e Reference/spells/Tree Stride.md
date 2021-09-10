@@ -1,5 +1,5 @@
 --- 
-title:Tree Stride 
+title: Tree Stride 
 ---
 # Tree Stride
 

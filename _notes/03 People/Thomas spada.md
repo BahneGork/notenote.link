@@ -1,5 +1,5 @@
 --- 
-title:Thomas spada 
+title: Thomas spada 
 ---
 tags: #🗣  #npc #blackbriar 
 2021-06-21

@@ -1,5 +1,5 @@
 --- 
-title:Eyes of Minute Seeing 
+title: Eyes of Minute Seeing 
 ---
 # Eyes of Minute Seeing
 

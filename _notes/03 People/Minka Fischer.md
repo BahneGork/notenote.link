@@ -1,5 +1,5 @@
 --- 
-title:Minka Fischer 
+title: Minka Fischer 
 ---
 #npc  #🗣 #delios 
 Main: [[people MOC]]

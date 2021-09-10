@@ -1,5 +1,5 @@
 --- 
-title:Hypnotic Pattern 
+title: Hypnotic Pattern 
 ---
 # Hypnotic Pattern
 

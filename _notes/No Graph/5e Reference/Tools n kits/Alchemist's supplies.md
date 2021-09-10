@@ -1,5 +1,5 @@
 --- 
-title:Alchemist's supplies 
+title: Alchemist's supplies 
 ---
 # Alchemist's supplies
 Main:

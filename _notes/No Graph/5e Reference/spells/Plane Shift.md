@@ -1,5 +1,5 @@
 --- 
-title:Plane Shift 
+title: Plane Shift 
 ---
 # Plane Shift
 

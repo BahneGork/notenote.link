@@ -1,5 +1,5 @@
 --- 
-title:Belt of Giant Strength 
+title: Belt of Giant Strength 
 ---
 # Belt of Giant Strength
 

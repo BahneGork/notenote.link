@@ -1,5 +1,5 @@
 --- 
-title:people MOC 
+title: people MOC 
 ---
 #people #list 
 

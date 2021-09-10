@@ -1,5 +1,5 @@
 --- 
-title:Manticore 
+title: Manticore 
 ---
 # Manticore
 

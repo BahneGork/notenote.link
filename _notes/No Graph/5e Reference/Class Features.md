@@ -1,5 +1,5 @@
 --- 
-title:Class Features 
+title: Class Features 
 ---
 # Class Features
 

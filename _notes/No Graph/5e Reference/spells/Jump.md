@@ -1,5 +1,5 @@
 --- 
-title:Jump 
+title: Jump 
 ---
 # Jump
 

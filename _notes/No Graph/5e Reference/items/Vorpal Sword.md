@@ -1,5 +1,5 @@
 --- 
-title:Vorpal Sword 
+title: Vorpal Sword 
 ---
 # Vorpal Sword
 

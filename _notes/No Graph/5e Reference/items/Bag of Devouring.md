@@ -1,5 +1,5 @@
 --- 
-title:Bag of Devouring 
+title: Bag of Devouring 
 ---
 # Bag of Devouring
 

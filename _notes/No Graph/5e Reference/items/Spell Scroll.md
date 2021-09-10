@@ -1,5 +1,5 @@
 --- 
-title:Spell Scroll 
+title: Spell Scroll 
 ---
 # Spell Scroll
 

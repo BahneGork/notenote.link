@@ -1,5 +1,5 @@
 --- 
-title:Armor, +1, +2, or +3 
+title: Armor, +1, +2, or +3 
 ---
 # Armor, +1, +2, or +3
 

@@ -1,5 +1,5 @@
 --- 
-title:Clairvoyance 
+title: Clairvoyance 
 ---
 # Clairvoyance
 

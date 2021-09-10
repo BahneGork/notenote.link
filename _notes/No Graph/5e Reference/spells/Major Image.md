@@ -1,5 +1,5 @@
 --- 
-title:Major Image 
+title: Major Image 
 ---
 # Major Image
 

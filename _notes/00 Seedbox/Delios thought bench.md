@@ -1,5 +1,5 @@
 --- 
-title:Delios thought bench 
+title: Delios thought bench 
 ---
 #workbench
 # Delios Community

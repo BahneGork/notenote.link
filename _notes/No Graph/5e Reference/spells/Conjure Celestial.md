@@ -1,5 +1,5 @@
 --- 
-title:Conjure Celestial 
+title: Conjure Celestial 
 ---
 # Conjure Celestial
 

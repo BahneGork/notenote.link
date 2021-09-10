@@ -1,5 +1,5 @@
 --- 
-title:Mind Blank 
+title: Mind Blank 
 ---
 # Mind Blank
 

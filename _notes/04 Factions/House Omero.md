@@ -1,5 +1,5 @@
 --- 
-title:House Omero 
+title: House Omero 
 ---
 #majorhouse #arendur #noble 
 Main: [[Factions MOC]]

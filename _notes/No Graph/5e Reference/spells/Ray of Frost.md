@@ -1,5 +1,5 @@
 --- 
-title:Ray of Frost 
+title: Ray of Frost 
 ---
 # Ray of Frost
 

@@ -1,5 +1,5 @@
 --- 
-title:Filters for Graph 
+title: Filters for Graph 
 ---
 ##### Exclude folder from graph view
 -path "folder"  

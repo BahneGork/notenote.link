@@ -1,5 +1,5 @@
 --- 
-title:Silent Image 
+title: Silent Image 
 ---
 # Silent Image
 

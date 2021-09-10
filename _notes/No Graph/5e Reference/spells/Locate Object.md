@@ -1,5 +1,5 @@
 --- 
-title:Locate Object 
+title: Locate Object 
 ---
 # Locate Object
 

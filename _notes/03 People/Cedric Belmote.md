@@ -1,5 +1,5 @@
 --- 
-title:Cedric Belmote 
+title: Cedric Belmote 
 ---
 ---
 alias: 'cedric'

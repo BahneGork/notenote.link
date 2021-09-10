@@ -1,5 +1,5 @@
 --- 
-title:Brumor stålfod 
+title: Brumor stålfod 
 ---
 ---
 alias: 'brumor'

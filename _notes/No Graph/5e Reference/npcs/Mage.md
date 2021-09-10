@@ -1,5 +1,5 @@
 --- 
-title:Mage 
+title: Mage 
 ---
 # Mage
 

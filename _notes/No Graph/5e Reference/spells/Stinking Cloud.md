@@ -1,5 +1,5 @@
 --- 
-title:Stinking Cloud 
+title: Stinking Cloud 
 ---
 # Stinking Cloud
 

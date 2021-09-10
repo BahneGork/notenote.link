@@ -1,5 +1,5 @@
 --- 
-title:Winter Wolf 
+title: Winter Wolf 
 ---
 # Winter Wolf
 

@@ -1,5 +1,5 @@
 --- 
-title:Winged Boots 
+title: Winged Boots 
 ---
 # Winged Boots
 

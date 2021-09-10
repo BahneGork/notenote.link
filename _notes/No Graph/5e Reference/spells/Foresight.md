@@ -1,5 +1,5 @@
 --- 
-title:Foresight 
+title: Foresight 
 ---
 # Foresight
 

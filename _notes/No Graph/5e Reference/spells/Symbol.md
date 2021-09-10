@@ -1,5 +1,5 @@
 --- 
-title:Symbol 
+title: Symbol 
 ---
 # Symbol
 

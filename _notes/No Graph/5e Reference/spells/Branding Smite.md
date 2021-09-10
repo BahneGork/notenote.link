@@ -1,5 +1,5 @@
 --- 
-title:Branding Smite 
+title: Branding Smite 
 ---
 # Branding Smite
 

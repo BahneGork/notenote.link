@@ -1,5 +1,5 @@
 --- 
-title:Magic Jar 
+title: Magic Jar 
 ---
 # Magic Jar
 

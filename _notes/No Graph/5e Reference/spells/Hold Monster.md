@@ -1,5 +1,5 @@
 --- 
-title:Hold Monster 
+title: Hold Monster 
 ---
 # Hold Monster
 

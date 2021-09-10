@@ -1,5 +1,5 @@
 --- 
-title:Staff of Power 
+title: Staff of Power 
 ---
 # Staff of Power
 

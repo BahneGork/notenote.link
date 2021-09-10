@@ -1,5 +1,5 @@
 --- 
-title:Dwarven Thrower 
+title: Dwarven Thrower 
 ---
 # Dwarven Thrower
 

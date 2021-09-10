@@ -1,5 +1,5 @@
 --- 
-title:Mass Healing Word 
+title: Mass Healing Word 
 ---
 # Mass Healing Word
 

@@ -1,5 +1,5 @@
 --- 
-title:Giants 
+title: Giants 
 ---
 # Giants
 

@@ -1,5 +1,5 @@
 --- 
-title:Forbiddance 
+title: Forbiddance 
 ---
 # Forbiddance
 

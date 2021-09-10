@@ -1,5 +1,5 @@
 --- 
-title:Ammunition, +1, +2, or +3 
+title: Ammunition, +1, +2, or +3 
 ---
 # Ammunition, +1, +2, or +3
 

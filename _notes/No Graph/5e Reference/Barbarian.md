@@ -1,5 +1,5 @@
 --- 
-title:Barbarian 
+title: Barbarian 
 ---
 # Barbarian
 

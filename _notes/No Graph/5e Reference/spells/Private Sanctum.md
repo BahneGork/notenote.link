@@ -1,5 +1,5 @@
 --- 
-title:Private Sanctum 
+title: Private Sanctum 
 ---
 # Private Sanctum
 

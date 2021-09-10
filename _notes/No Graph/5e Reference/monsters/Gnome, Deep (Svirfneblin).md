@@ -1,5 +1,5 @@
 --- 
-title:Gnome, Deep (Svirfneblin) 
+title: Gnome, Deep (Svirfneblin) 
 ---
 # Gnome, Deep (Svirfneblin)
 

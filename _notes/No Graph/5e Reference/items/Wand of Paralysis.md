@@ -1,5 +1,5 @@
 --- 
-title:Wand of Paralysis 
+title: Wand of Paralysis 
 ---
 # Wand of Paralysis
 

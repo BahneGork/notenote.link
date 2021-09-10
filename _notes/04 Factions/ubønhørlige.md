@@ -1,5 +1,5 @@
 --- 
-title:ubønhørlige 
+title: ubønhørlige 
 ---
 #ord
 Lader sig ikke ombestemme eller formilde.

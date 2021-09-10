@@ -1,5 +1,5 @@
 --- 
-title:Ring of Free Action 
+title: Ring of Free Action 
 ---
 # Ring of Free Action
 

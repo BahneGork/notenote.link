@@ -1,5 +1,5 @@
 --- 
-title:NPC 
+title: NPC 
 ---
 tags: #🗣  
 {{date}}

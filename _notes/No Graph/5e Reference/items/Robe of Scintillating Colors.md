@@ -1,5 +1,5 @@
 --- 
-title:Robe of Scintillating Colors 
+title: Robe of Scintillating Colors 
 ---
 # Robe of Scintillating Colors
 

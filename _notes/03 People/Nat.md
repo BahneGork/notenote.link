@@ -1,5 +1,5 @@
 --- 
-title:Nat 
+title: Nat 
 ---
 ---
 alias: 'nathaniel'

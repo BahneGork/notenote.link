@@ -1,5 +1,5 @@
 --- 
-title:Contact Other Plane 
+title: Contact Other Plane 
 ---
 # Contact Other Plane
 

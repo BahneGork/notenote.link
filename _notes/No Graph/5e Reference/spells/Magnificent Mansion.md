@@ -1,5 +1,5 @@
 --- 
-title:Magnificent Mansion 
+title: Magnificent Mansion 
 ---
 # Magnificent Mansion
 

@@ -1,5 +1,5 @@
 --- 
-title:Bard 
+title: Bard 
 ---
 # Bard
 

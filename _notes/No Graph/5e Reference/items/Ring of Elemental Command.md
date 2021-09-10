@@ -1,5 +1,5 @@
 --- 
-title:Ring of Elemental Command 
+title: Ring of Elemental Command 
 ---
 # Ring of Elemental Command
 

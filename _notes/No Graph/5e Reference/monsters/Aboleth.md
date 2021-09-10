@@ -1,5 +1,5 @@
 --- 
-title:Aboleth 
+title: Aboleth 
 ---
 # Aboleth
 

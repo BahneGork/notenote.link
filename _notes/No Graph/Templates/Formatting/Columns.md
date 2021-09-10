@@ -1,5 +1,5 @@
 --- 
-title:Columns 
+title: Columns 
 ---
 <div style="width: 100%;">
 	<!-- THE LEFT COLUMN -->

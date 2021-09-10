@@ -1,5 +1,5 @@
 --- 
-title:Skeletons 
+title: Skeletons 
 ---
 # Skeletons
 

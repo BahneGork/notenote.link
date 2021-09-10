@@ -1,5 +1,5 @@
 --- 
-title:Mermaid Git 
+title: Mermaid Git 
 ---
 ```mermaid
 gitGraph:

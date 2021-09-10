@@ -1,5 +1,5 @@
 --- 
-title:Gentle Repose 
+title: Gentle Repose 
 ---
 # Gentle Repose
 

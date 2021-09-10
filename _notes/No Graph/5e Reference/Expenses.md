@@ -1,5 +1,5 @@
 --- 
-title:Expenses 
+title: Expenses 
 ---
 # Expenses
 

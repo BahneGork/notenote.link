@@ -1,5 +1,5 @@
 --- 
-title:Alternate vampire plot 
+title: Alternate vampire plot 
 ---
 1) A victim of the vampire got loose as a vampire spawn. He attacked either a farm animal or a servant or a lumberjack at the ranch farm. 
 

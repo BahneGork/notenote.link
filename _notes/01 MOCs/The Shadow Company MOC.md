@@ -1,5 +1,5 @@
 --- 
-title:The Shadow Company MOC 
+title: The Shadow Company MOC 
 ---
 #playerfaction #playercharacters 
 

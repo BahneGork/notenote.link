@@ -1,5 +1,5 @@
 --- 
-title:Sword of Wounding 
+title: Sword of Wounding 
 ---
 # Sword of Wounding
 

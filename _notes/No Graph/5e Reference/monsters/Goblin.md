@@ -1,5 +1,5 @@
 --- 
-title:Goblin 
+title: Goblin 
 ---
 # Goblin
 

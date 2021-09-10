@@ -1,5 +1,5 @@
 --- 
-title:Elemental Gem 
+title: Elemental Gem 
 ---
 # Elemental Gem
 

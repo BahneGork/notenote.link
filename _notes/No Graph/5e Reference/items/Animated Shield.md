@@ -1,5 +1,5 @@
 --- 
-title:Animated Shield 
+title: Animated Shield 
 ---
 # Animated Shield
 

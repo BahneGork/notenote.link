@@ -1,5 +1,5 @@
 --- 
-title:Programmed Illusion 
+title: Programmed Illusion 
 ---
 # Programmed Illusion
 

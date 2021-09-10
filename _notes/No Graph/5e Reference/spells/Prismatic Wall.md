@@ -1,5 +1,5 @@
 --- 
-title:Prismatic Wall 
+title: Prismatic Wall 
 ---
 # Prismatic Wall
 

@@ -1,5 +1,5 @@
 --- 
-title:Staff of Fire 
+title: Staff of Fire 
 ---
 # Staff of Fire
 

@@ -1,5 +1,5 @@
 --- 
-title:Between Adventures 
+title: Between Adventures 
 ---
 # Between Adventures
 

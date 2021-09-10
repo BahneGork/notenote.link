@@ -1,5 +1,5 @@
 --- 
-title:Armor of Resistance 
+title: Armor of Resistance 
 ---
 # Armor of Resistance
 

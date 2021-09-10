@@ -1,5 +1,5 @@
 --- 
-title:Inflict Wounds 
+title: Inflict Wounds 
 ---
 # Inflict Wounds
 

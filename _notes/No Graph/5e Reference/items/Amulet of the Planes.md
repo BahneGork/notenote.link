@@ -1,5 +1,5 @@
 --- 
-title:Amulet of the Planes 
+title: Amulet of the Planes 
 ---
 # Amulet of the Planes
 

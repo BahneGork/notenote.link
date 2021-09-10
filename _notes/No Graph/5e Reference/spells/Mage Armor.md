@@ -1,5 +1,5 @@
 --- 
-title:Mage Armor 
+title: Mage Armor 
 ---
 # Mage Armor
 

@@ -1,5 +1,5 @@
 --- 
-title:Slow 
+title: Slow 
 ---
 # Slow
 

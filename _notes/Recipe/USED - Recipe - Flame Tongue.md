@@ -1,5 +1,5 @@
 --- 
-title:USED - Recipe - Flame Tongue 
+title: USED - Recipe - Flame Tongue 
 ---
 #magicitemformula #recipe 
 ### Flame Tongue

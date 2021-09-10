@@ -1,5 +1,5 @@
 --- 
-title:Bane 
+title: Bane 
 ---
 # Bane
 

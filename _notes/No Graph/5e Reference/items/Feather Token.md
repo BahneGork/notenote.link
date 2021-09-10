@@ -1,5 +1,5 @@
 --- 
-title:Feather Token 
+title: Feather Token 
 ---
 # Feather Token
 

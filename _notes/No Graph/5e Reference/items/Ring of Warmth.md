@@ -1,5 +1,5 @@
 --- 
-title:Ring of Warmth 
+title: Ring of Warmth 
 ---
 # Ring of Warmth
 

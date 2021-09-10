@@ -1,5 +1,5 @@
 --- 
-title:Lord Chilton haugwitz 
+title: Lord Chilton haugwitz 
 ---
 #npc #delios 
 

@@ -1,5 +1,5 @@
 --- 
-title:dataview 
+title: dataview 
 ---
 ```dataview
 table

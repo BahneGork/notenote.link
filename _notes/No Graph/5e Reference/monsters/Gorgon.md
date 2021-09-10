@@ -1,5 +1,5 @@
 --- 
-title:Gorgon 
+title: Gorgon 
 ---
 # Gorgon
 

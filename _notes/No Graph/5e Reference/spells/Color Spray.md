@@ -1,5 +1,5 @@
 --- 
-title:Color Spray 
+title: Color Spray 
 ---
 # Color Spray
 

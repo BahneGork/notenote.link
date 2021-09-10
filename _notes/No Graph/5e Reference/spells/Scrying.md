@@ -1,5 +1,5 @@
 --- 
-title:Scrying 
+title: Scrying 
 ---
 # Scrying
 

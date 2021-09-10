@@ -1,5 +1,5 @@
 --- 
-title:Mermaid Gantt 
+title: Mermaid Gantt 
 ---
 ```mermaid
 gantt

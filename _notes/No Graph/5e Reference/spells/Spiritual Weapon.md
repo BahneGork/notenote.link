@@ -1,5 +1,5 @@
 --- 
-title:Spiritual Weapon 
+title: Spiritual Weapon 
 ---
 # Spiritual Weapon
 

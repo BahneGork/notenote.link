@@ -1,5 +1,5 @@
 --- 
-title:Folding Boat 
+title: Folding Boat 
 ---
 # Folding Boat
 

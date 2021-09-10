@@ -1,5 +1,5 @@
 --- 
-title:Gargoyle 
+title: Gargoyle 
 ---
 # Gargoyle
 

@@ -1,5 +1,5 @@
 --- 
-title:Combat mission 3 Hold the line 
+title: Combat mission 3 Hold the line 
 ---
 ### Mission 3: Hold the Line
 

@@ -1,5 +1,5 @@
 --- 
-title:Ranch 3 Mulcere 
+title: Ranch 3 Mulcere 
 ---
 ---
 alias: 'Ranch 3, Ranch Mulcere, Mulcere'

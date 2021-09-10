@@ -1,5 +1,5 @@
 --- 
-title:Sea Horse 
+title: Sea Horse 
 ---
 # Sea Horse
 

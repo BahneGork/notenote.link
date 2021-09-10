@@ -1,5 +1,5 @@
 --- 
-title:Bracers of Archery 
+title: Bracers of Archery 
 ---
 # Bracers of Archery
 

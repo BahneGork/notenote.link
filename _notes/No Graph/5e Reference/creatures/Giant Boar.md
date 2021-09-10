@@ -1,5 +1,5 @@
 --- 
-title:Giant Boar 
+title: Giant Boar 
 ---
 # Giant Boar
 

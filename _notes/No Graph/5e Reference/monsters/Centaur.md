@@ -1,5 +1,5 @@
 --- 
-title:Centaur 
+title: Centaur 
 ---
 # Centaur
 

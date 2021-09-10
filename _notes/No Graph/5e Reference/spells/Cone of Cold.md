@@ -1,5 +1,5 @@
 --- 
-title:Cone of Cold 
+title: Cone of Cold 
 ---
 # Cone of Cold
 

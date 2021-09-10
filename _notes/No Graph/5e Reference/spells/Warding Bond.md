@@ -1,5 +1,5 @@
 --- 
-title:Warding Bond 
+title: Warding Bond 
 ---
 # Warding Bond
 

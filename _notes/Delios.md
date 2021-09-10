@@ -1,5 +1,5 @@
 --- 
-title:Delios 
+title: Delios 
 ---
 #town #bedegaarnBaroni #location #subregion 
 Main: [[Misty Falls]] Related: [[The Bedegaarn Barony MOC]]

@@ -1,5 +1,5 @@
 --- 
-title:Flying Snake 
+title: Flying Snake 
 ---
 # Flying Snake
 

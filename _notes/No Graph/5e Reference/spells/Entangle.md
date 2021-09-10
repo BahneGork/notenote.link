@@ -1,5 +1,5 @@
 --- 
-title:Entangle 
+title: Entangle 
 ---
 # Entangle
 

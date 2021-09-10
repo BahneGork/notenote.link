@@ -1,5 +1,5 @@
 --- 
-title:Simulacrum 
+title: Simulacrum 
 ---
 # Simulacrum
 

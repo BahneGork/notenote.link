@@ -1,5 +1,5 @@
 --- 
-title:Trade Goods 
+title: Trade Goods 
 ---
 # Trade Goods
 

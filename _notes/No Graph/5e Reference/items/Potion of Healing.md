@@ -1,5 +1,5 @@
 --- 
-title:Potion of Healing 
+title: Potion of Healing 
 ---
 # Potion of Healing
 

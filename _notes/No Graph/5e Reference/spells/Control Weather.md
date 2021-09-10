@@ -1,5 +1,5 @@
 --- 
-title:Control Weather 
+title: Control Weather 
 ---
 # Control Weather
 

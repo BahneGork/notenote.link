@@ -1,5 +1,5 @@
 --- 
-title:Swarm of Insects 
+title: Swarm of Insects 
 ---
 # Swarm of Insects
 

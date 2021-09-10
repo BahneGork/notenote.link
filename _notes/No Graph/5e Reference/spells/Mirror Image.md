@@ -1,5 +1,5 @@
 --- 
-title:Mirror Image 
+title: Mirror Image 
 ---
 # Mirror Image
 

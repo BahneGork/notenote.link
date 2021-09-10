@@ -1,5 +1,5 @@
 --- 
-title:Bag of Tricks 
+title: Bag of Tricks 
 ---
 # Bag of Tricks
 

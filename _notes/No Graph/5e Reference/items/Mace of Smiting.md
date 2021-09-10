@@ -1,5 +1,5 @@
 --- 
-title:Mace of Smiting 
+title: Mace of Smiting 
 ---
 # Mace of Smiting
 

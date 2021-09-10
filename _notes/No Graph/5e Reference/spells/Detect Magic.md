@@ -1,5 +1,5 @@
 --- 
-title:Detect Magic 
+title: Detect Magic 
 ---
 # Detect Magic
 

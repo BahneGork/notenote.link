@@ -1,5 +1,5 @@
 --- 
-title:Goggles of Night 
+title: Goggles of Night 
 ---
 # Goggles of Night
 

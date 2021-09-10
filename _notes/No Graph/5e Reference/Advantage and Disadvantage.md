@@ -1,5 +1,5 @@
 --- 
-title:Advantage and Disadvantage 
+title: Advantage and Disadvantage 
 ---
 # Advantage and Disadvantage
 

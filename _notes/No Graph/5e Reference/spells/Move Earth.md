@@ -1,5 +1,5 @@
 --- 
-title:Move Earth 
+title: Move Earth 
 ---
 # Move Earth
 

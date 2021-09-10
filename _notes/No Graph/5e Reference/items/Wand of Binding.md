@@ -1,5 +1,5 @@
 --- 
-title:Wand of Binding 
+title: Wand of Binding 
 ---
 # Wand of Binding
 

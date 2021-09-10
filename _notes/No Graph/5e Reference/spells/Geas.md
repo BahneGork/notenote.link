@@ -1,5 +1,5 @@
 --- 
-title:Geas 
+title: Geas 
 ---
 # Geas
 

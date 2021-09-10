@@ -1,5 +1,5 @@
 --- 
-title:Kobold 
+title: Kobold 
 ---
 # Kobold
 

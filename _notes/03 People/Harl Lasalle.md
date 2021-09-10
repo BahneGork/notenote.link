@@ -1,5 +1,5 @@
 --- 
-title:Harl Lasalle 
+title: Harl Lasalle 
 ---
 #npc #history #arendur 
 Main:[[The black oak fight]]

@@ -1,5 +1,5 @@
 --- 
-title:Random hooks 
+title: Random hooks 
 ---
 
 [[Baron Hexton]] offers [[The Shadow company]] to join his growing army, intermediate contact

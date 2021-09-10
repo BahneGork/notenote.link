@@ -1,5 +1,5 @@
 --- 
-title:Resurrection 
+title: Resurrection 
 ---
 # Resurrection
 

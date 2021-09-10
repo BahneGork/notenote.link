@@ -1,5 +1,5 @@
 --- 
-title:Jackal 
+title: Jackal 
 ---
 # Jackal
 

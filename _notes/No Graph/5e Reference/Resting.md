@@ -1,5 +1,5 @@
 --- 
-title:Resting 
+title: Resting 
 ---
 # Resting
 

@@ -1,5 +1,5 @@
 --- 
-title:query 
+title: query 
 ---
 ```query
 

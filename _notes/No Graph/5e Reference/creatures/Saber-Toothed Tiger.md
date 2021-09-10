@@ -1,5 +1,5 @@
 --- 
-title:Saber-Toothed Tiger 
+title: Saber-Toothed Tiger 
 ---
 # Saber-Toothed Tiger
 

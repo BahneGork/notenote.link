@@ -1,5 +1,5 @@
 --- 
-title:Wind Wall 
+title: Wind Wall 
 ---
 # Wind Wall
 

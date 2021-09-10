@@ -1,5 +1,5 @@
 --- 
-title:Boar 
+title: Boar 
 ---
 # Boar
 

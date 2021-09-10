@@ -1,5 +1,5 @@
 --- 
-title:Bestow Curse 
+title: Bestow Curse 
 ---
 # Bestow Curse
 

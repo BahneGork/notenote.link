@@ -1,5 +1,5 @@
 --- 
-title:Amulet of Proof against Detection and Location 
+title: Amulet of Proof against Detection and Location 
 ---
 # Amulet of Proof against Detection and Location
 

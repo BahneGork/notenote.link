@@ -1,5 +1,5 @@
 --- 
-title:Ranch 4 Beltath 
+title: Ranch 4 Beltath 
 ---
 ---
 alias: 'Ranch 4, Beltath, Ranch Beltath, Ranch Paget, Paget Ranch'

@@ -1,5 +1,5 @@
 --- 
-title:Ring of Spell Storing 
+title: Ring of Spell Storing 
 ---
 # Ring of Spell Storing
 

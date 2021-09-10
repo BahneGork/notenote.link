@@ -1,5 +1,5 @@
 --- 
-title:Crystal Ball 
+title: Crystal Ball 
 ---
 # Crystal Ball
 

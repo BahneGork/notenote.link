@@ -1,5 +1,5 @@
 --- 
-title:Wall of Stone 
+title: Wall of Stone 
 ---
 # Wall of Stone
 

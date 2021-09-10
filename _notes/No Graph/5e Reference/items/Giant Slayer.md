@@ -1,5 +1,5 @@
 --- 
-title:Giant Slayer 
+title: Giant Slayer 
 ---
 # Giant Slayer
 

@@ -1,5 +1,5 @@
 --- 
-title:Finger of Death 
+title: Finger of Death 
 ---
 # Finger of Death
 

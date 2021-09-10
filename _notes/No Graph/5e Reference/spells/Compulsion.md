@@ -1,5 +1,5 @@
 --- 
-title:Compulsion 
+title: Compulsion 
 ---
 # Compulsion
 

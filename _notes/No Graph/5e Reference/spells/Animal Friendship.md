@@ -1,5 +1,5 @@
 --- 
-title:Animal Friendship 
+title: Animal Friendship 
 ---
 # Animal Friendship
 

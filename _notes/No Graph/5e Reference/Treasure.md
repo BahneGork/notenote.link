@@ -1,5 +1,5 @@
 --- 
-title:Treasure 
+title: Treasure 
 ---
 # Treasure
 

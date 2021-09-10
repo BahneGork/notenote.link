@@ -1,5 +1,5 @@
 --- 
-title:Seeming 
+title: Seeming 
 ---
 # Seeming
 

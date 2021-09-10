@@ -1,5 +1,5 @@
 --- 
-title:Polar Bear 
+title: Polar Bear 
 ---
 # Polar Bear
 

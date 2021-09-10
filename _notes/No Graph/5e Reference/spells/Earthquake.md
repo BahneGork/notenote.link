@@ -1,5 +1,5 @@
 --- 
-title:Earthquake 
+title: Earthquake 
 ---
 # Earthquake
 

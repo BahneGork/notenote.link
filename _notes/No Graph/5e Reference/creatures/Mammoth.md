@@ -1,5 +1,5 @@
 --- 
-title:Mammoth 
+title: Mammoth 
 ---
 # Mammoth
 

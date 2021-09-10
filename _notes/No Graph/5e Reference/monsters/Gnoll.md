@@ -1,5 +1,5 @@
 --- 
-title:Gnoll 
+title: Gnoll 
 ---
 # Gnoll
 

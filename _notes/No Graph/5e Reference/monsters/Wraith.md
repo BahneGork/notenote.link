@@ -1,5 +1,5 @@
 --- 
-title:Wraith 
+title: Wraith 
 ---
 # Wraith
 

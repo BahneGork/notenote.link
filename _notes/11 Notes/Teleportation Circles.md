@@ -1,5 +1,5 @@
 --- 
-title:Teleportation Circles 
+title: Teleportation Circles 
 ---
 #location #powernode 
 Main: [[POI MOC]]

@@ -1,5 +1,5 @@
 --- 
-title:Everending Staircase 
+title: Everending Staircase 
 ---
 #location 
 Main: [[Logged - Session 26]]

@@ -1,5 +1,5 @@
 --- 
-title:Recipe - Dragon scale mail 
+title: Recipe - Dragon scale mail 
 ---
 #magicitemformula #recipe 
 ### Dragon Scale Mail

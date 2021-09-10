@@ -1,5 +1,5 @@
 --- 
-title:Phantom Steed 
+title: Phantom Steed 
 ---
 # Phantom Steed
 

@@ -1,5 +1,5 @@
 --- 
-title:Lord Zott 
+title: Lord Zott 
 ---
 #god 
 Main: [[Factions MOC]]

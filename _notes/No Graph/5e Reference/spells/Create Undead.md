@@ -1,5 +1,5 @@
 --- 
-title:Create Undead 
+title: Create Undead 
 ---
 # Create Undead
 

@@ -1,5 +1,5 @@
 --- 
-title:Mass Suggestion 
+title: Mass Suggestion 
 ---
 # Mass Suggestion
 

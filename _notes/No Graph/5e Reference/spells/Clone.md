@@ -1,5 +1,5 @@
 --- 
-title:Clone 
+title: Clone 
 ---
 # Clone
 

@@ -1,5 +1,5 @@
 --- 
-title:Find Traps 
+title: Find Traps 
 ---
 # Find Traps
 

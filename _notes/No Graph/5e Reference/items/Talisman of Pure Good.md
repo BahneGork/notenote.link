@@ -1,5 +1,5 @@
 --- 
-title:Talisman of Pure Good 
+title: Talisman of Pure Good 
 ---
 # Talisman of Pure Good
 

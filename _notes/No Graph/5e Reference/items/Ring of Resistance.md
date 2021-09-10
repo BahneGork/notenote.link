@@ -1,5 +1,5 @@
 --- 
-title:Ring of Resistance 
+title: Ring of Resistance 
 ---
 # Ring of Resistance
 

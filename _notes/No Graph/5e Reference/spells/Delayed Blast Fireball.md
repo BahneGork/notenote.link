@@ -1,5 +1,5 @@
 --- 
-title:Delayed Blast Fireball 
+title: Delayed Blast Fireball 
 ---
 # Delayed Blast Fireball
 

@@ -1,5 +1,5 @@
 --- 
-title:Satyr 
+title: Satyr 
 ---
 # Satyr
 

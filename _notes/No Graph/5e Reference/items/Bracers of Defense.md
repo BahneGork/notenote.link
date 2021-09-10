@@ -1,5 +1,5 @@
 --- 
-title:Bracers of Defense 
+title: Bracers of Defense 
 ---
 # Bracers of Defense
 

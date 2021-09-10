@@ -1,5 +1,5 @@
 --- 
-title:Greater Invisibility 
+title: Greater Invisibility 
 ---
 # Greater Invisibility
 

@@ -1,5 +1,5 @@
 --- 
-title:Minotaur 
+title: Minotaur 
 ---
 # Minotaur
 

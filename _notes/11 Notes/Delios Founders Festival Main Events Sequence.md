@@ -1,5 +1,5 @@
 --- 
-title:Delios Founders Festival Main Events Sequence 
+title: Delios Founders Festival Main Events Sequence 
 ---
 # Delios Founders Festival Main Events Sequence
 Main:

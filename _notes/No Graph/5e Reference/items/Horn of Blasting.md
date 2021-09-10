@@ -1,5 +1,5 @@
 --- 
-title:Horn of Blasting 
+title: Horn of Blasting 
 ---
 # Horn of Blasting
 

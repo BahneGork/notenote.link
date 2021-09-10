@@ -1,5 +1,5 @@
 --- 
-title:Plate Armor of Etherealness 
+title: Plate Armor of Etherealness 
 ---
 # Plate Armor of Etherealness
 

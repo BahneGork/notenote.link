@@ -1,5 +1,5 @@
 --- 
-title:Archmage 
+title: Archmage 
 ---
 # Archmage
 

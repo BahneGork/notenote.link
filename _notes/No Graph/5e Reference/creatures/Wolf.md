@@ -1,5 +1,5 @@
 --- 
-title:Wolf 
+title: Wolf 
 ---
 # Wolf
 

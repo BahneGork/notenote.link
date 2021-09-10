@@ -1,5 +1,5 @@
 --- 
-title:Spellcasting 
+title: Spellcasting 
 ---
 # Spellcasting
 

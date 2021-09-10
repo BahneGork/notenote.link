@@ -1,5 +1,5 @@
 --- 
-title:Antipathy slash Sympathy 
+title: Antipathy slash Sympathy 
 ---
 # Antipathy/Sympathy
 

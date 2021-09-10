@@ -1,5 +1,5 @@
 --- 
-title:Hat of Disguise 
+title: Hat of Disguise 
 ---
 # Hat of Disguise
 

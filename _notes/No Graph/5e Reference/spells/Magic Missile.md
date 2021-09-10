@@ -1,5 +1,5 @@
 --- 
-title:Magic Missile 
+title: Magic Missile 
 ---
 # Magic Missile
 

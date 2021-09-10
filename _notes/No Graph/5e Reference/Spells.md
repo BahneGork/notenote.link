@@ -1,5 +1,5 @@
 --- 
-title:Spells 
+title: Spells 
 ---
 # Spells
 - [[Acid Arrow]]

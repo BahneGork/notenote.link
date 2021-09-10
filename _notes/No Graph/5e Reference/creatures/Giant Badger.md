@@ -1,5 +1,5 @@
 --- 
-title:Giant Badger 
+title: Giant Badger 
 ---
 # Giant Badger
 

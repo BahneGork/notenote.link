@@ -1,4 +1,4 @@
 --- 
-title:fyellow 
+title: fyellow 
 ---
 \color{fyellow}

@@ -1,4 +1,4 @@
 --- 
-title:sub 
+title: sub 
 ---
 <sub></sub>

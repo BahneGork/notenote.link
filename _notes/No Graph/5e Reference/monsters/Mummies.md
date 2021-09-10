@@ -1,5 +1,5 @@
 --- 
-title:Mummies 
+title: Mummies 
 ---
 # Mummies
 

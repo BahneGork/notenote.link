@@ -1,5 +1,5 @@
 --- 
-title:Heat Metal 
+title: Heat Metal 
 ---
 # Heat Metal
 

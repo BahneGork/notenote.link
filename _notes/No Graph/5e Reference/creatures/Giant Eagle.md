@@ -1,5 +1,5 @@
 --- 
-title:Giant Eagle 
+title: Giant Eagle 
 ---
 # Giant Eagle
 

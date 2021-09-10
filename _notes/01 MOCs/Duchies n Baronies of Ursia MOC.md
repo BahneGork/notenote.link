@@ -1,5 +1,5 @@
 --- 
-title:Duchies n Baronies of Ursia MOC 
+title: Duchies n Baronies of Ursia MOC 
 ---
 #MOC #Regions 
 Main: [[+home]]

@@ -1,5 +1,5 @@
 --- 
-title:Freedom of Movement 
+title: Freedom of Movement 
 ---
 # Freedom of Movement
 

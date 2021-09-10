@@ -1,5 +1,5 @@
 --- 
-title:Pearl of Power 
+title: Pearl of Power 
 ---
 # Pearl of Power
 

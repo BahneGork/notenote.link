@@ -1,5 +1,5 @@
 --- 
-title:Lightning Bolt 
+title: Lightning Bolt 
 ---
 # Lightning Bolt
 

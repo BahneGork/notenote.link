@@ -1,5 +1,5 @@
 --- 
-title:Suggestion 
+title: Suggestion 
 ---
 # Suggestion
 

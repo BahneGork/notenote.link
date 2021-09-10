@@ -1,5 +1,5 @@
 --- 
-title:Beacon of Hope 
+title: Beacon of Hope 
 ---
 # Beacon of Hope
 

@@ -1,5 +1,5 @@
 --- 
-title:Gem of Seeing 
+title: Gem of Seeing 
 ---
 # Gem of Seeing
 

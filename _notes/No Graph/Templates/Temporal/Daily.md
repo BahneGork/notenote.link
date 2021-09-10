@@ -1,5 +1,5 @@
 --- 
-title:Daily 
+title: Daily 
 ---
 ---
 aliases: 

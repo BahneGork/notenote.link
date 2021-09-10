@@ -1,5 +1,5 @@
 --- 
-title:True Strike 
+title: True Strike 
 ---
 # True Strike
 

@@ -1,5 +1,5 @@
 --- 
-title:Lord wolfgang landor 
+title: Lord wolfgang landor 
 ---
 #npc #delios 
 

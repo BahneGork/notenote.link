@@ -1,5 +1,5 @@
 --- 
-title:Cloak of the Bat 
+title: Cloak of the Bat 
 ---
 # Cloak of the Bat
 

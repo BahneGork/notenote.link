@@ -1,5 +1,5 @@
 --- 
-title:Cloak of Protection 
+title: Cloak of Protection 
 ---
 # Cloak of Protection
 

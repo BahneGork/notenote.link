@@ -1,5 +1,5 @@
 --- 
-title:Wizard 
+title: Wizard 
 ---
 # Wizard
 

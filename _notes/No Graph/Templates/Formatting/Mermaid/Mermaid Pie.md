@@ -1,5 +1,5 @@
 --- 
-title:Mermaid Pie 
+title: Mermaid Pie 
 ---
 ```mermaid
 pie

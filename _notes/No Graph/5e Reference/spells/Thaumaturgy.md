@@ -1,5 +1,5 @@
 --- 
-title:Thaumaturgy 
+title: Thaumaturgy 
 ---
 # Thaumaturgy
 

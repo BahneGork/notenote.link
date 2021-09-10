@@ -1,5 +1,5 @@
 --- 
-title:Fungi 
+title: Fungi 
 ---
 # Fungi
 

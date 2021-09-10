@@ -1,5 +1,5 @@
 --- 
-title:Selina Rosenknop 
+title: Selina Rosenknop 
 ---
 #npc #cleric
 Main:[[people MOC]]

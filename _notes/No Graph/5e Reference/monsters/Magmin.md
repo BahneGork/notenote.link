@@ -1,5 +1,5 @@
 --- 
-title:Magmin 
+title: Magmin 
 ---
 # Magmin
 

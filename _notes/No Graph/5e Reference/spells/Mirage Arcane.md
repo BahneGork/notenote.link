@@ -1,5 +1,5 @@
 --- 
-title:Mirage Arcane 
+title: Mirage Arcane 
 ---
 # Mirage Arcane
 

@@ -1,5 +1,5 @@
 --- 
-title:Guiding Bolt 
+title: Guiding Bolt 
 ---
 # Guiding Bolt
 

@@ -1,5 +1,5 @@
 --- 
-title:Mounted Combat 
+title: Mounted Combat 
 ---
 # Mounted Combat
 

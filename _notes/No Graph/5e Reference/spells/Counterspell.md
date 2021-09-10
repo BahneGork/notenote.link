@@ -1,5 +1,5 @@
 --- 
-title:Counterspell 
+title: Counterspell 
 ---
 # Counterspell
 

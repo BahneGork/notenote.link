@@ -1,5 +1,5 @@
 --- 
-title:Giant Wasp 
+title: Giant Wasp 
 ---
 # Giant Wasp
 

@@ -1,5 +1,5 @@
 --- 
-title:Wand of Wonder 
+title: Wand of Wonder 
 ---
 # Wand of Wonder
 

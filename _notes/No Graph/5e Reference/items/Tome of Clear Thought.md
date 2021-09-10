@@ -1,5 +1,5 @@
 --- 
-title:Tome of Clear Thought 
+title: Tome of Clear Thought 
 ---
 # Tome of Clear Thought
 

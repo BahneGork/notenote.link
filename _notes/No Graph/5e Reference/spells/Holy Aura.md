@@ -1,5 +1,5 @@
 --- 
-title:Holy Aura 
+title: Holy Aura 
 ---
 # Holy Aura
 

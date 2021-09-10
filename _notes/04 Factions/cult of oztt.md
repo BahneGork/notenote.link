@@ -1,5 +1,5 @@
 --- 
-title:cult of oztt 
+title: cult of oztt 
 ---
 #faction
 The cult is rumoured to have been established in [[Arendur]]

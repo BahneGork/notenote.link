@@ -1,5 +1,5 @@
 --- 
-title:Oil of Etherealness 
+title: Oil of Etherealness 
 ---
 # Oil of Etherealness
 

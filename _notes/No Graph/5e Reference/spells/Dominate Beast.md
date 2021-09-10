@@ -1,5 +1,5 @@
 --- 
-title:Dominate Beast 
+title: Dominate Beast 
 ---
 # Dominate Beast
 

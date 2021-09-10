@@ -1,5 +1,5 @@
 --- 
-title:Find the Path 
+title: Find the Path 
 ---
 # Find the Path
 

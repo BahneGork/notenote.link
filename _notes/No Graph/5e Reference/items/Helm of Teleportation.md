@@ -1,5 +1,5 @@
 --- 
-title:Helm of Teleportation 
+title: Helm of Teleportation 
 ---
 # Helm of Teleportation
 

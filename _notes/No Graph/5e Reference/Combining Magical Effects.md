@@ -1,5 +1,5 @@
 --- 
-title:Combining Magical Effects 
+title: Combining Magical Effects 
 ---
 # Combining Magical Effects
 

@@ -1,5 +1,5 @@
 --- 
-title:Cloak of the Manta Ray 
+title: Cloak of the Manta Ray 
 ---
 # Cloak of the Manta Ray
 

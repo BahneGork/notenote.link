@@ -1,5 +1,5 @@
 --- 
-title:Goat 
+title: Goat 
 ---
 # Goat
 

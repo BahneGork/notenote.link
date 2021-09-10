@@ -1,5 +1,5 @@
 --- 
-title:Dire Wolf 
+title: Dire Wolf 
 ---
 # Dire Wolf
 

@@ -1,5 +1,5 @@
 --- 
-title:Divination 
+title: Divination 
 ---
 # Divination
 

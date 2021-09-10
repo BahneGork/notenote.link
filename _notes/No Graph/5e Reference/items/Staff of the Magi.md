@@ -1,5 +1,5 @@
 --- 
-title:Staff of the Magi 
+title: Staff of the Magi 
 ---
 # Staff of the Magi
 

@@ -1,5 +1,5 @@
 --- 
-title:Paladin 
+title: Paladin 
 ---
 # Paladin
 

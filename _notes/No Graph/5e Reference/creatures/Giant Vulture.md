@@ -1,5 +1,5 @@
 --- 
-title:Giant Vulture 
+title: Giant Vulture 
 ---
 # Giant Vulture
 

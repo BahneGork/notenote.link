@@ -1,5 +1,5 @@
 --- 
-title:Manual of Quickness of Action 
+title: Manual of Quickness of Action 
 ---
 # Manual of Quickness of Action
 

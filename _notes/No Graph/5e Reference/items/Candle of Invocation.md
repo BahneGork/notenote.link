@@ -1,5 +1,5 @@
 --- 
-title:Candle of Invocation 
+title: Candle of Invocation 
 ---
 # Candle of Invocation
 

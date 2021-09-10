@@ -1,5 +1,5 @@
 --- 
-title:Creatures 
+title: Creatures 
 ---
 # Creatures
 - [[Ape]]

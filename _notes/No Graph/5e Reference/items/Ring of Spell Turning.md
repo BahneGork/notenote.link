@@ -1,5 +1,5 @@
 --- 
-title:Ring of Spell Turning 
+title: Ring of Spell Turning 
 ---
 # Ring of Spell Turning
 

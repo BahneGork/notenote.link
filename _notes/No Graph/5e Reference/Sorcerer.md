@@ -1,5 +1,5 @@
 --- 
-title:Sorcerer 
+title: Sorcerer 
 ---
 # Sorcerer
 

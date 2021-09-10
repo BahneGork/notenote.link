@@ -1,5 +1,5 @@
 --- 
-title:Animate Objects 
+title: Animate Objects 
 ---
 # Animate Objects
 

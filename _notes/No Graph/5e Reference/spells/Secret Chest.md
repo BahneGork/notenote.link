@@ -1,5 +1,5 @@
 --- 
-title:Secret Chest 
+title: Secret Chest 
 ---
 # Secret Chest
 

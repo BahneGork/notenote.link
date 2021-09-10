@@ -1,5 +1,5 @@
 --- 
-title:Faithful Hound 
+title: Faithful Hound 
 ---
 # Faithful Hound
 

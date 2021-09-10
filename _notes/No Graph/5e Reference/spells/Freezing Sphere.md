@@ -1,5 +1,5 @@
 --- 
-title:Freezing Sphere 
+title: Freezing Sphere 
 ---
 # Freezing Sphere
 

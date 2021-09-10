@@ -1,5 +1,5 @@
 --- 
-title:Hideous Laughter 
+title: Hideous Laughter 
 ---
 # Hideous Laughter
 

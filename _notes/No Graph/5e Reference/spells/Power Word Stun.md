@@ -1,5 +1,5 @@
 --- 
-title:Power Word Stun 
+title: Power Word Stun 
 ---
 # Power Word Stun
 

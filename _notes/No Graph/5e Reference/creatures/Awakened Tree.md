@@ -1,5 +1,5 @@
 --- 
-title:Awakened Tree 
+title: Awakened Tree 
 ---
 # Awakened Tree
 

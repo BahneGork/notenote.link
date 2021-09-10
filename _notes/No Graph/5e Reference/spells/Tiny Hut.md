@@ -1,5 +1,5 @@
 --- 
-title:Tiny Hut 
+title: Tiny Hut 
 ---
 # Tiny Hut
 

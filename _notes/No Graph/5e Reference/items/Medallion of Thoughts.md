@@ -1,5 +1,5 @@
 --- 
-title:Medallion of Thoughts 
+title: Medallion of Thoughts 
 ---
 # Medallion of Thoughts
 

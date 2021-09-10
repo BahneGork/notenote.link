@@ -1,5 +1,5 @@
 --- 
-title:Staff of Healing 
+title: Staff of Healing 
 ---
 # Staff of Healing
 

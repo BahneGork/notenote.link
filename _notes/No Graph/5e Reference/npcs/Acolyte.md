@@ -1,5 +1,5 @@
 --- 
-title:Acolyte 
+title: Acolyte 
 ---
 # Acolyte
 

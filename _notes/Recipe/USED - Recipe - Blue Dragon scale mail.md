@@ -1,5 +1,5 @@
 --- 
-title:USED - Recipe - Blue Dragon scale mail 
+title: USED - Recipe - Blue Dragon scale mail 
 ---
 #magicitemformula #recipe 
 ### Blue Dragon Scale Mail

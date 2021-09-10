@@ -1,5 +1,5 @@
 --- 
-title:Mass Cure Wounds 
+title: Mass Cure Wounds 
 ---
 # Mass Cure Wounds
 

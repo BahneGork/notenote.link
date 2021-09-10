@@ -1,5 +1,5 @@
 --- 
-title:Noble 
+title: Noble 
 ---
 # Noble
 

@@ -1,5 +1,5 @@
 --- 
-title:Awakened Shrub 
+title: Awakened Shrub 
 ---
 # Awakened Shrub
 

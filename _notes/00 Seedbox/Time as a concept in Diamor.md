@@ -1,5 +1,5 @@
 --- 
-title:Time as a concept in Diamor 
+title: Time as a concept in Diamor 
 ---
 #thinking 
 

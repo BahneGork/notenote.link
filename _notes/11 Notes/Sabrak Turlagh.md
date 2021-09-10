@@ -1,5 +1,5 @@
 --- 
-title:Sabrak Turlagh 
+title: Sabrak Turlagh 
 ---
 #dwarven #language #title
 

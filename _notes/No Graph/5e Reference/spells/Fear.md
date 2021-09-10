@@ -1,5 +1,5 @@
 --- 
-title:Fear 
+title: Fear 
 ---
 # Fear
 

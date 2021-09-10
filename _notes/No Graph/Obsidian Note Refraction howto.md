@@ -1,3 +1,3 @@
 --- 
-title:Obsidian Note Refraction howto 
+title: Obsidian Note Refraction howto 
 ---

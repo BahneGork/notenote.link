@@ -1,5 +1,5 @@
 --- 
-title:Dominate Person 
+title: Dominate Person 
 ---
 # Dominate Person
 

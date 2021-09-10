@@ -1,5 +1,5 @@
 --- 
-title:Stone of Controlling Earth Elementals 
+title: Stone of Controlling Earth Elementals 
 ---
 # Stone of Controlling Earth Elementals
 

@@ -1,5 +1,5 @@
 --- 
-title:Disintegrate 
+title: Disintegrate 
 ---
 # Disintegrate
 

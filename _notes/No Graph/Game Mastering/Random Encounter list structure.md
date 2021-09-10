@@ -1,5 +1,5 @@
 --- 
-title:Random Encounter list structure 
+title: Random Encounter list structure 
 ---
 Complications
 

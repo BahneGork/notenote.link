@@ -1,5 +1,5 @@
 --- 
-title:Lycanthropes 
+title: Lycanthropes 
 ---
 # Lycanthropes
 

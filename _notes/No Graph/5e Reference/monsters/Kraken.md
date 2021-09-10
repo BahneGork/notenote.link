@@ -1,5 +1,5 @@
 --- 
-title:Kraken 
+title: Kraken 
 ---
 # Kraken
 

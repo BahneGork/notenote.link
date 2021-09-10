@@ -1,5 +1,5 @@
 --- 
-title:Gem of Brightness 
+title: Gem of Brightness 
 ---
 # Gem of Brightness
 

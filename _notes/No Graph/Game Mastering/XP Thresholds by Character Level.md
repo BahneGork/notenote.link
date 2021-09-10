@@ -1,5 +1,5 @@
 --- 
-title:XP Thresholds by Character Level 
+title: XP Thresholds by Character Level 
 ---
 #XP 
 Main: [[Encounter building]]

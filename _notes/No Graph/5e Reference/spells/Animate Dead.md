@@ -1,5 +1,5 @@
 --- 
-title:Animate Dead 
+title: Animate Dead 
 ---
 # Animate Dead
 

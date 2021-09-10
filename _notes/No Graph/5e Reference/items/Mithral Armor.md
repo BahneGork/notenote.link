@@ -1,5 +1,5 @@
 --- 
-title:Mithral Armor 
+title: Mithral Armor 
 ---
 # Mithral Armor
 

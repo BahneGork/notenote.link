@@ -1,5 +1,5 @@
 --- 
-title:Helm of Brilliance 
+title: Helm of Brilliance 
 ---
 # Helm of Brilliance
 

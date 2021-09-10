@@ -1,5 +1,5 @@
 --- 
-title:Knight 
+title: Knight 
 ---
 # Knight
 

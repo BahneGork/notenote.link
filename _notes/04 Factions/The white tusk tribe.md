@@ -1,5 +1,5 @@
 --- 
-title:The white tusk tribe 
+title: The white tusk tribe 
 ---
 ---
 alias: 'white tusks'

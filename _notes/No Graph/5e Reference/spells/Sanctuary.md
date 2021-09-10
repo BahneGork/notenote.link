@@ -1,5 +1,5 @@
 --- 
-title:Sanctuary 
+title: Sanctuary 
 ---
 # Sanctuary
 

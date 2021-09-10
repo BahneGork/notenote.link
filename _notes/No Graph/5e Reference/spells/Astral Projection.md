@@ -1,5 +1,5 @@
 --- 
-title:Astral Projection 
+title: Astral Projection 
 ---
 # Astral Projection
 

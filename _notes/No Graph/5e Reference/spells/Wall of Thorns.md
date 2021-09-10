@@ -1,5 +1,5 @@
 --- 
-title:Wall of Thorns 
+title: Wall of Thorns 
 ---
 # Wall of Thorns
 

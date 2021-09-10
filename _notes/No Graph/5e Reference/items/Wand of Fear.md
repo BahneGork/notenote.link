@@ -1,5 +1,5 @@
 --- 
-title:Wand of Fear 
+title: Wand of Fear 
 ---
 # Wand of Fear
 

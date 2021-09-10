@@ -1,5 +1,5 @@
 --- 
-title:Delios Festival random lists 
+title: Delios Festival random lists 
 ---
 [[Delios Festival Script]] [[annual founders celebration|founders festival]]
 

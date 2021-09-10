@@ -1,5 +1,5 @@
 --- 
-title:Insect Plague 
+title: Insect Plague 
 ---
 # Insect Plague
 

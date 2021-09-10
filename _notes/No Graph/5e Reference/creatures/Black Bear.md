@@ -1,5 +1,5 @@
 --- 
-title:Black Bear 
+title: Black Bear 
 ---
 # Black Bear
 

@@ -1,5 +1,5 @@
 --- 
-title:Giant Octopus 
+title: Giant Octopus 
 ---
 # Giant Octopus
 

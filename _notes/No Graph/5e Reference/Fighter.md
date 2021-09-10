@@ -1,5 +1,5 @@
 --- 
-title:Fighter 
+title: Fighter 
 ---
 # Fighter
 

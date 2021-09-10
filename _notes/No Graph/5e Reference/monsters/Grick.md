@@ -1,5 +1,5 @@
 --- 
-title:Grick 
+title: Grick 
 ---
 # Grick
 

@@ -1,5 +1,5 @@
 --- 
-title:Brown Bear 
+title: Brown Bear 
 ---
 # Brown Bear
 

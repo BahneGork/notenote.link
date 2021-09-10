@@ -1,5 +1,5 @@
 --- 
-title:Bugbear 
+title: Bugbear 
 ---
 # Bugbear
 

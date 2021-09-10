@@ -1,5 +1,5 @@
 --- 
-title:Periapt of Proof against Poison 
+title: Periapt of Proof against Poison 
 ---
 # Periapt of Proof against Poison
 

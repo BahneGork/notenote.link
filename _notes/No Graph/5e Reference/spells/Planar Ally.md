@@ -1,5 +1,5 @@
 --- 
-title:Planar Ally 
+title: Planar Ally 
 ---
 # Planar Ally
 

@@ -1,5 +1,5 @@
 --- 
-title:Adventuring Gear 
+title: Adventuring Gear 
 ---
 # Adventuring Gear
 

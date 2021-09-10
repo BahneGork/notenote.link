@@ -1,5 +1,5 @@
 --- 
-title:Project Image 
+title: Project Image 
 ---
 # Project Image
 

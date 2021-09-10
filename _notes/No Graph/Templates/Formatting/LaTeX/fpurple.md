@@ -1,4 +1,4 @@
 --- 
-title:fpurple 
+title: fpurple 
 ---
 \color{fpurple}

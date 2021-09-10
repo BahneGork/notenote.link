@@ -1,5 +1,5 @@
 --- 
-title:Weasel 
+title: Weasel 
 ---
 # Weasel
 

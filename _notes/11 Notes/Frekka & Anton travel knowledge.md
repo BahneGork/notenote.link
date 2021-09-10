@@ -1,5 +1,5 @@
 --- 
-title:Frekka & Anton travel knowledge 
+title: Frekka & Anton travel knowledge 
 ---
 # Frekka & Anton travel knowledge
 Main:

@@ -1,5 +1,5 @@
 --- 
-title:Gladiator 
+title: Gladiator 
 ---
 # Gladiator
 

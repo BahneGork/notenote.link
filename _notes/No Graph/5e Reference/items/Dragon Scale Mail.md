@@ -1,5 +1,5 @@
 --- 
-title:Dragon Scale Mail 
+title: Dragon Scale Mail 
 ---
 # Dragon Scale Mail
 

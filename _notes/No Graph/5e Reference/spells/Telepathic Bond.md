@@ -1,5 +1,5 @@
 --- 
-title:Telepathic Bond 
+title: Telepathic Bond 
 ---
 # Telepathic Bond
 

@@ -1,5 +1,5 @@
 --- 
-title:Combat mission 4 Infiltrate 
+title: Combat mission 4 Infiltrate 
 ---
 ### Mission 4: Infiltrate
 

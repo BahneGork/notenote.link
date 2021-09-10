@@ -1,5 +1,5 @@
 --- 
-title:Efficient Quiver 
+title: Efficient Quiver 
 ---
 # Efficient Quiver
 

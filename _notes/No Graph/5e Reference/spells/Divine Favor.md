@@ -1,5 +1,5 @@
 --- 
-title:Divine Favor 
+title: Divine Favor 
 ---
 # Divine Favor
 

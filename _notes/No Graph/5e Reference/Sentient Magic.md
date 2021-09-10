@@ -1,5 +1,5 @@
 --- 
-title:Sentient Magic 
+title: Sentient Magic 
 ---
 # Sentient Magic
 

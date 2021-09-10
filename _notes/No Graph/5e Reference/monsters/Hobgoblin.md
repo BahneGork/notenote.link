@@ -1,5 +1,5 @@
 --- 
-title:Hobgoblin 
+title: Hobgoblin 
 ---
 # Hobgoblin
 

@@ -1,5 +1,5 @@
 --- 
-title:Weapons 
+title: Weapons 
 ---
 # Weapons
 

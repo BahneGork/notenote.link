@@ -1,5 +1,5 @@
 --- 
-title:Fireberry 
+title: Fireberry 
 ---
 #npc #mount 
 Main: [[Trellara Nightshadow]]

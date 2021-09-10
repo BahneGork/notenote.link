@@ -1,5 +1,5 @@
 --- 
-title:Adamantine Armor 
+title: Adamantine Armor 
 ---
 # Adamantine Armor
 

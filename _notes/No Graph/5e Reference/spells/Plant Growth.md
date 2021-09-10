@@ -1,5 +1,5 @@
 --- 
-title:Plant Growth 
+title: Plant Growth 
 ---
 # Plant Growth
 

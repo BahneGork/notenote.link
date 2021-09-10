@@ -1,5 +1,5 @@
 --- 
-title:Azuremarket 
+title: Azuremarket 
 ---
 #location #powernode #trade #thefulcrom
 A market in  [[Arendur]]

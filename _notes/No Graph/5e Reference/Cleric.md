@@ -1,5 +1,5 @@
 --- 
-title:Cleric 
+title: Cleric 
 ---
 # Cleric
 

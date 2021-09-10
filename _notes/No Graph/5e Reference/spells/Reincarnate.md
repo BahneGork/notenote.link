@@ -1,5 +1,5 @@
 --- 
-title:Reincarnate 
+title: Reincarnate 
 ---
 # Reincarnate
 

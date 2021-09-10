@@ -1,5 +1,5 @@
 --- 
-title:Sword of Sharpness 
+title: Sword of Sharpness 
 ---
 # Sword of Sharpness
 

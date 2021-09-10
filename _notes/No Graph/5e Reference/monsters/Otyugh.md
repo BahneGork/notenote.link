@@ -1,5 +1,5 @@
 --- 
-title:Otyugh 
+title: Otyugh 
 ---
 # Otyugh
 

@@ -1,5 +1,5 @@
 --- 
-title:Healing Word 
+title: Healing Word 
 ---
 # Healing Word
 

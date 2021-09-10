@@ -1,5 +1,5 @@
 --- 
-title:Arcane Sword 
+title: Arcane Sword 
 ---
 # Arcane Sword
 

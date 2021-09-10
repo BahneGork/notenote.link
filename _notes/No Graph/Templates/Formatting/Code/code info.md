@@ -1,5 +1,5 @@
 --- 
-title:code info 
+title: code info 
 ---
 ```info
 

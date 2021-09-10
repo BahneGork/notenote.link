@@ -1,5 +1,5 @@
 --- 
-title:Blade Barrier 
+title: Blade Barrier 
 ---
 # Blade Barrier
 

@@ -1,4 +1,4 @@
 --- 
-title:nred 
+title: nred 
 ---
 \color{nred}

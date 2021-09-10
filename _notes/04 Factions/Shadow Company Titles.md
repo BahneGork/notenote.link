@@ -1,5 +1,5 @@
 --- 
-title:Shadow Company Titles 
+title: Shadow Company Titles 
 ---
 #faction  #playerfaction 
 # The Shadow Company titles

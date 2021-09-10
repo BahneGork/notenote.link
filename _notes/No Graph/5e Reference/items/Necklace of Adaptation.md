@@ -1,5 +1,5 @@
 --- 
-title:Necklace of Adaptation 
+title: Necklace of Adaptation 
 ---
 # Necklace of Adaptation
 

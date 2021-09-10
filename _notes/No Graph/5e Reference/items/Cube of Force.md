@@ -1,5 +1,5 @@
 --- 
-title:Cube of Force 
+title: Cube of Force 
 ---
 # Cube of Force
 

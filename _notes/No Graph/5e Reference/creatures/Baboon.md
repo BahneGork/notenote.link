@@ -1,5 +1,5 @@
 --- 
-title:Baboon 
+title: Baboon 
 ---
 # Baboon
 

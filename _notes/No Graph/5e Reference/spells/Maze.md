@@ -1,5 +1,5 @@
 --- 
-title:Maze 
+title: Maze 
 ---
 # Maze
 

@@ -1,5 +1,5 @@
 --- 
-title:Magic Weapon 
+title: Magic Weapon 
 ---
 # Magic Weapon
 

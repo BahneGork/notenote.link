@@ -1,5 +1,5 @@
 --- 
-title:Tribal Warrior 
+title: Tribal Warrior 
 ---
 # Tribal Warrior
 

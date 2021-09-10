@@ -1,4 +1,4 @@
 --- 
-title:nyellow 
+title: nyellow 
 ---
 \color{nyellow}

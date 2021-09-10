@@ -1,5 +1,5 @@
 --- 
-title:Ranch 5 Tenere 
+title: Ranch 5 Tenere 
 ---
 ---
 alias: 'Ranch 5, Tenere, Ranch Tenere'

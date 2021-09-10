@@ -1,5 +1,5 @@
 --- 
-title:Half-Orc 
+title: Half-Orc 
 ---
 # Half-Orc
 

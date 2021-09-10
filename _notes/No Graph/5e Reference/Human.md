@@ -1,5 +1,5 @@
 --- 
-title:Human 
+title: Human 
 ---
 # Human
 

@@ -1,5 +1,5 @@
 --- 
-title:Lord Vermil 
+title: Lord Vermil 
 ---
 #npc #delios #people 
 Main: [[Delios]]

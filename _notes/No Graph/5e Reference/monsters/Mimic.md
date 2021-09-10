@@ -1,5 +1,5 @@
 --- 
-title:Mimic 
+title: Mimic 
 ---
 # Mimic
 

@@ -1,5 +1,5 @@
 --- 
-title:Combat mission 2 Escape 
+title: Combat mission 2 Escape 
 ---
 ### Mission 2: Escape Destruction
 

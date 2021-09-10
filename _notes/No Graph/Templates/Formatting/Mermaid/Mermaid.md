@@ -1,5 +1,5 @@
 --- 
-title:Mermaid 
+title: Mermaid 
 ---
 ```mermaid
 

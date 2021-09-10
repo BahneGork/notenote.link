@@ -1,5 +1,5 @@
 --- 
-title:Luck Blade 
+title: Luck Blade 
 ---
 # Luck Blade
 

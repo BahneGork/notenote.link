@@ -1,5 +1,5 @@
 --- 
-title:Resilient Sphere 
+title: Resilient Sphere 
 ---
 # Resilient Sphere
 

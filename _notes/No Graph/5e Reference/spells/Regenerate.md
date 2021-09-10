@@ -1,5 +1,5 @@
 --- 
-title:Regenerate 
+title: Regenerate 
 ---
 # Regenerate
 

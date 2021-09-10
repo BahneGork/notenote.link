@@ -1,5 +1,5 @@
 --- 
-title:extract note 
+title: extract note 
 ---
 # {{newTitle}}
 Main:

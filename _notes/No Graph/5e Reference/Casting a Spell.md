@@ -1,5 +1,5 @@
 --- 
-title:Casting a Spell 
+title: Casting a Spell 
 ---
 # Casting a Spell
 

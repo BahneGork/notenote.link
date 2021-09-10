@@ -1,5 +1,5 @@
 --- 
-title:Scout 
+title: Scout 
 ---
 # Scout
 

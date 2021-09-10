@@ -1,5 +1,5 @@
 --- 
-title:Giant Bat 
+title: Giant Bat 
 ---
 # Giant Bat
 

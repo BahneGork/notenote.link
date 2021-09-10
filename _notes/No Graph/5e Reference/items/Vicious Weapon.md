@@ -1,5 +1,5 @@
 --- 
-title:Vicious Weapon 
+title: Vicious Weapon 
 ---
 # Vicious Weapon
 

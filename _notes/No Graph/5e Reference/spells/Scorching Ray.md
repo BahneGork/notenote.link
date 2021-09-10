@@ -1,5 +1,5 @@
 --- 
-title:Scorching Ray 
+title: Scorching Ray 
 ---
 # Scorching Ray
 

@@ -1,5 +1,5 @@
 --- 
-title:Ring of Swimming 
+title: Ring of Swimming 
 ---
 # Ring of Swimming
 

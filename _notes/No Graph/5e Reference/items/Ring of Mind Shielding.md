@@ -1,5 +1,5 @@
 --- 
-title:Ring of Mind Shielding 
+title: Ring of Mind Shielding 
 ---
 # Ring of Mind Shielding
 

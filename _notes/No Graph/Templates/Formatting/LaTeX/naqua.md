@@ -1,4 +1,4 @@
 --- 
-title:naqua 
+title: naqua 
 ---
 \color{naqua}

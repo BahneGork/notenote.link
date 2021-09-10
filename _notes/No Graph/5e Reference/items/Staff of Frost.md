@@ -1,5 +1,5 @@
 --- 
-title:Staff of Frost 
+title: Staff of Frost 
 ---
 # Staff of Frost
 

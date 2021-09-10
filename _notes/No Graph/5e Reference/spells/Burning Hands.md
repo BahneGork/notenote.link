@@ -1,5 +1,5 @@
 --- 
-title:Burning Hands 
+title: Burning Hands 
 ---
 # Burning Hands
 

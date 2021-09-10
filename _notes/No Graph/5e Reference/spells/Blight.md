@@ -1,5 +1,5 @@
 --- 
-title:Blight 
+title: Blight 
 ---
 # Blight
 

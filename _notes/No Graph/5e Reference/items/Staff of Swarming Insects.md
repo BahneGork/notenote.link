@@ -1,5 +1,5 @@
 --- 
-title:Staff of Swarming Insects 
+title: Staff of Swarming Insects 
 ---
 # Staff of Swarming Insects
 

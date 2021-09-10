@@ -1,5 +1,5 @@
 --- 
-title:ambush wagon loot 
+title: ambush wagon loot 
 ---
 # ambush wagon loot
 -   A small statue the size of an forearm, a woman torso and blazing fire underbody. Artist [Heimir Vass](https://www.notion.so/Heimir-Vass-1faf2511a12f46b5ab75a18b199a960c)

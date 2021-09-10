@@ -1,5 +1,5 @@
 --- 
-title:Continual Flame 
+title: Continual Flame 
 ---
 # Continual Flame
 
