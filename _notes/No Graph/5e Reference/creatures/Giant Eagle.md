@@ -1,3 +1,6 @@
+--- 
+title:Giant Eagle 
+---
 # Giant Eagle
 
 *Large beast, neutral good*

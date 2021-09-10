@@ -1,3 +1,6 @@
+--- 
+title:Bag of Tricks 
+---
 # Bag of Tricks
 
 *Wondrous item, uncommon*

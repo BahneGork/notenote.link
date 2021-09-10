@@ -1,3 +1,6 @@
+--- 
+title:Armor of Resistance 
+---
 # Armor of Resistance
 
 *Armor (light, medium, or heavy), rare (requires attunement)*

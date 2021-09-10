@@ -1,3 +1,6 @@
+--- 
+title:Dwarven Thrower 
+---
 # Dwarven Thrower
 
 *Weapon (warhammer), very rare (requires attunement by a dwarf)*

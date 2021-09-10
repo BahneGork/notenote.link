@@ -1,3 +1,6 @@
+--- 
+title:Gem of Seeing 
+---
 # Gem of Seeing
 
 *Wondrous item, rare (requires attunement)*

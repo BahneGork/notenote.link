@@ -1,3 +1,6 @@
+--- 
+title:Hallucinatory Terrain 
+---
 # Hallucinatory Terrain
 
 *4th-level illusion*

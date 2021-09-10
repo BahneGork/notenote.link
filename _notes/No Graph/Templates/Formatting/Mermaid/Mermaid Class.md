@@ -1,3 +1,6 @@
+--- 
+title:Mermaid Class 
+---
 ```mermaid
 %% https://mermaid-js.github.io/mermaid/#/classDiagram
  classDiagram

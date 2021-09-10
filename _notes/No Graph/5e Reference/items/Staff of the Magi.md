@@ -1,3 +1,6 @@
+--- 
+title:Staff of the Magi 
+---
 # Staff of the Magi
 
 *Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)*

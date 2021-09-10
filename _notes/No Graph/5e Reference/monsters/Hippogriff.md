@@ -1,3 +1,6 @@
+--- 
+title:Hippogriff 
+---
 # Hippogriff
 
 *Large monstrosity, unaligned*

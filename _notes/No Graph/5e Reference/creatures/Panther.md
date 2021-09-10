@@ -1,3 +1,6 @@
+--- 
+title:Panther 
+---
 # Panther
 
 *Medium beast, unaligned*

@@ -1,3 +1,6 @@
+--- 
+title:Vicious Mockery 
+---
 # Vicious Mockery
 
 *Enchantment cantrip*

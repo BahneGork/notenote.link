@@ -1,3 +1,6 @@
+--- 
+title:Stoneskin 
+---
 # Stoneskin
 
 *4th-level abjuration*

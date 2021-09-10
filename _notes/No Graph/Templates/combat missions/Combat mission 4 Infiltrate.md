@@ -1,3 +1,6 @@
+--- 
+title:Combat mission 4 Infiltrate 
+---
 ### Mission 4: Infiltrate
 
 _“Mission impossible…_

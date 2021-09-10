@@ -1,3 +1,6 @@
+--- 
+title:Monster Statistics 
+---
 # Monster Statistics
 
 ## Type

@@ -1,3 +1,6 @@
+--- 
+title:Swarm of Insects 
+---
 # Swarm of Insects
 
 *Medium swarm of Tiny beasts, unaligned*

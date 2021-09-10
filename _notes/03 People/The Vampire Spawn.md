@@ -1,3 +1,6 @@
+--- 
+title:The Vampire Spawn 
+---
 #npc #vampire #delios 
 Main: [[Lord Vermil]]
 Related: [[Ranch 1 Falca]] [[Delios]]

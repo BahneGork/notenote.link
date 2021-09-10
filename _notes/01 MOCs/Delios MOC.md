@@ -1,3 +1,9 @@
+--- 
+title:Delios MOC 
+---
+---
+title: {{title}}
+---
 #MOC #location #civilizationhub
 Main: [[The Bedegaarn Barony MOC|Bedegaarn Barony]]
 Related: [[Click claw moors]] - [[Misty Falls]]
@@ -37,4 +43,7 @@ Ancient sewers run underneath [[Delios]]
 # non-hook secrets
 someone is having an affair
 someone wants to ruin anothers business
+someone meddles in everyones affairs
+someone is a gossip
+
 

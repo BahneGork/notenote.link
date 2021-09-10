@@ -1,3 +1,6 @@
+--- 
+title:Crimson Company 
+---
 Cedric Belmont
 Brumor Stålfod
 Assumi Avalande

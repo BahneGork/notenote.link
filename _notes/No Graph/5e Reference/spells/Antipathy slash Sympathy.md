@@ -1,3 +1,6 @@
+--- 
+title:Antipathy slash Sympathy 
+---
 # Antipathy/Sympathy
 
 *8th-level enchantment*

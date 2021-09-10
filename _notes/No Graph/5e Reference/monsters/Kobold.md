@@ -1,3 +1,6 @@
+--- 
+title:Kobold 
+---
 # Kobold
 
 *Small humanoid (kobold), lawful evil*

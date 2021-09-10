@@ -1,3 +1,6 @@
+--- 
+title:Karou's Bakke 
+---
 #location #bedegaarnBaroni #Mistyfalls 
 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related: [[Askagars spire]], [[Nails]], [[Misty Falls]]

@@ -1,3 +1,6 @@
+--- 
+title:Circlet of Blasting 
+---
 # Circlet of Blasting
 
 *Wondrous item, uncommon*

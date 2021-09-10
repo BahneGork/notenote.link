@@ -1,3 +1,6 @@
+--- 
+title:Potion of Heroism 
+---
 # Potion of Heroism
 
 *Potion, rare*

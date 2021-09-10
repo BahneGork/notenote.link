@@ -1,3 +1,6 @@
+--- 
+title:Disguise Self 
+---
 # Disguise Self
 
 *1st-level illusion*

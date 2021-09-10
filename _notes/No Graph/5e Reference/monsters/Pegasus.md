@@ -1,3 +1,6 @@
+--- 
+title:Pegasus 
+---
 # Pegasus
 
 *Large celestial, chaotic good*

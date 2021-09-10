@@ -1,3 +1,6 @@
+--- 
+title:Arcane Sword 
+---
 # Arcane Sword
 
 *7th-level evocation*

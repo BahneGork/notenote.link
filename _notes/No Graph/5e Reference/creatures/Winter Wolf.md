@@ -1,3 +1,6 @@
+--- 
+title:Winter Wolf 
+---
 # Winter Wolf
 
 *Large monstrosity, neutral evil*

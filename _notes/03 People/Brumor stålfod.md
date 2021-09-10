@@ -1,3 +1,6 @@
+--- 
+title:Brumor stålfod 
+---
 ---
 alias: 'brumor'
 type: 'pc'

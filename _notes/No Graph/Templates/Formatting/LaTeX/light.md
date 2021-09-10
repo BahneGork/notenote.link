@@ -1,1 +1,4 @@
+--- 
+title:light 
+---
 \color{light}

@@ -1,3 +1,6 @@
+--- 
+title:Forcecage 
+---
 # Forcecage
 
 *7th-level evocation*

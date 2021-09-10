@@ -1,3 +1,6 @@
+--- 
+title:Defender 
+---
 # Defender
 
 *Weapon (any sword), legendary (requires attunement)*

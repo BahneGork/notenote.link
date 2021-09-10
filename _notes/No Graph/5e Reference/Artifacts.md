@@ -1,3 +1,6 @@
+--- 
+title:Artifacts 
+---
 # Artifacts
 
 ### Orb of Dragonkind

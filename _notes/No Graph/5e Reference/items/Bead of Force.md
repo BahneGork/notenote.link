@@ -1,3 +1,6 @@
+--- 
+title:Bead of Force 
+---
 # Bead of Force
 
 *Wondrous item, rare*

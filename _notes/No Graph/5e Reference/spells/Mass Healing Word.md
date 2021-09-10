@@ -1,3 +1,6 @@
+--- 
+title:Mass Healing Word 
+---
 # Mass Healing Word
 
 *3rd-level evocation*

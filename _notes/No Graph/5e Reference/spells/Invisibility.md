@@ -1,3 +1,6 @@
+--- 
+title:Invisibility 
+---
 # Invisibility
 
 *2nd-level illusion*

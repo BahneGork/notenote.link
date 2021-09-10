@@ -1,3 +1,6 @@
+--- 
+title:Goggles of Night 
+---
 # Goggles of Night
 
 *Wondrous item, uncommon*

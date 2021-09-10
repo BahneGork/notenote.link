@@ -1,3 +1,6 @@
+--- 
+title:Goat 
+---
 # Goat
 
 *Medium beast, unaligned*

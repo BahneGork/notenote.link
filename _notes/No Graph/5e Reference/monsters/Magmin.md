@@ -1,3 +1,6 @@
+--- 
+title:Magmin 
+---
 # Magmin
 
 *Small elemental, chaotic neutral*

@@ -1,3 +1,6 @@
+--- 
+title:Factions MOC 
+---
 #MOC #factions #reputation
 
 §"reputation"

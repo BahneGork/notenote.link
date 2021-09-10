@@ -1,3 +1,6 @@
+--- 
+title:Continual Flame 
+---
 # Continual Flame
 
 *2nd-level evocation*

@@ -1,3 +1,6 @@
+--- 
+title:Dragon Slayer 
+---
 # Dragon Slayer
 
 *Weapon (any sword), rare*

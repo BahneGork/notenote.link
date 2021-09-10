@@ -1,3 +1,6 @@
+--- 
+title:Pass without Trace 
+---
 # Pass without Trace
 
 *2nd-level abjuration*

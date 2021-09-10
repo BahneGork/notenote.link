@@ -1,3 +1,6 @@
+--- 
+title:Wight 
+---
 # Wight
 
 *Medium undead, neutral evil*

@@ -1,3 +1,6 @@
+--- 
+title:Hat of Disguise 
+---
 # Hat of Disguise
 
 *Wondrous item, uncommon (requires attunement)*

@@ -1,3 +1,6 @@
+--- 
+title:Deer 
+---
 # Deer
 
 *Medium beast, unaligned*

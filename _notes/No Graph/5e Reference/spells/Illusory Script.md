@@ -1,3 +1,6 @@
+--- 
+title:Illusory Script 
+---
 # Illusory Script
 
 *1st-level illusion (ritual)*

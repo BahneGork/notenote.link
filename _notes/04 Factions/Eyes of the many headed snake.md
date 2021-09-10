@@ -1,3 +1,6 @@
+--- 
+title:Eyes of the many headed snake 
+---
 ---
 alias: 'eyes of arendur', 'The Medusa'
 ---

@@ -1,3 +1,6 @@
+--- 
+title:Giant Weasel 
+---
 # Giant Weasel
 
 *Medium beast, unaligned*

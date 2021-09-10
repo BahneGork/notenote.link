@@ -1,3 +1,6 @@
+--- 
+title:Find Traps 
+---
 # Find Traps
 
 *2nd-level divination*

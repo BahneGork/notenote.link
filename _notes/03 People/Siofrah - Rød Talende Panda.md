@@ -1,3 +1,6 @@
+--- 
+title:Siofrah - Rød Talende Panda 
+---
 #npc 
 Main: [[Frekka FlammehÃ¥r]]
 Related: [[Feywild]], [[Fey lord - Frekka Father]]

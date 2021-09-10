@@ -1,3 +1,6 @@
+--- 
+title:See Invisibility 
+---
 # See Invisibility
 
 *2nd-level divination*

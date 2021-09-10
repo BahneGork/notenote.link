@@ -1,3 +1,6 @@
+--- 
+title:Color Spray 
+---
 # Color Spray
 
 *1st-level illusion*

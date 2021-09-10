@@ -1,3 +1,6 @@
+--- 
+title:Stone Shape 
+---
 # Stone Shape
 
 *4th-level transmutation*

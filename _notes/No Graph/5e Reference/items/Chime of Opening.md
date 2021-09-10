@@ -1,3 +1,6 @@
+--- 
+title:Chime of Opening 
+---
 # Chime of Opening
 
 *Wondrous item, rare*

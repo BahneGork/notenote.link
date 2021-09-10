@@ -1,3 +1,6 @@
+--- 
+title:Potion of Animal Friendship 
+---
 # Potion of Animal Friendship
 
 *Potion, uncommon*

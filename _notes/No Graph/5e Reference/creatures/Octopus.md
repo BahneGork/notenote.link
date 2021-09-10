@@ -1,3 +1,6 @@
+--- 
+title:Octopus 
+---
 # Octopus
 
 *Small beast, unaligned*

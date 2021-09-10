@@ -1,3 +1,6 @@
+--- 
+title:Giant Poisonous Snake 
+---
 # Giant Poisonous Snake
 
 *Medium beast, unaligned*

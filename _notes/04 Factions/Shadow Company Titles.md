@@ -1,3 +1,6 @@
+--- 
+title:Shadow Company Titles 
+---
 #faction  #playerfaction 
 # The Shadow Company titles
 [[Commander]]

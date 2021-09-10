@@ -1,3 +1,6 @@
+--- 
+title:House Omero 
+---
 #majorhouse #arendur #noble 
 Main: [[Factions MOC]]
 Related: [[+Everyone else DO list]], [[people MOC]]

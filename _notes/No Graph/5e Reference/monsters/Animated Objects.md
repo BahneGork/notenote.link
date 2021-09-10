@@ -1,3 +1,6 @@
+--- 
+title:Animated Objects 
+---
 # Animated Objects
 
 

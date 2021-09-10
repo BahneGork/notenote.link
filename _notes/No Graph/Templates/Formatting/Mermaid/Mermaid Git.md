@@ -1,3 +1,6 @@
+--- 
+title:Mermaid Git 
+---
 ```mermaid
 gitGraph:
 options

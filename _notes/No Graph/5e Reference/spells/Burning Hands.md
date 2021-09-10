@@ -1,3 +1,6 @@
+--- 
+title:Burning Hands 
+---
 # Burning Hands
 
 *1st-level evocation*

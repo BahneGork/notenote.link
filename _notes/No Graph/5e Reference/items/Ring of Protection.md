@@ -1,3 +1,6 @@
+--- 
+title:Ring of Protection 
+---
 # Ring of Protection
 
 *Ring, rare (requires attunement)*

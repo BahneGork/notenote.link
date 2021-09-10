@@ -1,3 +1,6 @@
+--- 
+title:Swarm of Bats 
+---
 # Swarm of Bats
 
 *Medium swarm of Tiny beasts, unaligned*

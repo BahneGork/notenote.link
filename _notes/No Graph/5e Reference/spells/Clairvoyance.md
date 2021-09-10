@@ -1,3 +1,6 @@
+--- 
+title:Clairvoyance 
+---
 # Clairvoyance
 
 *3rd-level divination*

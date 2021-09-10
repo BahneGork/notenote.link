@@ -1,3 +1,6 @@
+--- 
+title:Guidance 
+---
 # Guidance
 
 *Divination cantrip*

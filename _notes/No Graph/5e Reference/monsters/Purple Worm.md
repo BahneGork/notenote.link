@@ -1,3 +1,6 @@
+--- 
+title:Purple Worm 
+---
 # Purple Worm
 
 *Gargantuan monstrosity, unaligned*

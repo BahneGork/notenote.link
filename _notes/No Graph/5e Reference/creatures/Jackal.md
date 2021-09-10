@@ -1,3 +1,6 @@
+--- 
+title:Jackal 
+---
 # Jackal
 
 *Small beast, unaligned*

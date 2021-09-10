@@ -1,3 +1,6 @@
+--- 
+title:Ray of Frost 
+---
 # Ray of Frost
 
 *Evocation cantrip*

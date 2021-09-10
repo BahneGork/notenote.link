@@ -1,3 +1,6 @@
+--- 
+title:Hunter Shark 
+---
 # Hunter Shark
 
 *Large beast, unaligned*

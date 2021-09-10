@@ -1,3 +1,6 @@
+--- 
+title:Mermaid Gantt 
+---
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD

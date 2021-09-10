@@ -1,3 +1,6 @@
+--- 
+title:Harl Lasalle 
+---
 #npc #history #arendur 
 Main:[[The black oak fight]]
 Related:[[people MOC]], [[Logged -  Session 28]]

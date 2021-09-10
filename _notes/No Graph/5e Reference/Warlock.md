@@ -1,3 +1,6 @@
+--- 
+title:Warlock 
+---
 # Warlock
 
 ### Class Features

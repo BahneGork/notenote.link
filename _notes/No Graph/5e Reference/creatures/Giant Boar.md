@@ -1,3 +1,6 @@
+--- 
+title:Giant Boar 
+---
 # Giant Boar
 
 *Large beast, unaligned*

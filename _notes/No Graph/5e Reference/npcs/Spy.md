@@ -1,3 +1,6 @@
+--- 
+title:Spy 
+---
 # Spy
 
 *Medium humanoid (any race), any alignment*

@@ -1,3 +1,6 @@
+--- 
+title:Mule 
+---
 # Mule
 
 *Medium beast, unaligned*

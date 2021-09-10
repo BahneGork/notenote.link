@@ -1,3 +1,6 @@
+--- 
+title:Ring of Elemental Command 
+---
 # Ring of Elemental Command
 
 *Ring, legendary (requires attunement)*

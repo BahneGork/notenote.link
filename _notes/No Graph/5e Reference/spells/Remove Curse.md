@@ -1,3 +1,6 @@
+--- 
+title:Remove Curse 
+---
 # Remove Curse
 
 *3rd-level abjuration*

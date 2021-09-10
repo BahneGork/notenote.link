@@ -1,3 +1,6 @@
+--- 
+title:Legend Lore 
+---
 # Legend Lore
 
 *5th-level divination*

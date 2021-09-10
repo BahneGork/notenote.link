@@ -1,3 +1,6 @@
+--- 
+title:Lord wolfgang landor 
+---
 #npc #delios 
 
 [[Lord Wolfgang Landor.jpg]]

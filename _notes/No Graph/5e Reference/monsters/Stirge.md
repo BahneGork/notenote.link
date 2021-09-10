@@ -1,3 +1,6 @@
+--- 
+title:Stirge 
+---
 # Stirge
 
 *Tiny beast, unaligned*

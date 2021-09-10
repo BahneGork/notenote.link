@@ -1,3 +1,6 @@
+--- 
+title:Rod of Security 
+---
 # Rod of Security
 
 *Rod, very rare*

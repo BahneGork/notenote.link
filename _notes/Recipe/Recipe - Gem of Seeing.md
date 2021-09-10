@@ -1,3 +1,6 @@
+--- 
+title:Recipe - Gem of Seeing 
+---
 #magicitemformula #recipe 
 ### Gem of Seeing
 

@@ -1,3 +1,6 @@
+--- 
+title:Pony 
+---
 # Pony
 
 *Medium beast, unaligned*

@@ -1,3 +1,6 @@
+--- 
+title:Vampiric Touch 
+---
 # Vampiric Touch
 
 *3rd-level necromancy*

@@ -1,3 +1,6 @@
+--- 
+title:Priest 
+---
 # Priest
 
 *Medium humanoid (any race), any alignment*

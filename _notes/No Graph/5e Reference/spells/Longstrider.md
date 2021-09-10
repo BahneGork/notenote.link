@@ -1,3 +1,6 @@
+--- 
+title:Longstrider 
+---
 # Longstrider
 
 *1st-level transmutation*

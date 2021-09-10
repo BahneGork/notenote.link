@@ -1,3 +1,6 @@
+--- 
+title:Helm of Brilliance 
+---
 # Helm of Brilliance
 
 *Wondrous item, very rare (requires attunement)*

@@ -1,3 +1,6 @@
+--- 
+title:Noble 
+---
 # Noble
 
 *Medium humanoid (any race), any alignment*

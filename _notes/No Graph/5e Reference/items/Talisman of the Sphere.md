@@ -1,3 +1,6 @@
+--- 
+title:Talisman of the Sphere 
+---
 # Talisman of the Sphere
 
 *Wondrous item, legendary (requires attunement)*

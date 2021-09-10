@@ -1,3 +1,6 @@
+--- 
+title:Word of Recall 
+---
 # Word of Recall
 
 *6th-level conjuration*

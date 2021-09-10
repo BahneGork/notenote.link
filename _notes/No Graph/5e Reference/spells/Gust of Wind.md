@@ -1,3 +1,6 @@
+--- 
+title:Gust of Wind 
+---
 # Gust of Wind
 
 *2nd-level evocation*

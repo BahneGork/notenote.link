@@ -1,3 +1,6 @@
+--- 
+title:Vicious Weapon 
+---
 # Vicious Weapon
 
 *Weapon (any), rare*

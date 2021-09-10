@@ -1,3 +1,6 @@
+--- 
+title:Adamantine Armor 
+---
 # Adamantine Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

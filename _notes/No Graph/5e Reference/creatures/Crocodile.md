@@ -1,3 +1,6 @@
+--- 
+title:Crocodile 
+---
 # Crocodile
 
 *Large beast, unaligned*

@@ -1,3 +1,6 @@
+--- 
+title:Ranger 
+---
 # Ranger
 
 ### Class Features

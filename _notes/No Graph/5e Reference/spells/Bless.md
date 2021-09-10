@@ -1,3 +1,6 @@
+--- 
+title:Bless 
+---
 # Bless
 
 *1st-level enchantment*

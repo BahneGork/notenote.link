@@ -1,3 +1,6 @@
+--- 
+title:Light 
+---
 # Light
 
 *Evocation cantrip*

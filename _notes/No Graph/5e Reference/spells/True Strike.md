@@ -1,3 +1,6 @@
+--- 
+title:True Strike 
+---
 # True Strike
 
 *Divination cantrip*

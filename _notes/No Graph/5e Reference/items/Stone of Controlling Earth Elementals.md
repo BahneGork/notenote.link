@@ -1,3 +1,6 @@
+--- 
+title:Stone of Controlling Earth Elementals 
+---
 # Stone of Controlling Earth Elementals
 
 *Wondrous item, rare*

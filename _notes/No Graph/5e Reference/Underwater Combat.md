@@ -1,3 +1,6 @@
+--- 
+title:Underwater Combat 
+---
 # Underwater Combat
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.

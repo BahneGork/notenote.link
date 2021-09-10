@@ -1,3 +1,6 @@
+--- 
+title:Heroism 
+---
 # Heroism
 
 *1st-level enchantment*

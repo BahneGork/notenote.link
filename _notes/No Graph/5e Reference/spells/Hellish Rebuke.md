@@ -1,3 +1,6 @@
+--- 
+title:Hellish Rebuke 
+---
 # Hellish Rebuke
 
 *1st-­level evocation*

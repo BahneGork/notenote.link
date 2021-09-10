@@ -1,3 +1,6 @@
+--- 
+title:Resurrection 
+---
 # Resurrection
 
 *7th-level necromancy*

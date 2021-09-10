@@ -1,3 +1,6 @@
+--- 
+title:Ring of Invisibility 
+---
 # Ring of Invisibility
 
 *Ring, legendary (requires attunement)*

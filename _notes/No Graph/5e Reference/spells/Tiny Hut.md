@@ -1,3 +1,6 @@
+--- 
+title:Tiny Hut 
+---
 # Tiny Hut
 
 *3rd-level evocation (ritual)*

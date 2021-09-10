@@ -1,3 +1,6 @@
+--- 
+title:Hammer of Thunderbolts 
+---
 # Hammer of Thunderbolts
 
 *Weapon (maul), legendary*

@@ -1,3 +1,6 @@
+--- 
+title:Arendur MOC 
+---
 #city #MOC 
 
 Main: [[Arendur Rising Campaign MOC]]

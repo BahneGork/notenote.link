@@ -1,3 +1,6 @@
+--- 
+title:Staff of Withering 
+---
 # Staff of Withering
 
 *Staff, rare (requires attunement by a cleric, druid, or warlock)*

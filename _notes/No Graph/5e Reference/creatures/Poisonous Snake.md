@@ -1,3 +1,6 @@
+--- 
+title:Poisonous Snake 
+---
 # Poisonous Snake
 
 *Tiny beast, unaligned*

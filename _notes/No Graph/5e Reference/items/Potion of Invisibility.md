@@ -1,3 +1,6 @@
+--- 
+title:Potion of Invisibility 
+---
 # Potion of Invisibility
 
 *Potion, very rare*

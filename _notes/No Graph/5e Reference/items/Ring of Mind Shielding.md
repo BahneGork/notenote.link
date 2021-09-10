@@ -1,3 +1,6 @@
+--- 
+title:Ring of Mind Shielding 
+---
 # Ring of Mind Shielding
 
 *Ring, uncommon (requires attunement)*

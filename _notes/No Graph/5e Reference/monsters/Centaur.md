@@ -1,3 +1,6 @@
+--- 
+title:Centaur 
+---
 # Centaur
 
 *Large monstrosity, neutral good*

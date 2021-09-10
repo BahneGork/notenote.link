@@ -1,3 +1,6 @@
+--- 
+title:Baboon 
+---
 # Baboon
 
 *Small beast, unaligned*

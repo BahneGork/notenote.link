@@ -1,3 +1,6 @@
+--- 
+title:Flying Snake 
+---
 # Flying Snake
 
 *Tiny beast, unaligned*

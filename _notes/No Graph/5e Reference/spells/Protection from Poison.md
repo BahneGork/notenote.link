@@ -1,3 +1,6 @@
+--- 
+title:Protection from Poison 
+---
 # Protection from Poison
 
 *2nd-level abjuration*

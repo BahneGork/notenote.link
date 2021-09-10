@@ -1,3 +1,6 @@
+--- 
+title:Josie Harrt 
+---
 #npc #delios 
 # Josie Harrt
 Main:

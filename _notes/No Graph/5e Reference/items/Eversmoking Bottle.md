@@ -1,3 +1,6 @@
+--- 
+title:Eversmoking Bottle 
+---
 # Eversmoking Bottle
 
 *Wondrous item, uncommon*

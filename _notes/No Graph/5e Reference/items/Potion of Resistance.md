@@ -1,3 +1,6 @@
+--- 
+title:Potion of Resistance 
+---
 # Potion of Resistance
 
 *Potion, uncommon*

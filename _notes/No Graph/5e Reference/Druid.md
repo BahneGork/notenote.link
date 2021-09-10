@@ -1,3 +1,6 @@
+--- 
+title:Druid 
+---
 # Druid
 
 ### Class Features

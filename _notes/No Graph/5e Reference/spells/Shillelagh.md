@@ -1,3 +1,6 @@
+--- 
+title:Shillelagh 
+---
 # Shillelagh
 
 *Transmutation cantrip*

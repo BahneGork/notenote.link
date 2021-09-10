@@ -1,3 +1,6 @@
+--- 
+title:Magic Jar 
+---
 # Magic Jar
 
 *6th-level necromancy*

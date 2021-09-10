@@ -1,3 +1,6 @@
+--- 
+title:Recipe - Bead of Force 
+---
 #magicitemformula #recipe 
 ### Bead of Force
 

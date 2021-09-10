@@ -1,3 +1,6 @@
+--- 
+title:Mastiff 
+---
 # Mastiff
 
 *Medium beast, unaligned*

@@ -1,3 +1,6 @@
+--- 
+title:Giant Centipede 
+---
 # Giant Centipede
 
 *Small beast, unaligned*

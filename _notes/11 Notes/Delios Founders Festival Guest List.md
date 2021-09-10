@@ -1,3 +1,6 @@
+--- 
+title:Delios Founders Festival Guest List 
+---
 # Delios Founders Festival Guest List
 Main:
 Related: [[annual founders celebration]]

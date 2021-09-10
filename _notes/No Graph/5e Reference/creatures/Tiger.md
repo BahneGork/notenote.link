@@ -1,3 +1,6 @@
+--- 
+title:Tiger 
+---
 # Tiger
 
 *Large beast, unaligned*

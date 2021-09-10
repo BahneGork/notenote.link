@@ -1,3 +1,6 @@
+--- 
+title:Ogre 
+---
 # Ogre
 
 *Large giant, chaotic evil*

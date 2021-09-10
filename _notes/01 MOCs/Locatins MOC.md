@@ -1,3 +1,6 @@
+--- 
+title:Locatins MOC 
+---
 #MOC 
 Related: [[people MOC]]
 

@@ -1,3 +1,6 @@
+--- 
+title:Horn of Blasting 
+---
 # Horn of Blasting
 
 *Wondrous item, rare*

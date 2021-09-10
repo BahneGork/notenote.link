@@ -1,3 +1,6 @@
+--- 
+title:Paladin 
+---
 # Paladin
 
 ### Class Features

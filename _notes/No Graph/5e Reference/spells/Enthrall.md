@@ -1,3 +1,6 @@
+--- 
+title:Enthrall 
+---
 # Enthrall
 
 *2nd-level enchantment*

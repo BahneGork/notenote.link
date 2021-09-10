@@ -1,3 +1,6 @@
+--- 
+title:Message 
+---
 # Message
 
 *Transmutation cantrip*

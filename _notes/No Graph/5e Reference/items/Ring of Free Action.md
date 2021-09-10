@@ -1,3 +1,6 @@
+--- 
+title:Ring of Free Action 
+---
 # Ring of Free Action
 
 *Ring, rare (requires attunement)*

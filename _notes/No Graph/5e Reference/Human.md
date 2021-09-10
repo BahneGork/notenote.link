@@ -1,3 +1,6 @@
+--- 
+title:Human 
+---
 # Human
 
 ### Human Traits

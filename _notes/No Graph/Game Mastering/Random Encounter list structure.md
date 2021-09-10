@@ -1,3 +1,6 @@
+--- 
+title:Random Encounter list structure 
+---
 Complications
 
 2d10

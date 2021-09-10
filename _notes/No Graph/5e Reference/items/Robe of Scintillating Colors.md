@@ -1,3 +1,6 @@
+--- 
+title:Robe of Scintillating Colors 
+---
 # Robe of Scintillating Colors
 
 *Wondrous item, very rare (requires attunement)*

@@ -1,3 +1,6 @@
+--- 
+title:Locate Creature 
+---
 # Locate Creature
 
 *4th-level divination*

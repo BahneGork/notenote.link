@@ -1,3 +1,6 @@
+--- 
+title:Bandit 
+---
 # Bandit
 
 *Medium humanoid (any race), any non-lawful alignment*

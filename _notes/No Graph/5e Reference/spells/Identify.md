@@ -1,3 +1,6 @@
+--- 
+title:Identify 
+---
 # Identify
 
 *1st-level divination (ritual)*

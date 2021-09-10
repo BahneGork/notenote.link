@@ -1,3 +1,6 @@
+--- 
+title:Flame Blade 
+---
 # Flame Blade
 
 *2nd-level evocation*

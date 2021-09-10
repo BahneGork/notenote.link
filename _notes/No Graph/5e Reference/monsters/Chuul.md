@@ -1,3 +1,6 @@
+--- 
+title:Chuul 
+---
 # Chuul
 
 *Large aberration, chaotic evil*

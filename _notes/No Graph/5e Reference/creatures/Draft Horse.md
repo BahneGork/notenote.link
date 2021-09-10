@@ -1,3 +1,6 @@
+--- 
+title:Draft Horse 
+---
 # Draft Horse
 
 *Large beast, unaligned*

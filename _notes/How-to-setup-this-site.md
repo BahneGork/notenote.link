@@ -1,3 +1,11 @@
+--- 
+title:How-to-setup-this-site 
+---
+ --- 
+ 
+ title:How-to-setup-this-site
+ 
+ ---
 ---
 title: How to setup this site
 tags: Theme
@@ -97,7 +105,7 @@ Now the cool thing is this: whenever you push an update to your GitHub repositor
 At this point, you can start updating the files on your machine (in the my-personal-website folder) to change your jekyll seamless based website to your liking: update the copy, add some notes, tweak the layout, customize the colors, etc. Once you have something you’re happy with, push your changes to your GitHub repository with the following commands:
 
 ```
-$ git add --all
+$ git add ---all
 $ git commit -m 'Update content'
 $ git push origin master
 ```

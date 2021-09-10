@@ -1,3 +1,6 @@
+--- 
+title:Giant Slayer 
+---
 # Giant Slayer
 
 *Weapon (any axe or sword), rare*

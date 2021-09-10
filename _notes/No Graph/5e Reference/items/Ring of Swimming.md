@@ -1,3 +1,6 @@
+--- 
+title:Ring of Swimming 
+---
 # Ring of Swimming
 
 *Ring, uncommon*

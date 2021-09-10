@@ -1,3 +1,6 @@
+--- 
+title:Tome of Leadership and Influence 
+---
 # Tome of Leadership and Influence
 
 *Wondrous item, very rare*

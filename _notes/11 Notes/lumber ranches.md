@@ -1,3 +1,6 @@
+--- 
+title:lumber ranches 
+---
 ---
 alias: 'lumber ranch families, Delios lumber farms, Delios Ranches'
 ---
@@ -13,6 +16,9 @@ This has over the ages resulted in 5 prominent family ranches that manages lumbe
 [[Ranch 3 Mulcere]] owned by [[Family Aguillar]]
 [[Ranch 2 Rutus]] owned by [[Family Planck]]
 [[Ranch 5 Tenere]] owned by [[Family Eberhardt]]
+
+### Relationship map
+![[Lumber Ranches Relationship map.png]]
 
 ### Lumber rights
 Rights to procure lumber is granted/bought from the Baron, in form of lots of ground in [[blackwood]]. 

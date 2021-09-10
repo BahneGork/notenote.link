@@ -1,3 +1,6 @@
+--- 
+title:Duke Armatage Volantis 
+---
 ---
 alias: 'Black eagle knight'
 ---

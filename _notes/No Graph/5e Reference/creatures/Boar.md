@@ -1,3 +1,6 @@
+--- 
+title:Boar 
+---
 # Boar
 
 *Medium beast, unaligned*

@@ -1,3 +1,6 @@
+--- 
+title:Haste 
+---
 # Haste
 
 *3rd-level transmutation*

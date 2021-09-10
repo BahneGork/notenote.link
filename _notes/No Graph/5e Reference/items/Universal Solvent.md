@@ -1,3 +1,6 @@
+--- 
+title:Universal Solvent 
+---
 # Universal Solvent
 
 *Wondrous item, legendary*

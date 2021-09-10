@@ -1,3 +1,6 @@
+--- 
+title:Freedom of Movement 
+---
 # Freedom of Movement
 
 *4th-level abjuration*

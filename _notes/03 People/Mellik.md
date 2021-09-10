@@ -1,3 +1,6 @@
+--- 
+title:Mellik 
+---
 #npc
 An old dwarf adventurer who sponsors [[Crimson Company]]
 

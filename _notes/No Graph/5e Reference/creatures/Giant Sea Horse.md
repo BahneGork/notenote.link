@@ -1,3 +1,6 @@
+--- 
+title:Giant Sea Horse 
+---
 # Giant Sea Horse
 
 *Large beast, unaligned*

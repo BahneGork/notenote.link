@@ -1,3 +1,6 @@
+--- 
+title:Troll 
+---
 # Troll
 
 *Large giant, chaotic evil*

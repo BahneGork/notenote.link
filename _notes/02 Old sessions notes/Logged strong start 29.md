@@ -1,3 +1,6 @@
+--- 
+title:Logged strong start 29 
+---
 # option 1
 As you are entering the inn's common room, Cedric is talking with the innkeeper about accommodation.
 

@@ -1,3 +1,6 @@
+--- 
+title:Class Features 
+---
 # Class Features
 
 When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.

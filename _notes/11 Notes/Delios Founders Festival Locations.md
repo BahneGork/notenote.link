@@ -1,3 +1,6 @@
+--- 
+title:Delios Founders Festival Locations 
+---
 # Delios Founders Festival Locations
 Main:
 Related: [[annual founders celebration]]

@@ -1,3 +1,6 @@
+--- 
+title:Fabricate 
+---
 # Fabricate
 
 *4th-level transmutation*

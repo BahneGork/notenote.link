@@ -1,3 +1,6 @@
+--- 
+title:Spellcasting 
+---
 # Spellcasting
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.

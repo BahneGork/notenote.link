@@ -1,3 +1,6 @@
+--- 
+title:Amulet of Health 
+---
 # Amulet of Health
 
 *Wondrous item, rare (requires attunement)*

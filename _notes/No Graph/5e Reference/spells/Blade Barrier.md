@@ -1,3 +1,6 @@
+--- 
+title:Blade Barrier 
+---
 # Blade Barrier
 
 *6th-level evocation*

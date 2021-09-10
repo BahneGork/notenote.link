@@ -1,3 +1,6 @@
+--- 
+title:Warhorse 
+---
 # Warhorse
 
 *Large beast, unaligned*

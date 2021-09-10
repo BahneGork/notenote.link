@@ -1,3 +1,6 @@
+--- 
+title:Bowl of Commanding Water Elementals 
+---
 # Bowl of Commanding Water Elementals
 
 *Wondrous item, rare*

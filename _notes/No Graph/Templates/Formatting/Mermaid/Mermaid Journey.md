@@ -1,3 +1,6 @@
+--- 
+title:Mermaid Journey 
+---
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
 journey 

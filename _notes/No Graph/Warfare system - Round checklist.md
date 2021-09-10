@@ -1,3 +1,6 @@
+--- 
+title:Warfare system - Round checklist 
+---
 At the beginning of the round, check for collapsing ranks.
 
 Commanders take turns in initiative order.  

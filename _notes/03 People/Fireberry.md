@@ -1,3 +1,6 @@
+--- 
+title:Fireberry 
+---
 #npc #mount 
 Main: [[Trellara Nightshadow]]
 Related: [[Fallen star inn - first visit]], [[Starsong hill]]

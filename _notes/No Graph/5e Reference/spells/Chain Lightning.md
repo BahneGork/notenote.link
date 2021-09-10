@@ -1,3 +1,6 @@
+--- 
+title:Chain Lightning 
+---
 # Chain Lightning
 
 *6th-level evocation*

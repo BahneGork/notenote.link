@@ -1,3 +1,6 @@
+--- 
+title:Duerif Redblade 
+---
 #npc #people #dwarf 
 Main: [[people MOC]]
 Related: [[Fallen star inn - first visit]]

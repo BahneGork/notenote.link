@@ -1,3 +1,6 @@
+--- 
+title:Staff of Charming 
+---
 # Staff of Charming
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*

@@ -1,3 +1,6 @@
+--- 
+title:Izzy - the goblin bard 
+---
 #npc #Eyesofthemanyheadedsnake #medusa #delios 
 Main: [[Delios]]  Related:
 

@@ -1,3 +1,6 @@
+--- 
+title:Grimlock 
+---
 # Grimlock
 
 *Medium humanoid (grimlock), neutral evil*

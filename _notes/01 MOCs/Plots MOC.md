@@ -1,3 +1,6 @@
+--- 
+title:Plots MOC 
+---
 #moc #plot 
 Main: [[Arendur Rising Campaign MOC]]
 

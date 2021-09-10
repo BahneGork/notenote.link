@@ -1,3 +1,6 @@
+--- 
+title:Arcanists Magic Aura 
+---
 # Arcanist's Magic Aura
 
 *2nd-level illusion*

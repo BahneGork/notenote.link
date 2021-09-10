@@ -1,3 +1,6 @@
+--- 
+title:Necklace of Fireballs 
+---
 # Necklace of Fireballs
 
 *Wondrous item, rare*

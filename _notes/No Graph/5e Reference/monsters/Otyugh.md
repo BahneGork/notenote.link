@@ -1,3 +1,6 @@
+--- 
+title:Otyugh 
+---
 # Otyugh
 
 *Large aberration, neutral*

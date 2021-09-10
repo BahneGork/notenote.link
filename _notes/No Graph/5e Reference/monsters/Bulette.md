@@ -1,3 +1,6 @@
+--- 
+title:Bulette 
+---
 # Bulette
 
 *Large monstrosity, unaligned*

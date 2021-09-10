@@ -1,3 +1,6 @@
+--- 
+title:Giant Vulture 
+---
 # Giant Vulture
 
 *Large beast, neutral evil*

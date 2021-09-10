@@ -1,3 +1,6 @@
+--- 
+title:Efficient Quiver 
+---
 # Efficient Quiver
 
 *Wondrous item, uncommon*

@@ -1,3 +1,6 @@
+--- 
+title:Thunderwave 
+---
 # Thunderwave
 
 *1st-level evocation*

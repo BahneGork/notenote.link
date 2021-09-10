@@ -1,3 +1,6 @@
+--- 
+title:Staff of Power 
+---
 # Staff of Power
 
 *Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)*

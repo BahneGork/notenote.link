@@ -1,3 +1,6 @@
+--- 
+title:Manual of Quickness of Action 
+---
 # Manual of Quickness of Action
 
 *Wondrous item, very rare*

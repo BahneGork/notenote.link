@@ -1,3 +1,6 @@
+--- 
+title:Adventuring Gear 
+---
 # Adventuring Gear
 
 This section describes items that have special rules or require further explanation.

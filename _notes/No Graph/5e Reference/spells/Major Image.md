@@ -1,3 +1,6 @@
+--- 
+title:Major Image 
+---
 # Major Image
 
 *3rd-level illusion*

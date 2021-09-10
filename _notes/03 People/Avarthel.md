@@ -1,3 +1,6 @@
+--- 
+title:Avarthel 
+---
 #npc #druid
 Main: [[people MOC]]]  Related: [[blackwood]] - 
 # Avarthel - Teslions druid

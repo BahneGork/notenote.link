@@ -1,3 +1,11 @@
+--- 
+title:How to use the special features 
+---
+ --- 
+ 
+ title:How to use the special features
+ 
+ ---
 ---
 title: How to use notenote.link features on your website
 season: summer
@@ -54,7 +62,7 @@ Example of an internal link that do not point to a valid post or page, that is, 
 - **Marginnote:** **[​[​**Some Text**::keyword-of-the-type-of-the-marginnote]]**
 
 > |Type of the sidenote/marginnote|keyword|
-  |:--|:--|
+  |:---|:---|
   |Left Sidenote| `lsn` |
   |Right Sidenote | `rsn` |
   |Left Marginnote| `lmn` |
@@ -98,7 +106,7 @@ Transclusion is just a natural extension of sidenote and marginnote feature.
 - **Marginnote-transclusion:** **[​[​**Some Text**::keyword-of-the-type-of-the-marginnote-transclusion]]**
 
 > |Type of the sidenote/marginnote transclusion|keyword|
-  |:--|:--|
+  |:---|:---|
   |Left Sidenote Transclusion | `lsn-transclude` |
   |Right Sidenote Transclusion | `rsn-transclude` |
   |Left Marginnote Transclusion | `lmn-transclude` |

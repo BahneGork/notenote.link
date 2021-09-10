@@ -1,3 +1,6 @@
+--- 
+title:Dust of Disappearance 
+---
 # Dust of Disappearance
 
 *Wondrous item, uncommon*

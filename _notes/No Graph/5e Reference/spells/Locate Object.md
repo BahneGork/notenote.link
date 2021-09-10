@@ -1,3 +1,6 @@
+--- 
+title:Locate Object 
+---
 # Locate Object
 
 *2nd-level divination*

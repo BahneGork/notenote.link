@@ -1,3 +1,6 @@
+--- 
+title:Lord Chilton haugwitz 
+---
 #npc #delios 
 
 [[Lord Chilton Haugwitz.jpg]]

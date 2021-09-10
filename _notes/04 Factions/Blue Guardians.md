@@ -1,3 +1,6 @@
+--- 
+title:Blue Guardians 
+---
 #faction #wizardguild 
 Main: [[Factions MOC]]
 Related: [[Assumi Avalande|Assumi]]

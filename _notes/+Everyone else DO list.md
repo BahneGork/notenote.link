@@ -1,3 +1,6 @@
+--- 
+title:+Everyone else DO list 
+---
 #everyoneelse #dolist #living 
 Main: [[people MOC]] Related: [[Dangers MOC]], [[Factions MOC]], [[Sessions MOC]]
 # Allies

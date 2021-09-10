@@ -1,3 +1,6 @@
+--- 
+title:Cedric Belmote 
+---
 ---
 alias: 'cedric'
 type: 'pc'

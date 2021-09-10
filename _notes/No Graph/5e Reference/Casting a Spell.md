@@ -1,3 +1,6 @@
+--- 
+title:Casting a Spell 
+---
 # Casting a Spell
 
 When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.

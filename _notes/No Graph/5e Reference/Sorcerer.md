@@ -1,3 +1,6 @@
+--- 
+title:Sorcerer 
+---
 # Sorcerer
 
 ### Class Features

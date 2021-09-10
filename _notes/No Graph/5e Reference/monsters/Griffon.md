@@ -1,3 +1,6 @@
+--- 
+title:Griffon 
+---
 # Griffon
 
 *Large monstrosity, unaligned*

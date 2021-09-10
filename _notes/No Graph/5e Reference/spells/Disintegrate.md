@@ -1,3 +1,6 @@
+--- 
+title:Disintegrate 
+---
 # Disintegrate
 
 *6th-level transmutation*

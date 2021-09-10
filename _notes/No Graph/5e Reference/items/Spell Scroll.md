@@ -1,3 +1,6 @@
+--- 
+title:Spell Scroll 
+---
 # Spell Scroll
 
 *Scroll, varies*

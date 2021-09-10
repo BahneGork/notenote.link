@@ -1,3 +1,6 @@
+--- 
+title:Grick 
+---
 # Grick
 
 *Medium monstrosity, neutral*

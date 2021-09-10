@@ -1,3 +1,6 @@
+--- 
+title:Mermaid Pie 
+---
 ```mermaid
 pie
     title Key elements in Product X

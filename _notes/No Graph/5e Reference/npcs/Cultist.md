@@ -1,3 +1,6 @@
+--- 
+title:Cultist 
+---
 # Cultist
 
 *Medium humanoid (any race), any non-good alignment*

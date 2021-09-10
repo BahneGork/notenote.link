@@ -1,3 +1,6 @@
+--- 
+title:Gibbering Mouther 
+---
 # Gibbering Mouther
 
 *Medium aberration, neutral*

@@ -1,3 +1,6 @@
+--- 
+title:NPC 
+---
 tags: #🗣  
 {{date}}
 {{time}}

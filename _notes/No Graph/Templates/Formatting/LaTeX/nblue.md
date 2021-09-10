@@ -1,1 +1,4 @@
+--- 
+title:nblue 
+---
 \color{nblue}

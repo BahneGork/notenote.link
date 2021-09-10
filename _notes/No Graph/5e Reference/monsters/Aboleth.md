@@ -1,3 +1,6 @@
+--- 
+title:Aboleth 
+---
 # Aboleth
 
 *Large aberration, lawful evil*

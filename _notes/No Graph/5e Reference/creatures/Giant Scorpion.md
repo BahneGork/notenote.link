@@ -1,3 +1,6 @@
+--- 
+title:Giant Scorpion 
+---
 # Giant Scorpion
 
 *Large beast, unaligned*

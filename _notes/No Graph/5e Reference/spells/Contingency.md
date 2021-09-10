@@ -1,3 +1,6 @@
+--- 
+title:Contingency 
+---
 # Contingency
 
 *6th-level evocation*

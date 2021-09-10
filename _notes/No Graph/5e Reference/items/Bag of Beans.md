@@ -1,3 +1,6 @@
+--- 
+title:Bag of Beans 
+---
 # Bag of Beans
 
 *Wondrous item, rare*

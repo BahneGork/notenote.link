@@ -1,3 +1,6 @@
+--- 
+title:Cockatrice 
+---
 # Cockatrice
 
 *Small monstrosity, unaligned*

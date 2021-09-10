@@ -1,3 +1,6 @@
+--- 
+title:Kvalec names 
+---
 #names #kvalec 
 Main: [[people MOC]]
 # Kvalec    

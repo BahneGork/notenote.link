@@ -1,3 +1,6 @@
+--- 
+title:Pipes of the Sewers 
+---
 # Pipes of the Sewers
 
 *Wondrous item, uncommon (requires attunement)*

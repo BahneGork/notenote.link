@@ -1,3 +1,6 @@
+--- 
+title:Duergar 
+---
 # Duergar
 
 *Medium humanoid (dwarf), lawful evil*

@@ -1,3 +1,6 @@
+--- 
+title:Random Secrets 
+---
 # Random Secrets
 Main:
 Related: [[Fallen star inn - first visit]]

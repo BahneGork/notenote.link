@@ -1,3 +1,6 @@
+--- 
+title:Portable Hole 
+---
 # Portable Hole
 
 *Wondrous item, rare*

@@ -1,3 +1,6 @@
+--- 
+title:Gloves of Swimming and Climbing 
+---
 # Gloves of Swimming and Climbing
 
 *Wondrous item, uncommon (requires attunement)*

@@ -1,3 +1,6 @@
+--- 
+title:Narae 
+---
 ---
 alias: 'Narae'
 type: 'pc'

@@ -1,3 +1,6 @@
+--- 
+title:Nat 
+---
 ---
 alias: 'nathaniel'
 type: 'pc'

@@ -1,3 +1,6 @@
+--- 
+title:Blur 
+---
 # Blur
 
 *2nd-level illusion*

@@ -1,3 +1,6 @@
+--- 
+title:Swarm of Quippers 
+---
 # Swarm of Quippers
 
 *Medium swarm of Tiny beasts, unaligned*

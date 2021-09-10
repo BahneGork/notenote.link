@@ -1,3 +1,6 @@
+--- 
+title:README 
+---
 # Obsidian 5e Statblocks
 
 Create 5e-styled statblocks in Obsidian.md notes.

@@ -1,3 +1,6 @@
+--- 
+title:Dominate Beast 
+---
 # Dominate Beast
 
 *4th-level enchantment*

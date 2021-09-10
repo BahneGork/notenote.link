@@ -1,3 +1,6 @@
+--- 
+title:Faerie Fire 
+---
 # Faerie Fire
 
 *1st-level evocation*

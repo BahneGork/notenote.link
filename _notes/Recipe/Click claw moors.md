@@ -1,3 +1,6 @@
+--- 
+title:Click claw moors 
+---
 #location #subregion #Mistyfalls #bedegaarnBaroni 
 Main: [[Misty Falls]]
 Related: [[Random encounters Misty falls]], [[Misty Falls Region map]], [[Mistyfalls subregion lists]]

@@ -1,3 +1,6 @@
+--- 
+title:Camel 
+---
 # Camel
 
 *Large beast, unaligned*

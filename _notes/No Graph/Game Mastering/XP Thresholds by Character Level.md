@@ -1,3 +1,6 @@
+--- 
+title:XP Thresholds by Character Level 
+---
 #XP 
 Main: [[Encounter building]]
 Related: [[XP advancement]]

@@ -1,3 +1,6 @@
+--- 
+title:Mirage Arcane 
+---
 # Mirage Arcane
 
 *7th-level illusion*

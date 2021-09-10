@@ -1,3 +1,6 @@
+--- 
+title:Delios Festival Script 
+---
 #script #delios #festival
 [[Delios]] [[annual founders celebration|founders festival]]
 
@@ -5,6 +8,9 @@ kl 4-5
 Fra morgen stunden er der folk igang med at gøre by-pladsen klar til fest, der hænges pynt af blomster og korn op, der sættes lanterner op med farvet glas.
 
 Borde sættes op til langborde, en scene er ved at blive gjort færdig (Det var det der blev arbejdet på igår da i ankom).
+
+[[Nightwing]] munches on a bat
+
 kl 6-7 
 morgenmad på hotellet.
 npcs tilstede
@@ -14,6 +20,9 @@ npcs tilstede
 	- wife - [[Lady Margot Landor]]
 - [[Lord Chilton haugwitz]] neutral in local politics, businessman.
 off to the side [[Michell]] Lord chilton's servant.
+
+The hotel desk has an envelope for [[Frekka Flammehår|Frekka]]
+
 
 kl 8-9
 kl 9-10

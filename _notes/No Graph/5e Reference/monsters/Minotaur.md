@@ -1,3 +1,6 @@
+--- 
+title:Minotaur 
+---
 # Minotaur
 
 *Large monstrosity, chaotic evil*

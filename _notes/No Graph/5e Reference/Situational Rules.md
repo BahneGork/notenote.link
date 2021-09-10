@@ -1,3 +1,6 @@
+--- 
+title:Situational Rules 
+---
 # Situational Rules
 
 ## Traps

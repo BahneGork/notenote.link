@@ -1,3 +1,6 @@
+--- 
+title:Thaumaturgy 
+---
 # Thaumaturgy
 
 *Transmutation cantrip*

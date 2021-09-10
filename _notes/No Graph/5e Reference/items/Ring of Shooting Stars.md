@@ -1,3 +1,6 @@
+--- 
+title:Ring of Shooting Stars 
+---
 # Ring of Shooting Stars
 
 *Ring, very rare (requires attunement outdoors at night)*

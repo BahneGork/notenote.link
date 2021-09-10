@@ -1,3 +1,6 @@
+--- 
+title:Hydra 
+---
 # Hydra
 
 *Huge monstrosity, unaligned*

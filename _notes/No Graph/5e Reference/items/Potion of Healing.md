@@ -1,3 +1,6 @@
+--- 
+title:Potion of Healing 
+---
 # Potion of Healing
 
 *Potion, rarity varies*

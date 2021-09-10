@@ -1,3 +1,6 @@
+--- 
+title:Potion of Diminution 
+---
 # Potion of Diminution
 
 *Potion, rare*

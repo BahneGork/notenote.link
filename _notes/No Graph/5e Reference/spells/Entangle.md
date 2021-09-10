@@ -1,3 +1,6 @@
+--- 
+title:Entangle 
+---
 # Entangle
 
 *1st-level conjuration*

@@ -1,3 +1,6 @@
+--- 
+title:Veteran 
+---
 # Veteran
 
 *Medium humanoid (any race), any alignment*

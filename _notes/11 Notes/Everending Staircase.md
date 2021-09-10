@@ -1,3 +1,6 @@
+--- 
+title:Everending Staircase 
+---
 #location 
 Main: [[Logged - Session 26]]
 

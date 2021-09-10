@@ -1,3 +1,6 @@
+--- 
+title:Sessions MOC 
+---
 #moc #sessions #logs
 Main: [[Arendur Rising Campaign MOC]]
 Related: [[]]

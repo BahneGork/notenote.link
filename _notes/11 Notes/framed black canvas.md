@@ -1,3 +1,6 @@
+--- 
+title:framed black canvas 
+---
 #item 
 The black portrait was created by [[Galdi Maera]] 45 years ago.
 

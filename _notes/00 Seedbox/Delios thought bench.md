@@ -1,3 +1,6 @@
+--- 
+title:Delios thought bench 
+---
 #workbench
 # Delios Community
 Production center

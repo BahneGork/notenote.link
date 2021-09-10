@@ -1,3 +1,6 @@
+--- 
+title:Dragon Scale Mail 
+---
 # Dragon Scale Mail
 
 *Armor (scale mail), very rare (requires attunement)*

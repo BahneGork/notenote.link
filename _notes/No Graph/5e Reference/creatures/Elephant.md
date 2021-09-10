@@ -1,3 +1,6 @@
+--- 
+title:Elephant 
+---
 # Elephant
 
 *Huge beast, unaligned*

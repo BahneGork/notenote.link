@@ -1,1 +1,4 @@
+--- 
+title:fblue 
+---
 \color{fblue}

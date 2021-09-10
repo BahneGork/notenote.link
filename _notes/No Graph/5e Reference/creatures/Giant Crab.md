@@ -1,3 +1,6 @@
+--- 
+title:Giant Crab 
+---
 # Giant Crab
 
 *Medium beast, unaligned*

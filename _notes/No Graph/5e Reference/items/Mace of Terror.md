@@ -1,3 +1,6 @@
+--- 
+title:Mace of Terror 
+---
 # Mace of Terror
 
 *Weapon (mace), rare (requires attunement)*

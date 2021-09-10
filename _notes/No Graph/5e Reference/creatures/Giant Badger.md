@@ -1,3 +1,6 @@
+--- 
+title:Giant Badger 
+---
 # Giant Badger
 
 *Medium beast, unaligned*

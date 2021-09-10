@@ -1,1 +1,4 @@
+--- 
+title:bred 
+---
 \color{bred}

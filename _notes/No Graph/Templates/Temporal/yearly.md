@@ -1,3 +1,6 @@
+--- 
+title:yearly 
+---
 ### Annual Review:
 
 [[2020-Y]] <== <button class="date_button_today">This Month</button> ==> [[2022-Y]]

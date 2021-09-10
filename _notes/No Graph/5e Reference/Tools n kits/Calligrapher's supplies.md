@@ -1,3 +1,6 @@
+--- 
+title:Calligrapher's supplies 
+---
 # Calligrapher's supplies
 Main:
 Related: [[Tools]]

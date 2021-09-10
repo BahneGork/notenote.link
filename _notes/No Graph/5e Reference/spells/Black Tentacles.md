@@ -1,3 +1,6 @@
+--- 
+title:Black Tentacles 
+---
 # Black Tentacles
 
 *4th-level conjuration*

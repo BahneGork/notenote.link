@@ -1,3 +1,6 @@
+--- 
+title:Weird 
+---
 # Weird
 
 *9th-level illusion*

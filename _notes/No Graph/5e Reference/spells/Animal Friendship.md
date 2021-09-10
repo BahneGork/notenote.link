@@ -1,3 +1,6 @@
+--- 
+title:Animal Friendship 
+---
 # Animal Friendship
 
 *1st-­level enchantment*

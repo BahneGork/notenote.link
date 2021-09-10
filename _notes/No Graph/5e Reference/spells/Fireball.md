@@ -1,3 +1,6 @@
+--- 
+title:Fireball 
+---
 # Fireball
 
 *3rd-level evocation*

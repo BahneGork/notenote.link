@@ -1,3 +1,6 @@
+--- 
+title:Graph view howto 
+---
 -   [Graph view: exclude specific folders from being displayed 102](https://forum.obsidian.md/t/graph-view-exclude-specific-folders-from-being-displayed/243)
 -   [Graph view: use Ctrl-G to close graph view as well 24](https://forum.obsidian.md/t/graph-view-use-ctrl-g-to-close-graph-view-as-well/215)
 -   [Differentiate direct links and back links in graph view 39](https://forum.obsidian.md/t/differentiate-direct-links-and-back-links-in-graph-view/180)

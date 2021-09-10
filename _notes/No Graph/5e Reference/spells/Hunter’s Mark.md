@@ -1,3 +1,6 @@
+--- 
+title:Hunter�s Mark 
+---
 # Hunter’s Mark
 
 *1st-­level divination*

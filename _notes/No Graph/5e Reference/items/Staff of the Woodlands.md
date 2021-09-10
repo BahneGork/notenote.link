@@ -1,3 +1,6 @@
+--- 
+title:Staff of the Woodlands 
+---
 # Staff of the Woodlands
 
 *Staff, rare (requires attunement by a druid)*

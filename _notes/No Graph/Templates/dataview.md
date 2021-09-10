@@ -1,3 +1,6 @@
+--- 
+title:dataview 
+---
 ```dataview
 table
 from

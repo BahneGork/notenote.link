@@ -1,3 +1,6 @@
+--- 
+title:Gorgon 
+---
 # Gorgon
 
 *Large monstrosity, unaligned*

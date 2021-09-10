@@ -1,3 +1,6 @@
+--- 
+title:Region complications table 
+---
 a region complications table consists of a random encounters table 2d10 which acts as a master list ontop of other lists.
 
 Hazards list

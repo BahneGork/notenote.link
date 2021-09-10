@@ -1,3 +1,6 @@
+--- 
+title:Giant Ape 
+---
 # Giant Ape
 
 *Huge beast, unaligned*

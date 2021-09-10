@@ -1,3 +1,6 @@
+--- 
+title:Delios Festival random lists 
+---
 [[Delios Festival Script]] [[annual founders celebration|founders festival]]
 
 19 random events

@@ -1,3 +1,6 @@
+--- 
+title:Folding Boat 
+---
 # Folding Boat
 
 *Wondrous item, rare*

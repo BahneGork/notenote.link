@@ -1,3 +1,6 @@
+--- 
+title:Grozon “Hillsmasher” 
+---
 #npc #dwarf #people 
 Main: [[Throg'was]]
 Related: 

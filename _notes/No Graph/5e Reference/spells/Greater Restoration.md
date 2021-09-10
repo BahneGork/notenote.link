@@ -1,3 +1,6 @@
+--- 
+title:Greater Restoration 
+---
 # Greater Restoration
 
 *5th-level abjuration*

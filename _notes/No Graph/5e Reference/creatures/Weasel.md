@@ -1,3 +1,6 @@
+--- 
+title:Weasel 
+---
 # Weasel
 
 *Tiny beast, unaligned*

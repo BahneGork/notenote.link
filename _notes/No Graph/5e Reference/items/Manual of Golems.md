@@ -1,3 +1,6 @@
+--- 
+title:Manual of Golems 
+---
 # Manual of Golems
 
 *Wondrous item, very rare*

@@ -1,3 +1,6 @@
+--- 
+title:Spells 
+---
 # Spells
 - [[Acid Arrow]]
 - [[Acid Splash]]

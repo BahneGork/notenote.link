@@ -1,3 +1,6 @@
+--- 
+title:Badger 
+---
 # Badger
 
 *Tiny beast, unaligned*

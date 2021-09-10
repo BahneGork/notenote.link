@@ -1,3 +1,6 @@
+--- 
+title:Lycanthropes 
+---
 # Lycanthropes
 
 

@@ -1,3 +1,6 @@
+--- 
+title:Wand of Binding 
+---
 # Wand of Binding
 
 *Wand, rare (requires attunement by a spellcaster)*

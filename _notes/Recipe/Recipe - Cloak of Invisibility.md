@@ -1,3 +1,6 @@
+--- 
+title:Recipe - Cloak of Invisibility 
+---
 #magicitemformula #recipe 
 ### Cloak of Invisibility
 

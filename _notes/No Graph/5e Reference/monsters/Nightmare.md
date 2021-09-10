@@ -1,3 +1,6 @@
+--- 
+title:Nightmare 
+---
 # Nightmare
 
 *Large fiend, neutral evil*

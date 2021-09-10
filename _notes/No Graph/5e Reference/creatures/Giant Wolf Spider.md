@@ -1,3 +1,6 @@
+--- 
+title:Giant Wolf Spider 
+---
 # Giant Wolf Spider
 
 *Medium beast, unaligned*

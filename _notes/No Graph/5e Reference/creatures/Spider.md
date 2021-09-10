@@ -1,3 +1,6 @@
+--- 
+title:Spider 
+---
 # Spider
 
 *Tiny beast, unaligned*

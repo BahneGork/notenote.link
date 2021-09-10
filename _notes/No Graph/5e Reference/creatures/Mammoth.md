@@ -1,3 +1,6 @@
+--- 
+title:Mammoth 
+---
 # Mammoth
 
 *Huge beast, unaligned*

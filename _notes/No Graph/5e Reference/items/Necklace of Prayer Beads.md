@@ -1,3 +1,6 @@
+--- 
+title:Necklace of Prayer Beads 
+---
 # Necklace of Prayer Beads
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*
