@@ -1,4 +1,4 @@
----title: Prismatic Wall---
+---title: Prismatic Walltags: notesseason: summertoc: truecomments: true---
 # Prismatic Wall
 
 *9th-level abjuration*

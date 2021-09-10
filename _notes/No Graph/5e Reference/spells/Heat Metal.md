@@ -1,4 +1,4 @@
----title: Heat Metal---
+---title: Heat Metaltags: notesseason: summertoc: truecomments: true---
 # Heat Metal
 
 *2nd-level transmutation*

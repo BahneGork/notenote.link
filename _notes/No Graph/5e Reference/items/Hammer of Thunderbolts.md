@@ -1,4 +1,4 @@
----title: Hammer of Thunderbolts---
+---title: Hammer of Thunderboltstags: notesseason: summertoc: truecomments: true---
 # Hammer of Thunderbolts
 
 *Weapon (maul), legendary*

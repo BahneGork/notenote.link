@@ -1,4 +1,4 @@
----title: Purple Worm---
+---title: Purple Wormtags: notesseason: summertoc: truecomments: true---
 # Purple Worm
 
 *Gargantuan monstrosity, unaligned*

@@ -1,4 +1,4 @@
----title: Telekinesis---
+---title: Telekinesistags: notesseason: summertoc: truecomments: true---
 # Telekinesis
 
 *5th-level transmutation*

@@ -1,4 +1,4 @@
----title: Sword of Life Stealing---
+---title: Sword of Life Stealingtags: notesseason: summertoc: truecomments: true---
 # Sword of Life Stealing
 
 *Weapon (any sword), rare (requires attunement)*

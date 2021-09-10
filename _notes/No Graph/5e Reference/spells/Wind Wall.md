@@ -1,4 +1,4 @@
----title: Wind Wall---
+---title: Wind Walltags: notesseason: summertoc: truecomments: true---
 # Wind Wall
 
 *3rd-level evocation*

@@ -1,4 +1,4 @@
----title: Mule---
+---title: Muletags: notesseason: summertoc: truecomments: true---
 # Mule
 
 *Medium beast, unaligned*

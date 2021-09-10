@@ -1,4 +1,4 @@
----title: Rust Monster---
+---title: Rust Monstertags: notesseason: summertoc: truecomments: true---
 # Rust Monster
 
 *Medium monstrosity, unaligned*

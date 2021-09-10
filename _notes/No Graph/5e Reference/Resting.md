@@ -1,4 +1,4 @@
----title: Resting---
+---title: Restingtags: notesseason: summertoc: truecomments: true---
 # Resting
 
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest-time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.

@@ -1,4 +1,4 @@
----title: Family Eberhardt---
+---title: Family Eberhardttags: notesseason: summertoc: truecomments: true---
 #npc #faction #lumberranch #family #delios #Mistyfalls 
 
 Main: [[Misty Falls]], [[lumber ranches|Delios Ranches]], [[Delios]]

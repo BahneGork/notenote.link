@@ -1,4 +1,4 @@
----title: Ring of X-ray Vision---
+---title: Ring of X-ray Visiontags: notesseason: summertoc: truecomments: true---
 # Ring of X-ray Vision
 
 *Ring, rare (requires attunement)*

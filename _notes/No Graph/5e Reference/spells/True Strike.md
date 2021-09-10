@@ -1,4 +1,4 @@
----title: True Strike---
+---title: True Striketags: notesseason: summertoc: truecomments: true---
 # True Strike
 
 *Divination cantrip*

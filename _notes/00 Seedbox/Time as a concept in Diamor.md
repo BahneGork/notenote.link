@@ -1,4 +1,4 @@
----title: Time as a concept in Diamor---
+---title: Time as a concept in Diamortags: notesseason: summertoc: truecomments: true---
 #thinking 
 
 Main: 

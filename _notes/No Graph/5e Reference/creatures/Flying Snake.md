@@ -1,4 +1,4 @@
----title: Flying Snake---
+---title: Flying Snaketags: notesseason: summertoc: truecomments: true---
 # Flying Snake
 
 *Tiny beast, unaligned*

@@ -1,4 +1,4 @@
----title: Locate Creature---
+---title: Locate Creaturetags: notesseason: summertoc: truecomments: true---
 # Locate Creature
 
 *4th-level divination*

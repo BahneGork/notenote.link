@@ -1,4 +1,4 @@
----title: Giant Elk---
+---title: Giant Elktags: notesseason: summertoc: truecomments: true---
 # Giant Elk
 
 *Huge beast, unaligned*

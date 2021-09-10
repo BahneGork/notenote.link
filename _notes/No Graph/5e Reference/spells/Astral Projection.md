@@ -1,4 +1,4 @@
----title: Astral Projection---
+---title: Astral Projectiontags: notesseason: summertoc: truecomments: true---
 # Astral Projection
 
 *9th-level necromancy*

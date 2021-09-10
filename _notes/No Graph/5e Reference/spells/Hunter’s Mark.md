@@ -1,4 +1,4 @@
----title: Hunter’s Mark---
+---title: Hunter’s Marktags: notesseason: summertoc: truecomments: true---
 # Hunterâ€™s Mark
 
 *1st-Â­level divination*

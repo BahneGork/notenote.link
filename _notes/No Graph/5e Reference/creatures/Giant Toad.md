@@ -1,4 +1,4 @@
----title: Giant Toad---
+---title: Giant Toadtags: notesseason: summertoc: truecomments: true---
 # Giant Toad
 
 *Large beast, unaligned*

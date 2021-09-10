@@ -1,4 +1,4 @@
----title: Remove Curse---
+---title: Remove Cursetags: notesseason: summertoc: truecomments: true---
 # Remove Curse
 
 *3rd-level abjuration*

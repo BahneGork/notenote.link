@@ -1,4 +1,4 @@
----title: Aid---
+---title: Aidtags: notesseason: summertoc: truecomments: true---
 # Aid
 
 *2nd-level abjuration*

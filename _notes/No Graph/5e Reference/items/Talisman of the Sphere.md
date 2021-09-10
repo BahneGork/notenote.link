@@ -1,4 +1,4 @@
----title: Talisman of the Sphere---
+---title: Talisman of the Spheretags: notesseason: summertoc: truecomments: true---
 # Talisman of the Sphere
 
 *Wondrous item, legendary (requires attunement)*

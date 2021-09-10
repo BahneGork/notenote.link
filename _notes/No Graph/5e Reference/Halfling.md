@@ -1,4 +1,4 @@
----title: Halfling---
+---title: Halflingtags: notesseason: summertoc: truecomments: true---
 # Halfling
 
 ### Halfling Traits

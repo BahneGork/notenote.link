@@ -1,4 +1,4 @@
----title: Family Paget---
+---title: Family Pagettags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'lumber family paget'
 ---

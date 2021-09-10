@@ -1,4 +1,4 @@
----title: Giant Lizard---
+---title: Giant Lizardtags: notesseason: summertoc: truecomments: true---
 # Giant Lizard
 
 *Large beast, unaligned*

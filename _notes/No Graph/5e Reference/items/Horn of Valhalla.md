@@ -1,4 +1,4 @@
----title: Horn of Valhalla---
+---title: Horn of Valhallatags: notesseason: summertoc: truecomments: true---
 # Horn of Valhalla
 
 *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*

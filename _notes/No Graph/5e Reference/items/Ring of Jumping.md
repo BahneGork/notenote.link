@@ -1,4 +1,4 @@
----title: Ring of Jumping---
+---title: Ring of Jumpingtags: notesseason: summertoc: truecomments: true---
 # Ring of Jumping
 
 *Ring, uncommon (requires attunement)*

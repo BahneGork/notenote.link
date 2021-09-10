@@ -1,4 +1,4 @@
----title: Imprisonment---
+---title: Imprisonmenttags: notesseason: summertoc: truecomments: true---
 # Imprisonment
 
 *9th-level abjuration*

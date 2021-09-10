@@ -1,4 +1,4 @@
----title: logged script #29---
+---title: logged script #29tags: notesseason: summertoc: truecomments: true---
 #next #scriptsession28
 
 # Fallen star inn

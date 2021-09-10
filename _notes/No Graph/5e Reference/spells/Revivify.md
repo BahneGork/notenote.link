@@ -1,4 +1,4 @@
----title: Revivify---
+---title: Revivifytags: notesseason: summertoc: truecomments: true---
 # Revivify
 
 *3rd-level necromancy*

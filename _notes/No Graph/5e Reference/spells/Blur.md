@@ -1,4 +1,4 @@
----title: Blur---
+---title: Blurtags: notesseason: summertoc: truecomments: true---
 # Blur
 
 *2nd-level illusion*

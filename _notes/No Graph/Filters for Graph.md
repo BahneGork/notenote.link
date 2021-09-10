@@ -1,4 +1,4 @@
----title: Filters for Graph---
+---title: Filters for Graphtags: notesseason: summertoc: truecomments: true---
 ##### Exclude folder from graph view
 -path "folder"  
 

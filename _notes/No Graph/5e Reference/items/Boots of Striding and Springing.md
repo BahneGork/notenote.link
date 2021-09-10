@@ -1,4 +1,4 @@
----title: Boots of Striding and Springing---
+---title: Boots of Striding and Springingtags: notesseason: summertoc: truecomments: true---
 # Boots of Striding and Springing
 
 *Wondrous item, uncommon (requires attunement)*

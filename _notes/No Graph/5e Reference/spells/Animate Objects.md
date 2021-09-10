@@ -1,4 +1,4 @@
----title: Animate Objects---
+---title: Animate Objectstags: notesseason: summertoc: truecomments: true---
 # Animate Objects
 
 *5th-level transmutation*

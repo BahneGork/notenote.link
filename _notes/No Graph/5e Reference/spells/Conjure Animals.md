@@ -1,4 +1,4 @@
----title: Conjure Animals---
+---title: Conjure Animalstags: notesseason: summertoc: truecomments: true---
 # Conjure Animals
 
 *3rd-level conjuration*

@@ -1,4 +1,4 @@
----title: Lesser Restoration---
+---title: Lesser Restorationtags: notesseason: summertoc: truecomments: true---
 # Lesser Restoration
 
 *2nd-level abjuration*

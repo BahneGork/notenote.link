@@ -1,4 +1,4 @@
----title: Duergar---
+---title: Duergartags: notesseason: summertoc: truecomments: true---
 # Duergar
 
 *Medium humanoid (dwarf), lawful evil*

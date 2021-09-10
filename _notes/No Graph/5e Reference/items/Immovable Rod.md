@@ -1,4 +1,4 @@
----title: Immovable Rod---
+---title: Immovable Rodtags: notesseason: summertoc: truecomments: true---
 # Immovable Rod
 
 *Rod, uncommon*

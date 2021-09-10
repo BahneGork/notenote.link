@@ -1,4 +1,4 @@
----title: Polar Bear---
+---title: Polar Beartags: notesseason: summertoc: truecomments: true---
 # Polar Bear
 
 *Large beast, unaligned*

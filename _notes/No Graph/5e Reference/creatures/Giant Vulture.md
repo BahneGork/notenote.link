@@ -1,4 +1,4 @@
----title: Giant Vulture---
+---title: Giant Vulturetags: notesseason: summertoc: truecomments: true---
 # Giant Vulture
 
 *Large beast, neutral evil*

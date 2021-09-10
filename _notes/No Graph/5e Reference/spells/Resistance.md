@@ -1,4 +1,4 @@
----title: Resistance---
+---title: Resistancetags: notesseason: summertoc: truecomments: true---
 # Resistance
 
 *Abjuration cantrip*

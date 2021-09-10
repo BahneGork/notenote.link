@@ -1,4 +1,4 @@
----title: Potion of Resistance---
+---title: Potion of Resistancetags: notesseason: summertoc: truecomments: true---
 # Potion of Resistance
 
 *Potion, uncommon*

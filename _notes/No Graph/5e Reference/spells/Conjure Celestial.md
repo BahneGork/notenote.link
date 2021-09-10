@@ -1,4 +1,4 @@
----title: Conjure Celestial---
+---title: Conjure Celestialtags: notesseason: summertoc: truecomments: true---
 # Conjure Celestial
 
 *7th-level conjuration*

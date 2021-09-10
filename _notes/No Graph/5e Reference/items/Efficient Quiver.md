@@ -1,4 +1,4 @@
----title: Efficient Quiver---
+---title: Efficient Quivertags: notesseason: summertoc: truecomments: true---
 # Efficient Quiver
 
 *Wondrous item, uncommon*

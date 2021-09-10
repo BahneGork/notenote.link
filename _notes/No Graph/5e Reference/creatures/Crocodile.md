@@ -1,4 +1,4 @@
----title: Crocodile---
+---title: Crocodiletags: notesseason: summertoc: truecomments: true---
 # Crocodile
 
 *Large beast, unaligned*

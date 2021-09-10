@@ -1,4 +1,4 @@
----title: Hydra---
+---title: Hydratags: notesseason: summertoc: truecomments: true---
 # Hydra
 
 *Huge monstrosity, unaligned*

@@ -1,4 +1,4 @@
----title: Gnome---
+---title: Gnometags: notesseason: summertoc: truecomments: true---
 # Gnome
 
 ### Gnome Traits

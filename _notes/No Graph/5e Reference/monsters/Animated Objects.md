@@ -1,4 +1,4 @@
----title: Animated Objects---
+---title: Animated Objectstags: notesseason: summertoc: truecomments: true---
 # Animated Objects
 
 

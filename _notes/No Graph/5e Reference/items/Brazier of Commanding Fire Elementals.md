@@ -1,4 +1,4 @@
----title: Brazier of Commanding Fire Elementals---
+---title: Brazier of Commanding Fire Elementalstags: notesseason: summertoc: truecomments: true---
 # Brazier of Commanding Fire Elementals
 
 *Wondrous item, rare*

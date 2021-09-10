@@ -1,4 +1,4 @@
----title: Mantle of Spell Resistance---
+---title: Mantle of Spell Resistancetags: notesseason: summertoc: truecomments: true---
 # Mantle of Spell Resistance
 
 *Wondrous item, rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Wizard---
+---title: Wizardtags: notesseason: summertoc: truecomments: true---
 # Wizard
 
 ### Class Features

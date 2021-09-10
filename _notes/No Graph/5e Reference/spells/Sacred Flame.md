@@ -1,4 +1,4 @@
----title: Sacred Flame---
+---title: Sacred Flametags: notesseason: summertoc: truecomments: true---
 # Sacred Flame
 
 *Evocation cantrip*

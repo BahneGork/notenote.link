@@ -1,4 +1,4 @@
----title: Hold Monster---
+---title: Hold Monstertags: notesseason: summertoc: truecomments: true---
 # Hold Monster
 
 *5th-level enchantment*

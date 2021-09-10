@@ -1,4 +1,4 @@
----title: Nat---
+---title: Nattags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'nathaniel'
 type: 'pc'

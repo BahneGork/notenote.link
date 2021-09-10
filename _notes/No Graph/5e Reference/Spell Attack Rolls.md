@@ -1,4 +1,4 @@
----title: Spell Attack Rolls---
+---title: Spell Attack Rollstags: notesseason: summertoc: truecomments: true---
 # Spell Attack Rolls
 
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.

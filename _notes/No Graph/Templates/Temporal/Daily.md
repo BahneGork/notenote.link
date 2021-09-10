@@ -1,4 +1,4 @@
----title: Daily---
+---title: Dailytags: notesseason: summertoc: truecomments: true---
 ---
 aliases: 
   - 

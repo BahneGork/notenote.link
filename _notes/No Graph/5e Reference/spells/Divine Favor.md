@@ -1,4 +1,4 @@
----title: Divine Favor---
+---title: Divine Favortags: notesseason: summertoc: truecomments: true---
 # Divine Favor
 
 *1st-level evocation*

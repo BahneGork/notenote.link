@@ -1,4 +1,4 @@
----title: Detect Evil and Good---
+---title: Detect Evil and Goodtags: notesseason: summertoc: truecomments: true---
 # Detect Evil and Good
 
 *1st-level divination*

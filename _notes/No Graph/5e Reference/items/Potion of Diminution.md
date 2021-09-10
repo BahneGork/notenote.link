@@ -1,4 +1,4 @@
----title: Potion of Diminution---
+---title: Potion of Diminutiontags: notesseason: summertoc: truecomments: true---
 # Potion of Diminution
 
 *Potion, rare*

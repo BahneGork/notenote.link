@@ -1,4 +1,4 @@
----title: Potion of Clairvoyance---
+---title: Potion of Clairvoyancetags: notesseason: summertoc: truecomments: true---
 # Potion of Clairvoyance
 
 *Potion, rare*

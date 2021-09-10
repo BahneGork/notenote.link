@@ -1,4 +1,4 @@
----title: Grimlock---
+---title: Grimlocktags: notesseason: summertoc: truecomments: true---
 # Grimlock
 
 *Medium humanoid (grimlock), neutral evil*

@@ -1,4 +1,4 @@
----title: Gnome, Deep (Svirfneblin)---
+---title: Gnome, Deep (Svirfneblin)tags: notesseason: summertoc: truecomments: true---
 # Gnome, Deep (Svirfneblin)
 
 *Small humanoid (gnome), neutral good*

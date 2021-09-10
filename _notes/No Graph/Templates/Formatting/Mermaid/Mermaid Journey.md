@@ -1,4 +1,4 @@
----title: Mermaid Journey---
+---title: Mermaid Journeytags: notesseason: summertoc: truecomments: true---
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
 journey 

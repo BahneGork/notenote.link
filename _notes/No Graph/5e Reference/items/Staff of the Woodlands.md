@@ -1,4 +1,4 @@
----title: Staff of the Woodlands---
+---title: Staff of the Woodlandstags: notesseason: summertoc: truecomments: true---
 # Staff of the Woodlands
 
 *Staff, rare (requires attunement by a druid)*

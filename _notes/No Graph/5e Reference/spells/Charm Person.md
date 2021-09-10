@@ -1,4 +1,4 @@
----title: Charm Person---
+---title: Charm Persontags: notesseason: summertoc: truecomments: true---
 # Charm Person
 
 *1st-level enchantment*

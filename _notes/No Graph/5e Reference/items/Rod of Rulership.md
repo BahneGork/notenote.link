@@ -1,4 +1,4 @@
----title: Rod of Rulership---
+---title: Rod of Rulershiptags: notesseason: summertoc: truecomments: true---
 # Rod of Rulership
 
 *Rod, rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Fireberry---
+---title: Fireberrytags: notesseason: summertoc: truecomments: true---
 #npc #mount 
 Main: [[Trellara Nightshadow]]
 Related: [[Fallen star inn - first visit]], [[Starsong hill]]

@@ -1,4 +1,4 @@
----title: Hat of Disguise---
+---title: Hat of Disguisetags: notesseason: summertoc: truecomments: true---
 # Hat of Disguise
 
 *Wondrous item, uncommon (requires attunement)*

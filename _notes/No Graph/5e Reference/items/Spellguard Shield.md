@@ -1,4 +1,4 @@
----title: Spellguard Shield---
+---title: Spellguard Shieldtags: notesseason: summertoc: truecomments: true---
 # Spellguard Shield
 
 *Armor (shield), very rare (requires attunement)*

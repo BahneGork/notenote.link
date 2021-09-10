@@ -1,4 +1,4 @@
----title: Heroes Feast---
+---title: Heroes Feasttags: notesseason: summertoc: truecomments: true---
 # Heroes' Feast
 
 *6th-level conjuration*

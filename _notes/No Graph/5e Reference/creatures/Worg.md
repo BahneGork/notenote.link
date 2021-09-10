@@ -1,4 +1,4 @@
----title: Worg---
+---title: Worgtags: notesseason: summertoc: truecomments: true---
 # Worg
 
 *Large monstrosity, neutral evil*

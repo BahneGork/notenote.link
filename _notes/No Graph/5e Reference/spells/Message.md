@@ -1,4 +1,4 @@
----title: Message---
+---title: Messagetags: notesseason: summertoc: truecomments: true---
 # Message
 
 *Transmutation cantrip*

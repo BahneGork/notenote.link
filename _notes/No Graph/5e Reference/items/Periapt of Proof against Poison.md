@@ -1,4 +1,4 @@
----title: Periapt of Proof against Poison---
+---title: Periapt of Proof against Poisontags: notesseason: summertoc: truecomments: true---
 # Periapt of Proof against Poison
 
 *Wondrous item, rare*

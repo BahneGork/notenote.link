@@ -1,4 +1,4 @@
----title: Eyes of the Eagle---
+---title: Eyes of the Eagletags: notesseason: summertoc: truecomments: true---
 # Eyes of the Eagle
 
 *Wondrous item, uncommon (requires attunement)*

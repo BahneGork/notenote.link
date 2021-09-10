@@ -1,4 +1,4 @@
----title: Helm of Teleportation---
+---title: Helm of Teleportationtags: notesseason: summertoc: truecomments: true---
 # Helm of Teleportation
 
 *Wondrous item, rare (requires attunement)*

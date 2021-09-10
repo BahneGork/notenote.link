@@ -1,4 +1,4 @@
----title: Barbarian---
+---title: Barbariantags: notesseason: summertoc: truecomments: true---
 # Barbarian
 
 ### Class Features

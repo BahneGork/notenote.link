@@ -1,4 +1,4 @@
----title: Phantasmal Killer---
+---title: Phantasmal Killertags: notesseason: summertoc: truecomments: true---
 # Phantasmal Killer
 
 *4th-level illusion*

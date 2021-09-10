@@ -1,4 +1,4 @@
----title: Manual of Bodily Health---
+---title: Manual of Bodily Healthtags: notesseason: summertoc: truecomments: true---
 # Manual of Bodily Health
 
 *Wondrous item, very rare*

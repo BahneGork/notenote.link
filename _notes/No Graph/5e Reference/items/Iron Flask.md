@@ -1,4 +1,4 @@
----title: Iron Flask---
+---title: Iron Flasktags: notesseason: summertoc: truecomments: true---
 # Iron Flask
 
 *Wondrous item, legendary*

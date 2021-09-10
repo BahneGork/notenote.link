@@ -1,4 +1,4 @@
----title: Time Stop---
+---title: Time Stoptags: notesseason: summertoc: truecomments: true---
 # Time Stop
 
 *9th-level transmutation*

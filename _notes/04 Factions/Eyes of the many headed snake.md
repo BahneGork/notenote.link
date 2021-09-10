@@ -1,4 +1,4 @@
----title: Eyes of the many headed snake---
+---title: Eyes of the many headed snaketags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'eyes of arendur', 'The Medusa'
 ---

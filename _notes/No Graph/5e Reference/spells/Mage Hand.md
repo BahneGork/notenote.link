@@ -1,4 +1,4 @@
----title: Mage Hand---
+---title: Mage Handtags: notesseason: summertoc: truecomments: true---
 # Mage Hand
 
 *Conjuration cantrip*

@@ -1,4 +1,4 @@
----title: Lizardfolk---
+---title: Lizardfolktags: notesseason: summertoc: truecomments: true---
 # Lizardfolk
 
 *Medium humanoid (lizardfolk), neutral*

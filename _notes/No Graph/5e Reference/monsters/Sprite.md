@@ -1,4 +1,4 @@
----title: Sprite---
+---title: Spritetags: notesseason: summertoc: truecomments: true---
 # Sprite
 
 *Tiny fey, neutral good*

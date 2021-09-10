@@ -1,4 +1,4 @@
----title: Instant Summons---
+---title: Instant Summonstags: notesseason: summertoc: truecomments: true---
 # Instant Summons
 
 *6th-level conjuration (ritual)*

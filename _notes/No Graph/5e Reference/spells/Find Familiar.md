@@ -1,4 +1,4 @@
----title: Find Familiar---
+---title: Find Familiartags: notesseason: summertoc: truecomments: true---
 # Find Familiar
 
 *1st-­level conjuration (ritual)*

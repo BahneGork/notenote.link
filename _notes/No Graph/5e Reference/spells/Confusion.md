@@ -1,4 +1,4 @@
----title: Confusion---
+---title: Confusiontags: notesseason: summertoc: truecomments: true---
 # Confusion
 
 *4th-level enchantment*

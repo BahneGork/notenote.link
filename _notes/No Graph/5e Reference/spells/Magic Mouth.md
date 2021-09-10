@@ -1,4 +1,4 @@
----title: Magic Mouth---
+---title: Magic Mouthtags: notesseason: summertoc: truecomments: true---
 # Magic Mouth
 
 *2nd-level illusion (ritual)*

@@ -1,4 +1,4 @@
----title: Spells---
+---title: Spellstags: notesseason: summertoc: truecomments: true---
 # Spells
 - [[Acid Arrow]]
 - [[Acid Splash]]

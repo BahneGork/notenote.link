@@ -1,4 +1,4 @@
----title: Ring of Telekinesis---
+---title: Ring of Telekinesistags: notesseason: summertoc: truecomments: true---
 # Ring of Telekinesis
 
 *Ring, very rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Ring of Invisibility---
+---title: Ring of Invisibilitytags: notesseason: summertoc: truecomments: true---
 # Ring of Invisibility
 
 *Ring, legendary (requires attunement)*

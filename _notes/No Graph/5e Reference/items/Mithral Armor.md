@@ -1,4 +1,4 @@
----title: Mithral Armor---
+---title: Mithral Armortags: notesseason: summertoc: truecomments: true---
 # Mithral Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

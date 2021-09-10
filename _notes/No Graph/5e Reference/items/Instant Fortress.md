@@ -1,4 +1,4 @@
----title: Instant Fortress---
+---title: Instant Fortresstags: notesseason: summertoc: truecomments: true---
 # Instant Fortress
 
 *Wondrous item, rare*

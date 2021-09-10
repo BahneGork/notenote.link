@@ -1,4 +1,4 @@
----title: Columns---
+---title: Columnstags: notesseason: summertoc: truecomments: true---
 <div style="width: 100%;">
 	<!-- THE LEFT COLUMN -->
 		<div style="width: 48%; float: left; margin-right: 4%;">

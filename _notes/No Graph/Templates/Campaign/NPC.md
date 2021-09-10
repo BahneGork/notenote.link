@@ -1,4 +1,4 @@
----title: NPC---
+---title: NPCtags: notesseason: summertoc: truecomments: true---
 tags: #🗣  
 {{date}}
 {{time}}

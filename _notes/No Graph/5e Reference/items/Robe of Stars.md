@@ -1,4 +1,4 @@
----title: Robe of Stars---
+---title: Robe of Starstags: notesseason: summertoc: truecomments: true---
 # Robe of Stars
 
 *Wondrous item, very rare (requires attunement)*

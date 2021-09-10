@@ -1,4 +1,4 @@
----title: Animal Friendship---
+---title: Animal Friendshiptags: notesseason: summertoc: truecomments: true---
 # Animal Friendship
 
 *1st-­level enchantment*

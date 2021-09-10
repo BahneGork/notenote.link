@@ -1,4 +1,4 @@
----title: Cube of Force---
+---title: Cube of Forcetags: notesseason: summertoc: truecomments: true---
 # Cube of Force
 
 *Wondrous item, rare (requires attunement)*

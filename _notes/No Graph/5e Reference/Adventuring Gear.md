@@ -1,4 +1,4 @@
----title: Adventuring Gear---
+---title: Adventuring Geartags: notesseason: summertoc: truecomments: true---
 # Adventuring Gear
 
 This section describes items that have special rules or require further explanation.

@@ -1,4 +1,4 @@
----title: Javelin of Lightning---
+---title: Javelin of Lightningtags: notesseason: summertoc: truecomments: true---
 # Javelin of Lightning
 
 *Weapon (javelin), uncommon*

@@ -1,4 +1,4 @@
----title: Staff of Power---
+---title: Staff of Powertags: notesseason: summertoc: truecomments: true---
 # Staff of Power
 
 *Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)*

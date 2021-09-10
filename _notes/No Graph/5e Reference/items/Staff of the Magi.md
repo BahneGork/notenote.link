@@ -1,4 +1,4 @@
----title: Staff of the Magi---
+---title: Staff of the Magitags: notesseason: summertoc: truecomments: true---
 # Staff of the Magi
 
 *Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)*

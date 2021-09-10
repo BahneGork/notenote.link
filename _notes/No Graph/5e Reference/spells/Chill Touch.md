@@ -1,4 +1,4 @@
----title: Chill Touch---
+---title: Chill Touchtags: notesseason: summertoc: truecomments: true---
 # Chill Touch
 
 *Necromancy cantrip*

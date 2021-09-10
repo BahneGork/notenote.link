@@ -1,4 +1,4 @@
----title: Mace of Smiting---
+---title: Mace of Smitingtags: notesseason: summertoc: truecomments: true---
 # Mace of Smiting
 
 *Weapon (mace), rare*

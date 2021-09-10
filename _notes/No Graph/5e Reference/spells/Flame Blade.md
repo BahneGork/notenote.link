@@ -1,4 +1,4 @@
----title: Flame Blade---
+---title: Flame Bladetags: notesseason: summertoc: truecomments: true---
 # Flame Blade
 
 *2nd-level evocation*

@@ -1,4 +1,4 @@
----title: Lord Davide---
+---title: Lord Davidetags: notesseason: summertoc: truecomments: true---
 tags: #🗣 #npc #delios 
 2021-07-14
 21:05

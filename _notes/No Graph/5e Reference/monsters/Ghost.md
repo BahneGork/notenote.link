@@ -1,4 +1,4 @@
----title: Ghost---
+---title: Ghosttags: notesseason: summertoc: truecomments: true---
 # Ghost
 
 *Medium undead, any alignment*

@@ -1,4 +1,4 @@
----title: Incendiary Cloud---
+---title: Incendiary Cloudtags: notesseason: summertoc: truecomments: true---
 # Incendiary Cloud
 
 *8th-level conjuration*

@@ -1,4 +1,4 @@
----title: Potion of Animal Friendship---
+---title: Potion of Animal Friendshiptags: notesseason: summertoc: truecomments: true---
 # Potion of Animal Friendship
 
 *Potion, uncommon*

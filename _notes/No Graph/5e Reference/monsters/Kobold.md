@@ -1,4 +1,4 @@
----title: Kobold---
+---title: Koboldtags: notesseason: summertoc: truecomments: true---
 # Kobold
 
 *Small humanoid (kobold), lawful evil*

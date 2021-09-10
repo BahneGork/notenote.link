@@ -1,4 +1,4 @@
----title: Azer---
+---title: Azertags: notesseason: summertoc: truecomments: true---
 # Azer
 
 *Medium elemental, lawful neutral*

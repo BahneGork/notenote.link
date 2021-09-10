@@ -1,4 +1,4 @@
----title: Awakened Shrub---
+---title: Awakened Shrubtags: notesseason: summertoc: truecomments: true---
 # Awakened Shrub
 
 *Small plant, unaligned*

@@ -1,4 +1,4 @@
----title: Bandit---
+---title: Bandittags: notesseason: summertoc: truecomments: true---
 # Bandit
 
 *Medium humanoid (any race), any non-lawful alignment*

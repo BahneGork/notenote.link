@@ -1,4 +1,4 @@
----title: Artifacts---
+---title: Artifactstags: notesseason: summertoc: truecomments: true---
 # Artifacts
 
 ### Orb of Dragonkind

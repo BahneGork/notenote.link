@@ -1,4 +1,4 @@
----title: Floating Disk---
+---title: Floating Disktags: notesseason: summertoc: truecomments: true---
 # Floating Disk
 
 *1st-level conjuration (ritual)*

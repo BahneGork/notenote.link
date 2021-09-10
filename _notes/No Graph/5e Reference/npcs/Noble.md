@@ -1,4 +1,4 @@
----title: Noble---
+---title: Nobletags: notesseason: summertoc: truecomments: true---
 # Noble
 
 *Medium humanoid (any race), any alignment*

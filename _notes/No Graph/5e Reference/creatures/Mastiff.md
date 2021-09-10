@@ -1,4 +1,4 @@
----title: Mastiff---
+---title: Mastifftags: notesseason: summertoc: truecomments: true---
 # Mastiff
 
 *Medium beast, unaligned*

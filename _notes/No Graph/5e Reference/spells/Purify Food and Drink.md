@@ -1,4 +1,4 @@
----title: Purify Food and Drink---
+---title: Purify Food and Drinktags: notesseason: summertoc: truecomments: true---
 # Purify Food and Drink
 
 *1st-level transmutation (ritual)*

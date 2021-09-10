@@ -1,4 +1,4 @@
----title: Conjure Elemental---
+---title: Conjure Elementaltags: notesseason: summertoc: truecomments: true---
 # Conjure Elemental
 
 *5th-level conjuration*

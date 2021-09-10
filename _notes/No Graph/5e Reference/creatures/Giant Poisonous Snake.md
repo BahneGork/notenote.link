@@ -1,4 +1,4 @@
----title: Giant Poisonous Snake---
+---title: Giant Poisonous Snaketags: notesseason: summertoc: truecomments: true---
 # Giant Poisonous Snake
 
 *Medium beast, unaligned*

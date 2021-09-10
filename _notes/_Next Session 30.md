@@ -1,4 +1,4 @@
----title: _Next Session 30---
+---title: _Next Session 30tags: notesseason: summertoc: truecomments: true---
 # Session 30 - Next 
 #next 
 Date: Lørdag 18 Sep 2021

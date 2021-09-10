@@ -1,4 +1,4 @@
----title: Faithful Hound---
+---title: Faithful Houndtags: notesseason: summertoc: truecomments: true---
 # Faithful Hound
 
 *4th-level conjuration*

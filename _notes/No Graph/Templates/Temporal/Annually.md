@@ -1,4 +1,4 @@
----title: Annually---
+---title: Annuallytags: notesseason: summertoc: truecomments: true---
 ### Annual Review:
 
 [[<%tp.date.now("YYYY-[Y]", -365)%>]] <== <button class="date_button_today">This Month</button> ==> [[<%tp.date.now("YYYY-[Y]", 365)%>]]

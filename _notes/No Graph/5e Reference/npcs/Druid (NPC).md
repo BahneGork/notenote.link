@@ -1,4 +1,4 @@
----title: Druid (NPC)---
+---title: Druid (NPC)tags: notesseason: summertoc: truecomments: true---
 # Druid
 
 *Medium humanoid (any race), any alignment*

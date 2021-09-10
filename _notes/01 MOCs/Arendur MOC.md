@@ -1,4 +1,4 @@
----title: Arendur MOC---
+---title: Arendur MOCtags: notesseason: summertoc: truecomments: true---
 #city #MOC 
 
 Main: [[Arendur Rising Campaign MOC]]

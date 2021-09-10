@@ -1,4 +1,4 @@
----title: Session Prep---
+---title: Session Preptags: notesseason: summertoc: truecomments: true---
 # Session x - Next 
 #next 
 Date:

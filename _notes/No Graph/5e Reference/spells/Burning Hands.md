@@ -1,4 +1,4 @@
----title: Burning Hands---
+---title: Burning Handstags: notesseason: summertoc: truecomments: true---
 # Burning Hands
 
 *1st-level evocation*

@@ -1,4 +1,4 @@
----title: Detect Magic---
+---title: Detect Magictags: notesseason: summertoc: truecomments: true---
 # Detect Magic
 
 *1st-level divination (ritual)*

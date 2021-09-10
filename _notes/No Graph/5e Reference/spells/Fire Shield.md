@@ -1,4 +1,4 @@
----title: Fire Shield---
+---title: Fire Shieldtags: notesseason: summertoc: truecomments: true---
 # Fire Shield
 
 *4th-level evocation*

@@ -1,4 +1,4 @@
----title: Fog Cloud---
+---title: Fog Cloudtags: notesseason: summertoc: truecomments: true---
 # Fog Cloud
 
 *1st-level conjuration*

@@ -1,4 +1,4 @@
----title: Arcane Hand---
+---title: Arcane Handtags: notesseason: summertoc: truecomments: true---
 # Arcane Hand
 
 *5th-level evocation*

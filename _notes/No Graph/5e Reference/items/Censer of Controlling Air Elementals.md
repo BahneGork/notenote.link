@@ -1,4 +1,4 @@
----title: Censer of Controlling Air Elementals---
+---title: Censer of Controlling Air Elementalstags: notesseason: summertoc: truecomments: true---
 # Censer of Controlling Air Elementals
 
 *Wondrous item, rare*

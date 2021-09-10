@@ -1,4 +1,4 @@
----title: Minotaur---
+---title: Minotaurtags: notesseason: summertoc: truecomments: true---
 # Minotaur
 
 *Large monstrosity, chaotic evil*

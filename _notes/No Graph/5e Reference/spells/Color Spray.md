@@ -1,4 +1,4 @@
----title: Color Spray---
+---title: Color Spraytags: notesseason: summertoc: truecomments: true---
 # Color Spray
 
 *1st-level illusion*

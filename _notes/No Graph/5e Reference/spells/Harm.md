@@ -1,4 +1,4 @@
----title: Harm---
+---title: Harmtags: notesseason: summertoc: truecomments: true---
 # Harm
 
 *6th-level necromancy*

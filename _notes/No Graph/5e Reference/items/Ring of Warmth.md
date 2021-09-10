@@ -1,4 +1,4 @@
----title: Ring of Warmth---
+---title: Ring of Warmthtags: notesseason: summertoc: truecomments: true---
 # Ring of Warmth
 
 *Ring, uncommon (requires attunement)*

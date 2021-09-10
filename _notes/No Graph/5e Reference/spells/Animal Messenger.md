@@ -1,4 +1,4 @@
----title: Animal Messenger---
+---title: Animal Messengertags: notesseason: summertoc: truecomments: true---
 # Animal Messenger
 
 *2nd-level enchantment (ritual)*

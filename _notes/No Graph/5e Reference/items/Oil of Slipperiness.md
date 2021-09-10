@@ -1,4 +1,4 @@
----title: Oil of Slipperiness---
+---title: Oil of Slipperinesstags: notesseason: summertoc: truecomments: true---
 # Oil of Slipperiness
 
 *Potion, uncommon*

@@ -1,4 +1,4 @@
----title: Ranch 2 Rutus---
+---title: Ranch 2 Rutustags: notesseason: summertoc: truecomments: true---
 ---
 alias:'ranch 2, ranch rutus, rutus'
 ---

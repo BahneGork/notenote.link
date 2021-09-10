@@ -1,4 +1,4 @@
----title: Power Word Kill---
+---title: Power Word Killtags: notesseason: summertoc: truecomments: true---
 # Power Word Kill
 
 *9th-level enchantment*

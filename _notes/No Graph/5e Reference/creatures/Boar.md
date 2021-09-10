@@ -1,4 +1,4 @@
----title: Boar---
+---title: Boartags: notesseason: summertoc: truecomments: true---
 # Boar
 
 *Medium beast, unaligned*

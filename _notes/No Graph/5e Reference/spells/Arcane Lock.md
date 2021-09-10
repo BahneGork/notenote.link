@@ -1,4 +1,4 @@
----title: Arcane Lock---
+---title: Arcane Locktags: notesseason: summertoc: truecomments: true---
 # Arcane Lock
 
 *2nd-level abjuration*

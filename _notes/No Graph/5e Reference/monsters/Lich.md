@@ -1,4 +1,4 @@
----title: Lich---
+---title: Lichtags: notesseason: summertoc: truecomments: true---
 # Lich
 
 *Medium undead, any evil alignment*

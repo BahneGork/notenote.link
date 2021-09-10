@@ -1,4 +1,4 @@
----title: Gargoyle---
+---title: Gargoyletags: notesseason: summertoc: truecomments: true---
 # Gargoyle
 
 *Medium elemental, chaotic evil*

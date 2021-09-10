@@ -1,4 +1,4 @@
----title: Delios MOC---
+---title: Delios MOCtags: notesseason: summertoc: truecomments: true---
 ---
 title: {{title}}
 ---

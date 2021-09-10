@@ -1,4 +1,4 @@
----title: Staff of Swarming Insects---
+---title: Staff of Swarming Insectstags: notesseason: summertoc: truecomments: true---
 # Staff of Swarming Insects
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*

@@ -1,4 +1,4 @@
----title: Staff of the Python---
+---title: Staff of the Pythontags: notesseason: summertoc: truecomments: true---
 # Staff of the Python
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*

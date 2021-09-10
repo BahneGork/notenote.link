@@ -1,4 +1,4 @@
----title: Berserker---
+---title: Berserkertags: notesseason: summertoc: truecomments: true---
 # Berserker
 
 *Medium humanoid (any race), any chaotic alignment*

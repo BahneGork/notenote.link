@@ -1,4 +1,4 @@
----title: Irresistible Dance---
+---title: Irresistible Dancetags: notesseason: summertoc: truecomments: true---
 # Irresistible Dance
 
 *6th-level enchantment*

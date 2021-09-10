@@ -1,4 +1,4 @@
----title: Nine Lives Stealer---
+---title: Nine Lives Stealertags: notesseason: summertoc: truecomments: true---
 # Nine Lives Stealer
 
 *Weapon (any sword), very rare (requires attunement)*

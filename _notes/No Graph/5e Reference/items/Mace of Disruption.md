@@ -1,4 +1,4 @@
----title: Mace of Disruption---
+---title: Mace of Disruptiontags: notesseason: summertoc: truecomments: true---
 # Mace of Disruption
 
 *Weapon (mace), rare (requires attunement)*

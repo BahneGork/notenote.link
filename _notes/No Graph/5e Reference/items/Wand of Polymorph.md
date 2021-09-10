@@ -1,4 +1,4 @@
----title: Wand of Polymorph---
+---title: Wand of Polymorphtags: notesseason: summertoc: truecomments: true---
 # Wand of Polymorph
 
 *Wand, very rare (requires attunement by a spellcaster)*

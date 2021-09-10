@@ -1,4 +1,4 @@
----title: Dream---
+---title: Dreamtags: notesseason: summertoc: truecomments: true---
 # Dream
 
 *5th-level illusion*

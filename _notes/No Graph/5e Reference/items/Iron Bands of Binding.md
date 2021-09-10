@@ -1,4 +1,4 @@
----title: Iron Bands of Binding---
+---title: Iron Bands of Bindingtags: notesseason: summertoc: truecomments: true---
 # Iron Bands of Binding
 
 *Wondrous item, rare*

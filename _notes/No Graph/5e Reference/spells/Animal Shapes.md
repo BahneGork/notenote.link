@@ -1,4 +1,4 @@
----title: Animal Shapes---
+---title: Animal Shapestags: notesseason: summertoc: truecomments: true---
 # Animal Shapes
 
 *8th-level transmutation*

@@ -1,4 +1,4 @@
----title: Cleric---
+---title: Clerictags: notesseason: summertoc: truecomments: true---
 # Cleric
 
 ### Class Features

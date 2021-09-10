@@ -1,4 +1,4 @@
----title: Command---
+---title: Commandtags: notesseason: summertoc: truecomments: true---
 # Command
 
 *1st-level enchantment*

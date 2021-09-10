@@ -1,4 +1,4 @@
----title: Handy Haversack---
+---title: Handy Haversacktags: notesseason: summertoc: truecomments: true---
 # Handy Haversack
 
 *Wondrous item, rare*

@@ -1,4 +1,4 @@
----title: Headband of Intellect---
+---title: Headband of Intellecttags: notesseason: summertoc: truecomments: true---
 # Headband of Intellect
 
 *Wondrous item, uncommon (requires attunement)*

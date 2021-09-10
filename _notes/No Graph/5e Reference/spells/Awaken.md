@@ -1,4 +1,4 @@
----title: Awaken---
+---title: Awakentags: notesseason: summertoc: truecomments: true---
 # Awaken
 
 *5th-level transmutation*

@@ -1,4 +1,4 @@
----title: Giant Eagle---
+---title: Giant Eagletags: notesseason: summertoc: truecomments: true---
 # Giant Eagle
 
 *Large beast, neutral good*

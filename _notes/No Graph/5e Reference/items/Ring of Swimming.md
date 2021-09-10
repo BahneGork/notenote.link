@@ -1,4 +1,4 @@
----title: Ring of Swimming---
+---title: Ring of Swimmingtags: notesseason: summertoc: truecomments: true---
 # Ring of Swimming
 
 *Ring, uncommon*

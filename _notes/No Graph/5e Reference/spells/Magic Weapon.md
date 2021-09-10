@@ -1,4 +1,4 @@
----title: Magic Weapon---
+---title: Magic Weapontags: notesseason: summertoc: truecomments: true---
 # Magic Weapon
 
 *2nd-level transmutation*

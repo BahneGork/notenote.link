@@ -1,4 +1,4 @@
----title: Boots of the Winterlands---
+---title: Boots of the Winterlandstags: notesseason: summertoc: truecomments: true---
 # Boots of the Winterlands
 
 *Wondrous item, uncommon (requires attunement)*

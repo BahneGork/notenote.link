@@ -1,4 +1,4 @@
----title: Resurrection---
+---title: Resurrectiontags: notesseason: summertoc: truecomments: true---
 # Resurrection
 
 *7th-level necromancy*

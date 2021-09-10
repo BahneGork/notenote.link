@@ -1,4 +1,4 @@
----title: Izzy - the goblin bard---
+---title: Izzy - the goblin bardtags: notesseason: summertoc: truecomments: true---
 #npc #Eyesofthemanyheadedsnake #medusa #delios 
 Main: [[Delios]]  Related:
 

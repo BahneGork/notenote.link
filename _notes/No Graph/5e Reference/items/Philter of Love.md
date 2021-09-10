@@ -1,4 +1,4 @@
----title: Philter of Love---
+---title: Philter of Lovetags: notesseason: summertoc: truecomments: true---
 # Philter of Love
 
 *Potion, uncommon*

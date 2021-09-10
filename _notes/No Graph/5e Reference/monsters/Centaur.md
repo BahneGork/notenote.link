@@ -1,4 +1,4 @@
----title: Centaur---
+---title: Centaurtags: notesseason: summertoc: truecomments: true---
 # Centaur
 
 *Large monstrosity, neutral good*

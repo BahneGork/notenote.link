@@ -1,4 +1,4 @@
----title: Drider---
+---title: Dridertags: notesseason: summertoc: truecomments: true---
 # Drider
 
 *Large monstrosity, chaotic evil*

@@ -1,4 +1,4 @@
----title: Recipe - Broom of Flying---
+---title: Recipe - Broom of Flyingtags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Broom of Flying
 

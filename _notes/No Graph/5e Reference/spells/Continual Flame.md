@@ -1,4 +1,4 @@
----title: Continual Flame---
+---title: Continual Flametags: notesseason: summertoc: truecomments: true---
 # Continual Flame
 
 *2nd-level evocation*

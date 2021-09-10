@@ -1,4 +1,4 @@
----title: Vicious Mockery---
+---title: Vicious Mockerytags: notesseason: summertoc: truecomments: true---
 # Vicious Mockery
 
 *Enchantment cantrip*

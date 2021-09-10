@@ -1,4 +1,4 @@
----title: True Seeing---
+---title: True Seeingtags: notesseason: summertoc: truecomments: true---
 # True Seeing
 
 *6th-level divination*

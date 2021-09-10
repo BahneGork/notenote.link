@@ -1,4 +1,4 @@
----title: Mind Blank---
+---title: Mind Blanktags: notesseason: summertoc: truecomments: true---
 # Mind Blank
 
 *8th-level abjuration*

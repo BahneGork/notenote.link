@@ -1,4 +1,4 @@
----title: Siofrah - Rød Talende Panda---
+---title: Siofrah - Rød Talende Pandatags: notesseason: summertoc: truecomments: true---
 #npc 
 Main: [[Frekka FlammehÃ¥r]]
 Related: [[Feywild]], [[Fey lord - Frekka Father]]

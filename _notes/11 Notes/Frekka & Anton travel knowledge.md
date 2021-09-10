@@ -1,4 +1,4 @@
----title: Frekka & Anton travel knowledge---
+---title: Frekka & Anton travel knowledgetags: notesseason: summertoc: truecomments: true---
 # Frekka & Anton travel knowledge
 Main:
 Related: [[Frekka Flammehår]], [[Anton Keene]]

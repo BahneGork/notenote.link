@@ -1,4 +1,4 @@
----title: Scarab of Protection---
+---title: Scarab of Protectiontags: notesseason: summertoc: truecomments: true---
 # Scarab of Protection
 
 *Wondrous item, legendary (requires attunement)*

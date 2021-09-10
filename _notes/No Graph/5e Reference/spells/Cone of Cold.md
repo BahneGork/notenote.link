@@ -1,4 +1,4 @@
----title: Cone of Cold---
+---title: Cone of Coldtags: notesseason: summertoc: truecomments: true---
 # Cone of Cold
 
 *5th-level evocation*

@@ -1,4 +1,4 @@
----title: Wand of Fear---
+---title: Wand of Feartags: notesseason: summertoc: truecomments: true---
 # Wand of Fear
 
 *Wand, rare (requires attunement)*

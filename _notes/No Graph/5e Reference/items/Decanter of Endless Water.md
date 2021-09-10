@@ -1,4 +1,4 @@
----title: Decanter of Endless Water---
+---title: Decanter of Endless Watertags: notesseason: summertoc: truecomments: true---
 # Decanter of Endless Water
 
 *Wondrous item, uncommon*

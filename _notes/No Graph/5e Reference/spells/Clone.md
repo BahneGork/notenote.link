@@ -1,4 +1,4 @@
----title: Clone---
+---title: Clonetags: notesseason: summertoc: truecomments: true---
 # Clone
 
 *8th-level necromancy*

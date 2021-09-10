@@ -1,4 +1,4 @@
----title: Magic Circle---
+---title: Magic Circletags: notesseason: summertoc: truecomments: true---
 # Magic Circle
 
 *3rd-level abjuration*

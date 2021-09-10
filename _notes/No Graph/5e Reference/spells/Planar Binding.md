@@ -1,4 +1,4 @@
----title: Planar Binding---
+---title: Planar Bindingtags: notesseason: summertoc: truecomments: true---
 # Planar Binding
 
 *5th-level abjuration*

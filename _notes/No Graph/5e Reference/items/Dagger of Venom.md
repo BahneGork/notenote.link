@@ -1,4 +1,4 @@
----title: Dagger of Venom---
+---title: Dagger of Venomtags: notesseason: summertoc: truecomments: true---
 # Dagger of Venom
 
 *Weapon (dagger), rare*

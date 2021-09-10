@@ -1,4 +1,4 @@
----title: Wall of Force---
+---title: Wall of Forcetags: notesseason: summertoc: truecomments: true---
 # Wall of Force
 
 *5th-level evocation*

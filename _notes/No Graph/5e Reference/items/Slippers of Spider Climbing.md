@@ -1,4 +1,4 @@
----title: Slippers of Spider Climbing---
+---title: Slippers of Spider Climbingtags: notesseason: summertoc: truecomments: true---
 # Slippers of Spider Climbing
 
 *Wondrous item, uncommon (requires attunement)*

@@ -1,4 +1,4 @@
----title: Find the Path---
+---title: Find the Pathtags: notesseason: summertoc: truecomments: true---
 # Find the Path
 
 *6th-level divination*

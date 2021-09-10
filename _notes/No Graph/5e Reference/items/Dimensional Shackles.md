@@ -1,4 +1,4 @@
----title: Dimensional Shackles---
+---title: Dimensional Shacklestags: notesseason: summertoc: truecomments: true---
 # Dimensional Shackles
 
 *Wondrous item, rare*

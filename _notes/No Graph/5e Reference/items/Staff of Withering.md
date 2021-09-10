@@ -1,4 +1,4 @@
----title: Staff of Withering---
+---title: Staff of Witheringtags: notesseason: summertoc: truecomments: true---
 # Staff of Withering
 
 *Staff, rare (requires attunement by a cleric, druid, or warlock)*

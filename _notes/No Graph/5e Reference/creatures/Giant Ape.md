@@ -1,4 +1,4 @@
----title: Giant Ape---
+---title: Giant Apetags: notesseason: summertoc: truecomments: true---
 # Giant Ape
 
 *Huge beast, unaligned*

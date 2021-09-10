@@ -1,4 +1,4 @@
----title: Panther---
+---title: Panthertags: notesseason: summertoc: truecomments: true---
 # Panther
 
 *Medium beast, unaligned*

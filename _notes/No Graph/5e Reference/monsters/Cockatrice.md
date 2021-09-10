@@ -1,4 +1,4 @@
----title: Cockatrice---
+---title: Cockatricetags: notesseason: summertoc: truecomments: true---
 # Cockatrice
 
 *Small monstrosity, unaligned*

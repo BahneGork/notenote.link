@@ -1,4 +1,4 @@
----title: Contact Other Plane---
+---title: Contact Other Planetags: notesseason: summertoc: truecomments: true---
 # Contact Other Plane
 
 *5th-level divination (ritual)*

@@ -1,4 +1,4 @@
----title: Hypnotic Pattern---
+---title: Hypnotic Patterntags: notesseason: summertoc: truecomments: true---
 # Hypnotic Pattern
 
 *3rd-level illusion*

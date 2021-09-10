@@ -1,4 +1,4 @@
----title: Reincarnate---
+---title: Reincarnatetags: notesseason: summertoc: truecomments: true---
 # Reincarnate
 
 *5th-level transmutation*

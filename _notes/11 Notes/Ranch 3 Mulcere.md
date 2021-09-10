@@ -1,4 +1,4 @@
----title: Ranch 3 Mulcere---
+---title: Ranch 3 Mulceretags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'Ranch 3, Ranch Mulcere, Mulcere'
 ---

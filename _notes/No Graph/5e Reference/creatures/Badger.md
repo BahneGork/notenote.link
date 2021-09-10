@@ -1,4 +1,4 @@
----title: Badger---
+---title: Badgertags: notesseason: summertoc: truecomments: true---
 # Badger
 
 *Tiny beast, unaligned*

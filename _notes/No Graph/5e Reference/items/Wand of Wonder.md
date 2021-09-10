@@ -1,4 +1,4 @@
----title: Wand of Wonder---
+---title: Wand of Wondertags: notesseason: summertoc: truecomments: true---
 # Wand of Wonder
 
 *Wand, rare (requires attunement by a spellcaster)*

@@ -1,4 +1,4 @@
----title: Prestidigitation---
+---title: Prestidigitationtags: notesseason: summertoc: truecomments: true---
 # Prestidigitation
 
 *Transmutation cantrip*

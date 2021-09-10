@@ -1,4 +1,4 @@
----title: Wolf---
+---title: Wolftags: notesseason: summertoc: truecomments: true---
 # Wolf
 
 *Medium beast, unaligned*

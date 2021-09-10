@@ -1,4 +1,4 @@
----title: Fungi---
+---title: Fungitags: notesseason: summertoc: truecomments: true---
 # Fungi
 
 

@@ -1,4 +1,4 @@
----title: Xorn---
+---title: Xorntags: notesseason: summertoc: truecomments: true---
 # Xorn
 
 *Medium elemental, neutral*

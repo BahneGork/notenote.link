@@ -1,4 +1,4 @@
----title: Flame Strike---
+---title: Flame Striketags: notesseason: summertoc: truecomments: true---
 # Flame Strike
 
 *5th-level evocation*

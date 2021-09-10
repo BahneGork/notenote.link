@@ -1,4 +1,4 @@
----title: Beacon of Hope---
+---title: Beacon of Hopetags: notesseason: summertoc: truecomments: true---
 # Beacon of Hope
 
 *3rd-level abjuration*

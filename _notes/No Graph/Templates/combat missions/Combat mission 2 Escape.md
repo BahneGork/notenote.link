@@ -1,4 +1,4 @@
----title: Combat mission 2 Escape---
+---title: Combat mission 2 Escapetags: notesseason: summertoc: truecomments: true---
 ### Mission 2: Escape Destruction
 
 _“We’re not gonna make it!_

@@ -1,4 +1,4 @@
----title: Death Dog---
+---title: Death Dogtags: notesseason: summertoc: truecomments: true---
 # Death Dog
 
 *Medium monstrosity, neutral evil*

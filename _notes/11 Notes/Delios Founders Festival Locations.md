@@ -1,4 +1,4 @@
----title: Delios Founders Festival Locations---
+---title: Delios Founders Festival Locationstags: notesseason: summertoc: truecomments: true---
 # Delios Founders Festival Locations
 Main:
 Related: [[annual founders celebration]]

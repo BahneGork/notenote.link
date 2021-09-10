@@ -1,4 +1,4 @@
----title: Mass Suggestion---
+---title: Mass Suggestiontags: notesseason: summertoc: truecomments: true---
 # Mass Suggestion
 
 *6th-level enchantment*

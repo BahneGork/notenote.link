@@ -1,4 +1,4 @@
----title: Bane---
+---title: Banetags: notesseason: summertoc: truecomments: true---
 # Bane
 
 *1st-level enchantment*

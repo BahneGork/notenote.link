@@ -1,4 +1,4 @@
----title: Stone of Good Luck (Luckstone)---
+---title: Stone of Good Luck (Luckstone)tags: notesseason: summertoc: truecomments: true---
 # Stone of Good Luck (Luckstone)
 
 *Wondrous item, uncommon (requires attunement)*

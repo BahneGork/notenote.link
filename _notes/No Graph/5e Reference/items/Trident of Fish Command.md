@@ -1,4 +1,4 @@
----title: Trident of Fish Command---
+---title: Trident of Fish Commandtags: notesseason: summertoc: truecomments: true---
 # Trident of Fish Command
 
 *Weapon (trident), uncommon (requires attunement)*

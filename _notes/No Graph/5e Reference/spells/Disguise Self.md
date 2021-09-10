@@ -1,4 +1,4 @@
----title: Disguise Self---
+---title: Disguise Selftags: notesseason: summertoc: truecomments: true---
 # Disguise Self
 
 *1st-level illusion*

@@ -1,4 +1,4 @@
----title: Shield---
+---title: Shieldtags: notesseason: summertoc: truecomments: true---
 # Shield
 
 *1st-level abjuration*

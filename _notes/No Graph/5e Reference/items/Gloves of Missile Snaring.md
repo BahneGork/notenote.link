@@ -1,4 +1,4 @@
----title: Gloves of Missile Snaring---
+---title: Gloves of Missile Snaringtags: notesseason: summertoc: truecomments: true---
 # Gloves of Missile Snaring
 
 *Wondrous item, uncommon (requires attunement)*

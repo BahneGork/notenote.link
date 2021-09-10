@@ -1,4 +1,4 @@
----title: Cape of the Mountebank---
+---title: Cape of the Mountebanktags: notesseason: summertoc: truecomments: true---
 # Cape of the Mountebank
 
 *Wondrous item, rare*

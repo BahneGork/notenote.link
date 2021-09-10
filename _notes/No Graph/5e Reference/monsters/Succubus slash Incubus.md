@@ -1,4 +1,4 @@
----title: Succubus slash Incubus---
+---title: Succubus slash Incubustags: notesseason: summertoc: truecomments: true---
 # Succubus/Incubus
 
 *Medium fiend (shapechanger), neutral evil*

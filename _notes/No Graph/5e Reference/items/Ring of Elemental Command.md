@@ -1,4 +1,4 @@
----title: Ring of Elemental Command---
+---title: Ring of Elemental Commandtags: notesseason: summertoc: truecomments: true---
 # Ring of Elemental Command
 
 *Ring, legendary (requires attunement)*

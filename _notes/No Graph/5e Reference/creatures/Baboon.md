@@ -1,4 +1,4 @@
----title: Baboon---
+---title: Baboontags: notesseason: summertoc: truecomments: true---
 # Baboon
 
 *Small beast, unaligned*

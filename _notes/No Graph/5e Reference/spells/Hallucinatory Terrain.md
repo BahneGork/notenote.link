@@ -1,4 +1,4 @@
----title: Hallucinatory Terrain---
+---title: Hallucinatory Terraintags: notesseason: summertoc: truecomments: true---
 # Hallucinatory Terrain
 
 *4th-level illusion*

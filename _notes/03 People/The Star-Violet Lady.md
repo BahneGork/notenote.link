@@ -1,4 +1,4 @@
----title: The Star-Violet Lady---
+---title: The Star-Violet Ladytags: notesseason: summertoc: truecomments: true---
 #npc #history 
 Main: [[Haudh Ninlaith]]
 Related: [[Duke Armatage Volantis]]

@@ -1,4 +1,4 @@
----title: Finger of Death---
+---title: Finger of Deathtags: notesseason: summertoc: truecomments: true---
 # Finger of Death
 
 *7th-level necromancy*

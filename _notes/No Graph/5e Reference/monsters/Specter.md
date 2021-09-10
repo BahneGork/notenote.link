@@ -1,4 +1,4 @@
----title: Specter---
+---title: Spectertags: notesseason: summertoc: truecomments: true---
 # Specter
 
 *Medium undead, chaotic evil*

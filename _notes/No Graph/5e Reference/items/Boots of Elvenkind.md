@@ -1,4 +1,4 @@
----title: Boots of Elvenkind---
+---title: Boots of Elvenkindtags: notesseason: summertoc: truecomments: true---
 # Boots of Elvenkind
 
 *Wondrous item, uncommon*

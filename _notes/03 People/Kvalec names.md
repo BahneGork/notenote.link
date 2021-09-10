@@ -1,4 +1,4 @@
----title: Kvalec names---
+---title: Kvalec namestags: notesseason: summertoc: truecomments: true---
 #names #kvalec 
 Main: [[people MOC]]
 # Kvalec    

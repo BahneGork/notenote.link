@@ -1,4 +1,4 @@
----title: Ghouls---
+---title: Ghoulstags: notesseason: summertoc: truecomments: true---
 # Ghouls
 
 

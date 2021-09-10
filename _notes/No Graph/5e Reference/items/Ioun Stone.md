@@ -1,4 +1,4 @@
----title: Ioun Stone---
+---title: Ioun Stonetags: notesseason: summertoc: truecomments: true---
 # Ioun Stone
 
 *Wondrous item, rarity varies (requires attunement)*

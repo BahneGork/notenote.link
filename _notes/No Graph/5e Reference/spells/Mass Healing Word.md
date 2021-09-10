@@ -1,4 +1,4 @@
----title: Mass Healing Word---
+---title: Mass Healing Wordtags: notesseason: summertoc: truecomments: true---
 # Mass Healing Word
 
 *3rd-level evocation*

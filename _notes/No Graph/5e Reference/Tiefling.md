@@ -1,4 +1,4 @@
----title: Tiefling---
+---title: Tieflingtags: notesseason: summertoc: truecomments: true---
 # Tiefling
 
 ### Tiefling Traits

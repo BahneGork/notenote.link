@@ -1,4 +1,4 @@
----title: Casting a Spell---
+---title: Casting a Spelltags: notesseason: summertoc: truecomments: true---
 # Casting a Spell
 
 When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.

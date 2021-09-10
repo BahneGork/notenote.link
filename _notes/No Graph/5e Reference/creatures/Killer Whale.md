@@ -1,4 +1,4 @@
----title: Killer Whale---
+---title: Killer Whaletags: notesseason: summertoc: truecomments: true---
 # Killer Whale
 
 *Huge beast, unaligned*

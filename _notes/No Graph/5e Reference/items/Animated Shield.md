@@ -1,4 +1,4 @@
----title: Animated Shield---
+---title: Animated Shieldtags: notesseason: summertoc: truecomments: true---
 # Animated Shield
 
 *Armor (shield), very rare (requires attunement)*

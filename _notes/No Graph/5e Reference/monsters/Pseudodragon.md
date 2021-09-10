@@ -1,4 +1,4 @@
----title: Pseudodragon---
+---title: Pseudodragontags: notesseason: summertoc: truecomments: true---
 # Pseudodragon
 
 *Tiny dragon, neutral good*

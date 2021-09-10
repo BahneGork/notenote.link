@@ -1,4 +1,4 @@
----title: Draft Horse---
+---title: Draft Horsetags: notesseason: summertoc: truecomments: true---
 # Draft Horse
 
 *Large beast, unaligned*

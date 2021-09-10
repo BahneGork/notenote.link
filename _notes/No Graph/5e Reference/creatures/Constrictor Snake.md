@@ -1,4 +1,4 @@
----title: Constrictor Snake---
+---title: Constrictor Snaketags: notesseason: summertoc: truecomments: true---
 # Constrictor Snake
 
 *Large beast, unaligned*

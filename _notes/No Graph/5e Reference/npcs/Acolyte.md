@@ -1,4 +1,4 @@
----title: Acolyte---
+---title: Acolytetags: notesseason: summertoc: truecomments: true---
 # Acolyte
 
 *Medium humanoid (any race), any alignment*

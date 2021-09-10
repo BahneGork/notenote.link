@@ -1,4 +1,4 @@
----title: Scorching Ray---
+---title: Scorching Raytags: notesseason: summertoc: truecomments: true---
 # Scorching Ray
 
 *2nd-level evocation*

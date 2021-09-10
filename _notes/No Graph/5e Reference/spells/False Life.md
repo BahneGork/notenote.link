@@ -1,4 +1,4 @@
----title: False Life---
+---title: False Lifetags: notesseason: summertoc: truecomments: true---
 # False Life
 
 *1st-level necromancy*

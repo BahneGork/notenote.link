@@ -1,4 +1,4 @@
----title: Spike Growth---
+---title: Spike Growthtags: notesseason: summertoc: truecomments: true---
 # Spike Growth
 
 *2nd-level transmutation*

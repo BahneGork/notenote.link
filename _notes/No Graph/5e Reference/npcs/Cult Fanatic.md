@@ -1,4 +1,4 @@
----title: Cult Fanatic---
+---title: Cult Fanatictags: notesseason: summertoc: truecomments: true---
 # Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*

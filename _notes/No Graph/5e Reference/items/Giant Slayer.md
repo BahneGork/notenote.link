@@ -1,4 +1,4 @@
----title: Giant Slayer---
+---title: Giant Slayertags: notesseason: summertoc: truecomments: true---
 # Giant Slayer
 
 *Weapon (any axe or sword), rare*

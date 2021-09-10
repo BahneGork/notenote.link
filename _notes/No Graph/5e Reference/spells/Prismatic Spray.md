@@ -1,4 +1,4 @@
----title: Prismatic Spray---
+---title: Prismatic Spraytags: notesseason: summertoc: truecomments: true---
 # Prismatic Spray
 
 *7th-level evocation*

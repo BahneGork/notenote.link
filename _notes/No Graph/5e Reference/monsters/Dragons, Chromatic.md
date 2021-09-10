@@ -1,4 +1,4 @@
----title: Dragons, Chromatic---
+---title: Dragons, Chromatictags: notesseason: summertoc: truecomments: true---
 # Dragons, Chromatic
 
 

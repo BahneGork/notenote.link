@@ -1,4 +1,4 @@
----title: Stirge---
+---title: Stirgetags: notesseason: summertoc: truecomments: true---
 # Stirge
 
 *Tiny beast, unaligned*

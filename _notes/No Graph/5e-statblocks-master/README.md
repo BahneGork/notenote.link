@@ -1,4 +1,4 @@
----title: README---
+---title: READMEtags: notesseason: summertoc: truecomments: true---
 # Obsidian 5e Statblocks
 
 Create 5e-styled statblocks in Obsidian.md notes.

@@ -1,4 +1,4 @@
----title: Blindness slash Deafness---
+---title: Blindness slash Deafnesstags: notesseason: summertoc: truecomments: true---
 # Blindness/Deafness
 
 *2nd-level necromancy*

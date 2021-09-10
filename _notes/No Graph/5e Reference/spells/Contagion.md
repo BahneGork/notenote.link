@@ -1,4 +1,4 @@
----title: Contagion---
+---title: Contagiontags: notesseason: summertoc: truecomments: true---
 # Contagion
 
 *5th-level necromancy*

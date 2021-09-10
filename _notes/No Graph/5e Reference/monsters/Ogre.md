@@ -1,4 +1,4 @@
----title: Ogre---
+---title: Ogretags: notesseason: summertoc: truecomments: true---
 # Ogre
 
 *Large giant, chaotic evil*

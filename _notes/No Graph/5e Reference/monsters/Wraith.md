@@ -1,4 +1,4 @@
----title: Wraith---
+---title: Wraithtags: notesseason: summertoc: truecomments: true---
 # Wraith
 
 *Medium undead, neutral evil*

@@ -1,4 +1,4 @@
----title: Silent Image---
+---title: Silent Imagetags: notesseason: summertoc: truecomments: true---
 # Silent Image
 
 *1st-level illusion*

@@ -1,4 +1,4 @@
----title: Flesh to Stone---
+---title: Flesh to Stonetags: notesseason: summertoc: truecomments: true---
 # Flesh to Stone
 
 *6th-level transmutation*

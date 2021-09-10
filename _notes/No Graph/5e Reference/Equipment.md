@@ -1,4 +1,4 @@
----title: Equipment---
+---title: Equipmenttags: notesseason: summertoc: truecomments: true---
 # Equipment
 
 ## Coinage

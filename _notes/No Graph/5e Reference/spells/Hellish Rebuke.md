@@ -1,4 +1,4 @@
----title: Hellish Rebuke---
+---title: Hellish Rebuketags: notesseason: summertoc: truecomments: true---
 # Hellish Rebuke
 
 *1st-­level evocation*

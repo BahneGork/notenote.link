@@ -1,4 +1,4 @@
----title: Oil of Sharpness---
+---title: Oil of Sharpnesstags: notesseason: summertoc: truecomments: true---
 # Oil of Sharpness
 
 *Potion, very rare*

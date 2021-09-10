@@ -1,4 +1,4 @@
----title: Giant Hyena---
+---title: Giant Hyenatags: notesseason: summertoc: truecomments: true---
 # Giant Hyena
 
 *Large beast, unaligned*

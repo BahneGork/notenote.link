@@ -1,4 +1,4 @@
----title: Goggles of Night---
+---title: Goggles of Nighttags: notesseason: summertoc: truecomments: true---
 # Goggles of Night
 
 *Wondrous item, uncommon*

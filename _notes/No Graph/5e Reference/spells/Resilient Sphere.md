@@ -1,4 +1,4 @@
----title: Resilient Sphere---
+---title: Resilient Spheretags: notesseason: summertoc: truecomments: true---
 # Resilient Sphere
 
 *4th-level evocation*

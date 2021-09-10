@@ -1,4 +1,4 @@
----title: Guidance---
+---title: Guidancetags: notesseason: summertoc: truecomments: true---
 # Guidance
 
 *Divination cantrip*

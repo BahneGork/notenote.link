@@ -1,4 +1,4 @@
----title: Recipe - Dragon scale mail---
+---title: Recipe - Dragon scale mailtags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Dragon Scale Mail
 

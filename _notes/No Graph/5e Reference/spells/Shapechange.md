@@ -1,4 +1,4 @@
----title: Shapechange---
+---title: Shapechangetags: notesseason: summertoc: truecomments: true---
 # Shapechange
 
 *9th-level transmutation*

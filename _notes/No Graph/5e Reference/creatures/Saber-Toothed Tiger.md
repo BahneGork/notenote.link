@@ -1,4 +1,4 @@
----title: Saber-Toothed Tiger---
+---title: Saber-Toothed Tigertags: notesseason: summertoc: truecomments: true---
 # Saber-Toothed Tiger
 
 *Large beast, unaligned*

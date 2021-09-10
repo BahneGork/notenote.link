@@ -1,4 +1,4 @@
----title: Gust of Wind---
+---title: Gust of Windtags: notesseason: summertoc: truecomments: true---
 # Gust of Wind
 
 *2nd-level evocation*

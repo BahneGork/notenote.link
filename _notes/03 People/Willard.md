@@ -1,4 +1,4 @@
----title: Willard---
+---title: Willardtags: notesseason: summertoc: truecomments: true---
 #npc #shadowcompany  
 
 Main: [[Fallen star inn Shadow Company HQ]]

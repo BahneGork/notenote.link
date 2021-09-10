@@ -1,4 +1,4 @@
----title: Antilife Shell---
+---title: Antilife Shelltags: notesseason: summertoc: truecomments: true---
 # Antilife Shell
 
 *5th-level abjuration*

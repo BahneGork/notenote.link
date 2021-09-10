@@ -1,4 +1,4 @@
----title: Dust of Sneezing and Choking---
+---title: Dust of Sneezing and Chokingtags: notesseason: summertoc: truecomments: true---
 # Dust of Sneezing and Choking
 
 *Wondrous item, uncommon*

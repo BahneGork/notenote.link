@@ -1,4 +1,4 @@
----title: Oathbow---
+---title: Oathbowtags: notesseason: summertoc: truecomments: true---
 # Oathbow
 
 *Weapon (longbow), very rare (requires attunement)*

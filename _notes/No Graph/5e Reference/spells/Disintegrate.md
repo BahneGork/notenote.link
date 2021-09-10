@@ -1,4 +1,4 @@
----title: Disintegrate---
+---title: Disintegratetags: notesseason: summertoc: truecomments: true---
 # Disintegrate
 
 *6th-level transmutation*

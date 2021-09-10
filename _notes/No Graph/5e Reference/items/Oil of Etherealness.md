@@ -1,4 +1,4 @@
----title: Oil of Etherealness---
+---title: Oil of Etherealnesstags: notesseason: summertoc: truecomments: true---
 # Oil of Etherealness
 
 *Potion, rare*

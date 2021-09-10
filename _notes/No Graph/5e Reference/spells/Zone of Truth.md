@@ -1,4 +1,4 @@
----title: Zone of Truth---
+---title: Zone of Truthtags: notesseason: summertoc: truecomments: true---
 # Zone of Truth
 
 *2nd-level enchantment*

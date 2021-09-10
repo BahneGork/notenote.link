@@ -1,4 +1,4 @@
----title: Kurz Beier---
+---title: Kurz Beiertags: notesseason: summertoc: truecomments: true---
 #npc #history #survivor #blackoakfight #house-Volantis 
 Main: [[The black oak fight]]
 Related: [[people MOC]], [[Logged -  Session 28]]

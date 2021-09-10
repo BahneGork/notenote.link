@@ -1,4 +1,4 @@
----title: Feeblemind---
+---title: Feeblemindtags: notesseason: summertoc: truecomments: true---
 # Feeblemind
 
 *8th-level enchantment*

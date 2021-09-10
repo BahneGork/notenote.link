@@ -1,4 +1,4 @@
----title: The Lodge---
+---title: The Lodgetags: notesseason: summertoc: truecomments: true---
 The Lodge
 
 #MajorGuild  

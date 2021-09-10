@@ -1,4 +1,4 @@
----title: Demon Armor---
+---title: Demon Armortags: notesseason: summertoc: truecomments: true---
 # Demon Armor
 
 *Armor (plate), very rare (requires attunement)*

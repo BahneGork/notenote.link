@@ -1,4 +1,4 @@
----title: Hippogriff---
+---title: Hippogrifftags: notesseason: summertoc: truecomments: true---
 # Hippogriff
 
 *Large monstrosity, unaligned*

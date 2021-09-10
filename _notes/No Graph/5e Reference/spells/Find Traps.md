@@ -1,4 +1,4 @@
----title: Find Traps---
+---title: Find Trapstags: notesseason: summertoc: truecomments: true---
 # Find Traps
 
 *2nd-level divination*

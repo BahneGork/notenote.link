@@ -1,4 +1,4 @@
----title: Robe of Scintillating Colors---
+---title: Robe of Scintillating Colorstags: notesseason: summertoc: truecomments: true---
 # Robe of Scintillating Colors
 
 *Wondrous item, very rare (requires attunement)*

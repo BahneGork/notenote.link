@@ -1,4 +1,4 @@
----title: Plots MOC---
+---title: Plots MOCtags: notesseason: summertoc: truecomments: true---
 #moc #plot 
 Main: [[Arendur Rising Campaign MOC]]
 

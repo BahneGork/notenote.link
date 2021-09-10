@@ -1,4 +1,4 @@
----title: Magmin---
+---title: Magmintags: notesseason: summertoc: truecomments: true---
 # Magmin
 
 *Small elemental, chaotic neutral*

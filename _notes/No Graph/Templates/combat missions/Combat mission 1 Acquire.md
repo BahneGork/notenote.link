@@ -1,4 +1,4 @@
----title: Combat mission 1 Acquire---
+---title: Combat mission 1 Acquiretags: notesseason: summertoc: truecomments: true---
 ### Mission 1: Acquire
 
 _“You have something we want…_

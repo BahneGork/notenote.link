@@ -1,4 +1,4 @@
----title: Forcecage---
+---title: Forcecagetags: notesseason: summertoc: truecomments: true---
 # Forcecage
 
 *7th-level evocation*

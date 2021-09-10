@@ -1,4 +1,4 @@
----title: Gladiator---
+---title: Gladiatortags: notesseason: summertoc: truecomments: true---
 # Gladiator
 
 *Medium humanoid (any race), any alignment*

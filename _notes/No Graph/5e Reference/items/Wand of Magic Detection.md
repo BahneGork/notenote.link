@@ -1,4 +1,4 @@
----title: Wand of Magic Detection---
+---title: Wand of Magic Detectiontags: notesseason: summertoc: truecomments: true---
 # Wand of Magic Detection
 
 *Wand, uncommon*

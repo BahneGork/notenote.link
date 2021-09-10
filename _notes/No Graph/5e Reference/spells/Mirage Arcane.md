@@ -1,4 +1,4 @@
----title: Mirage Arcane---
+---title: Mirage Arcanetags: notesseason: summertoc: truecomments: true---
 # Mirage Arcane
 
 *7th-level illusion*

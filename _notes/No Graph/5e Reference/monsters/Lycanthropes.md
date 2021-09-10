@@ -1,4 +1,4 @@
----title: Lycanthropes---
+---title: Lycanthropestags: notesseason: summertoc: truecomments: true---
 # Lycanthropes
 
 

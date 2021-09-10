@@ -1,4 +1,4 @@
----title: Enhance Ability---
+---title: Enhance Abilitytags: notesseason: summertoc: truecomments: true---
 # Enhance Ability
 
 *2nd-level transmutation*

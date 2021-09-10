@@ -1,4 +1,4 @@
----title: Karou's Bakke---
+---title: Karou's Bakketags: notesseason: summertoc: truecomments: true---
 #location #bedegaarnBaroni #Mistyfalls 
 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related: [[Askagars spire]], [[Nails]], [[Misty Falls]]

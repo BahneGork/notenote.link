@@ -1,4 +1,4 @@
----title: Telepathic Bond---
+---title: Telepathic Bondtags: notesseason: summertoc: truecomments: true---
 # Telepathic Bond
 
 *5th-level divination (ritual)*

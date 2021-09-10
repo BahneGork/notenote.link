@@ -1,4 +1,4 @@
----title: Control Weather---
+---title: Control Weathertags: notesseason: summertoc: truecomments: true---
 # Control Weather
 
 *8th-level transmutation*

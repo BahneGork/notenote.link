@@ -1,4 +1,4 @@
----title: Goodberry---
+---title: Goodberrytags: notesseason: summertoc: truecomments: true---
 # Goodberry
 
 *1st-level transmutation*

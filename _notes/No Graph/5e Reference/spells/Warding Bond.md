@@ -1,4 +1,4 @@
----title: Warding Bond---
+---title: Warding Bondtags: notesseason: summertoc: truecomments: true---
 # Warding Bond
 
 *2nd-level abjuration*

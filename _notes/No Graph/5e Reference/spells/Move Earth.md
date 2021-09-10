@@ -1,4 +1,4 @@
----title: Move Earth---
+---title: Move Earthtags: notesseason: summertoc: truecomments: true---
 # Move Earth
 
 *6th-level transmutation*

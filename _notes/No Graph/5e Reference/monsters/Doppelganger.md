@@ -1,4 +1,4 @@
----title: Doppelganger---
+---title: Doppelgangertags: notesseason: summertoc: truecomments: true---
 # Doppelganger
 
 *Medium monstrosity (shapechanger), neutral*

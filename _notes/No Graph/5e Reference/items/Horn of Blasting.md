@@ -1,4 +1,4 @@
----title: Horn of Blasting---
+---title: Horn of Blastingtags: notesseason: summertoc: truecomments: true---
 # Horn of Blasting
 
 *Wondrous item, rare*

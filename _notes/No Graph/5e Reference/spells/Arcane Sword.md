@@ -1,4 +1,4 @@
----title: Arcane Sword---
+---title: Arcane Swordtags: notesseason: summertoc: truecomments: true---
 # Arcane Sword
 
 *7th-level evocation*

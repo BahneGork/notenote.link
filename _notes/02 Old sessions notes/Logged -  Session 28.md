@@ -1,4 +1,4 @@
----title: Logged -  Session 28---
+---title: Logged -  Session 28tags: notesseason: summertoc: truecomments: true---
 # Session 28 - logged
 #logged 
 Date: 12 jul 2021

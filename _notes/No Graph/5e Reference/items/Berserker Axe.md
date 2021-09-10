@@ -1,4 +1,4 @@
----title: Berserker Axe---
+---title: Berserker Axetags: notesseason: summertoc: truecomments: true---
 # Berserker Axe
 
 *Weapon (any axe), rare (requires attunement)*

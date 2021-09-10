@@ -1,4 +1,4 @@
----title: The Dragon Wars---
+---title: The Dragon Warstags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'Dragon wars'
 ---

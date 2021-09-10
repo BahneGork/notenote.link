@@ -1,4 +1,4 @@
----title: Prayer of Healing---
+---title: Prayer of Healingtags: notesseason: summertoc: truecomments: true---
 # Prayer of Healing
 
 *2nd-level evocation*

@@ -1,4 +1,4 @@
----title: Sun Blade---
+---title: Sun Bladetags: notesseason: summertoc: truecomments: true---
 # Sun Blade
 
 *Weapon (longsword), rare (requires attunement)*

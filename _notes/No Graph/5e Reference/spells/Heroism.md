@@ -1,4 +1,4 @@
----title: Heroism---
+---title: Heroismtags: notesseason: summertoc: truecomments: true---
 # Heroism
 
 *1st-level enchantment*

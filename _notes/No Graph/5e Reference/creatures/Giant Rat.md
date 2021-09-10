@@ -1,4 +1,4 @@
----title: Giant Rat---
+---title: Giant Rattags: notesseason: summertoc: truecomments: true---
 # Giant Rat
 
 *Small beast, unaligned*

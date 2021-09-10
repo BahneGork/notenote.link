@@ -1,4 +1,4 @@
----title: Legend Lore---
+---title: Legend Loretags: notesseason: summertoc: truecomments: true---
 # Legend Lore
 
 *5th-level divination*

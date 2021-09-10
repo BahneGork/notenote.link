@@ -1,4 +1,4 @@
----title: Gentle Repose---
+---title: Gentle Reposetags: notesseason: summertoc: truecomments: true---
 # Gentle Repose
 
 *2nd-level necromancy (ritual)*

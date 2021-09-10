@@ -1,4 +1,4 @@
----title: Conjure Minor Elementals---
+---title: Conjure Minor Elementalstags: notesseason: summertoc: truecomments: true---
 # Conjure Minor Elementals
 
 *4th-level conjuration*

@@ -1,4 +1,4 @@
----title: Mage---
+---title: Magetags: notesseason: summertoc: truecomments: true---
 # Mage
 
 *Medium humanoid (any race), any alignment*

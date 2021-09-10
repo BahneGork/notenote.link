@@ -1,4 +1,4 @@
----title: Mage Armor---
+---title: Mage Armortags: notesseason: summertoc: truecomments: true---
 # Mage Armor
 
 *1st-level abjuration*

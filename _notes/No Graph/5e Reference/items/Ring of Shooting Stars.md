@@ -1,4 +1,4 @@
----title: Ring of Shooting Stars---
+---title: Ring of Shooting Starstags: notesseason: summertoc: truecomments: true---
 # Ring of Shooting Stars
 
 *Ring, very rare (requires attunement outdoors at night)*

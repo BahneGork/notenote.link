@@ -1,4 +1,4 @@
----title: Marvelous Pigments---
+---title: Marvelous Pigmentstags: notesseason: summertoc: truecomments: true---
 # Marvelous Pigments
 
 *Wondrous item, very rare*

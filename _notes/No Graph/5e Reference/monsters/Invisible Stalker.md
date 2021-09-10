@@ -1,4 +1,4 @@
----title: Invisible Stalker---
+---title: Invisible Stalkertags: notesseason: summertoc: truecomments: true---
 # Invisible Stalker
 
 *Medium elemental, neutral*

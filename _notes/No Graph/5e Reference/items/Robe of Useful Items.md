@@ -1,4 +1,4 @@
----title: Robe of Useful Items---
+---title: Robe of Useful Itemstags: notesseason: summertoc: truecomments: true---
 # Robe of Useful Items
 
 *Wondrous item, uncommon*

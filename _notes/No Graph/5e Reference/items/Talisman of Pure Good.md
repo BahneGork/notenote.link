@@ -1,4 +1,4 @@
----title: Talisman of Pure Good---
+---title: Talisman of Pure Goodtags: notesseason: summertoc: truecomments: true---
 # Talisman of Pure Good
 
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*

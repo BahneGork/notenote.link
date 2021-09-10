@@ -1,4 +1,4 @@
----title: Ray of Frost---
+---title: Ray of Frosttags: notesseason: summertoc: truecomments: true---
 # Ray of Frost
 
 *Evocation cantrip*

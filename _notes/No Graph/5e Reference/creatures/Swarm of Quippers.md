@@ -1,4 +1,4 @@
----title: Swarm of Quippers---
+---title: Swarm of Quipperstags: notesseason: summertoc: truecomments: true---
 # Swarm of Quippers
 
 *Medium swarm of Tiny beasts, unaligned*

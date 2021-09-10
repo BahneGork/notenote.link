@@ -1,4 +1,4 @@
----title: Cure Wounds---
+---title: Cure Woundstags: notesseason: summertoc: truecomments: true---
 # Cure Wounds
 
 *1st-level evocation*

@@ -1,4 +1,4 @@
----title: Rod of Lordly Might---
+---title: Rod of Lordly Mighttags: notesseason: summertoc: truecomments: true---
 # Rod of Lordly Might
 
 *Rod, legendary (requires attunement)*

@@ -1,4 +1,4 @@
----title: Kraken---
+---title: Krakentags: notesseason: summertoc: truecomments: true---
 # Kraken
 
 *Gargantuan monstrosity (titan), chaotic evil*

@@ -1,4 +1,4 @@
----title: Conjure Woodland Beings---
+---title: Conjure Woodland Beingstags: notesseason: summertoc: truecomments: true---
 # Conjure Woodland Beings
 
 *4th-level conjuration*

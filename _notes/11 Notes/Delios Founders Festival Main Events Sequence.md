@@ -1,4 +1,4 @@
----title: Delios Founders Festival Main Events Sequence---
+---title: Delios Founders Festival Main Events Sequencetags: notesseason: summertoc: truecomments: true---
 # Delios Founders Festival Main Events Sequence
 Main:
 Related: [[annual founders celebration]]

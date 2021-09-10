@@ -1,4 +1,4 @@
----title: Combat mission 4 Infiltrate---
+---title: Combat mission 4 Infiltratetags: notesseason: summertoc: truecomments: true---
 ### Mission 4: Infiltrate
 
 _“Mission impossible…_

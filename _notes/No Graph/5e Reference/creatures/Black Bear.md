@@ -1,4 +1,4 @@
----title: Black Bear---
+---title: Black Beartags: notesseason: summertoc: truecomments: true---
 # Black Bear
 
 *Medium beast, unaligned*

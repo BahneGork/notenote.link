@@ -1,4 +1,4 @@
----title: Bandit Captain---
+---title: Bandit Captaintags: notesseason: summertoc: truecomments: true---
 # Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*

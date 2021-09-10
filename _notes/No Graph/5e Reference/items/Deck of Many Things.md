@@ -1,4 +1,4 @@
----title: Deck of Many Things---
+---title: Deck of Many Thingstags: notesseason: summertoc: truecomments: true---
 # Deck of Many Things
 
 *Wondrous item, legendary*

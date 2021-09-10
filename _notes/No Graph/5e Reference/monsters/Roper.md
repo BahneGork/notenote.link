@@ -1,4 +1,4 @@
----title: Roper---
+---title: Ropertags: notesseason: summertoc: truecomments: true---
 # Roper
 
 *Large monstrosity, neutral evil*

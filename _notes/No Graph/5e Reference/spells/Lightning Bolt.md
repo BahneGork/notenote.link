@@ -1,4 +1,4 @@
----title: Lightning Bolt---
+---title: Lightning Bolttags: notesseason: summertoc: truecomments: true---
 # Lightning Bolt
 
 *3rd-level evocation*

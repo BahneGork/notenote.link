@@ -1,4 +1,4 @@
----title: Rope of Entanglement---
+---title: Rope of Entanglementtags: notesseason: summertoc: truecomments: true---
 # Rope of Entanglement
 
 *Wondrous item, rare*

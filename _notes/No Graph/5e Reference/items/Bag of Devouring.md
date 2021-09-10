@@ -1,4 +1,4 @@
----title: Bag of Devouring---
+---title: Bag of Devouringtags: notesseason: summertoc: truecomments: true---
 # Bag of Devouring
 
 *Wondrous item, very rare*

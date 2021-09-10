@@ -1,4 +1,4 @@
----title: Cloak of Elvenkind---
+---title: Cloak of Elvenkindtags: notesseason: summertoc: truecomments: true---
 # Cloak of Elvenkind
 
 *Wondrous item, uncommon (requires attunement)*

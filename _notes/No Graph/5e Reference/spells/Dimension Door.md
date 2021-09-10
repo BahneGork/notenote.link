@@ -1,4 +1,4 @@
----title: Dimension Door---
+---title: Dimension Doortags: notesseason: summertoc: truecomments: true---
 # Dimension Door
 
 *4th-level conjuration*

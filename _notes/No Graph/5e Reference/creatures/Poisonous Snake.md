@@ -1,4 +1,4 @@
----title: Poisonous Snake---
+---title: Poisonous Snaketags: notesseason: summertoc: truecomments: true---
 # Poisonous Snake
 
 *Tiny beast, unaligned*

@@ -1,4 +1,4 @@
----title: Arcane Eye---
+---title: Arcane Eyetags: notesseason: summertoc: truecomments: true---
 # Arcane Eye
 
 *4th-level divination*

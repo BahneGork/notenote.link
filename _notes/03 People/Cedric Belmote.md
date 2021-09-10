@@ -1,4 +1,4 @@
----title: Cedric Belmote---
+---title: Cedric Belmotetags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'cedric'
 type: 'pc'

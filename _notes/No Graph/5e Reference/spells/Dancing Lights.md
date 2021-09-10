@@ -1,4 +1,4 @@
----title: Dancing Lights---
+---title: Dancing Lightstags: notesseason: summertoc: truecomments: true---
 # Dancing Lights
 
 *Evocation cantrip*

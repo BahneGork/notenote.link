@@ -1,4 +1,4 @@
----title: Wand of Binding---
+---title: Wand of Bindingtags: notesseason: summertoc: truecomments: true---
 # Wand of Binding
 
 *Wand, rare (requires attunement by a spellcaster)*

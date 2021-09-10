@@ -1,4 +1,4 @@
----title: Adamantine Armor---
+---title: Adamantine Armortags: notesseason: summertoc: truecomments: true---
 # Adamantine Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

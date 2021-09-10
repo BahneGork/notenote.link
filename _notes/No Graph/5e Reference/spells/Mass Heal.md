@@ -1,4 +1,4 @@
----title: Mass Heal---
+---title: Mass Healtags: notesseason: summertoc: truecomments: true---
 # Mass Heal
 
 *9th-level evocation*

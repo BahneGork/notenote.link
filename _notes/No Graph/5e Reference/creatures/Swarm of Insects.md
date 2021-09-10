@@ -1,4 +1,4 @@
----title: Swarm of Insects---
+---title: Swarm of Insectstags: notesseason: summertoc: truecomments: true---
 # Swarm of Insects
 
 *Medium swarm of Tiny beasts, unaligned*

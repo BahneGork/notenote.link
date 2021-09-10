@@ -1,4 +1,4 @@
----title: Locate Animals or Plants---
+---title: Locate Animals or Plantstags: notesseason: summertoc: truecomments: true---
 # Locate Animals or Plants
 
 *2nd-level divination (ritual)*

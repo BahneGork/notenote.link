@@ -1,4 +1,4 @@
----title: Bracers of Defense---
+---title: Bracers of Defensetags: notesseason: summertoc: truecomments: true---
 # Bracers of Defense
 
 *Wondrous item, rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Dispel Magic---
+---title: Dispel Magictags: notesseason: summertoc: truecomments: true---
 # Dispel Magic
 
 *3rd-level abjuration*

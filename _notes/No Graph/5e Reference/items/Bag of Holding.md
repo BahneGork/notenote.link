@@ -1,4 +1,4 @@
----title: Bag of Holding---
+---title: Bag of Holdingtags: notesseason: summertoc: truecomments: true---
 # Bag of Holding
 
 *Wondrous item, uncommon*

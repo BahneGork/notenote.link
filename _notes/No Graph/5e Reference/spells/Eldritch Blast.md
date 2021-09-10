@@ -1,4 +1,4 @@
----title: Eldritch Blast---
+---title: Eldritch Blasttags: notesseason: summertoc: truecomments: true---
 # Eldritch Blast
 
 *Evocation cantrip*

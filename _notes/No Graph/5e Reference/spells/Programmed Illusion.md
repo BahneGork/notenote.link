@@ -1,4 +1,4 @@
----title: Programmed Illusion---
+---title: Programmed Illusiontags: notesseason: summertoc: truecomments: true---
 # Programmed Illusion
 
 *6th-level illusion*

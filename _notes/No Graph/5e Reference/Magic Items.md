@@ -1,4 +1,4 @@
----title: Magic Items---
+---title: Magic Itemstags: notesseason: summertoc: truecomments: true---
 # Magic Items
 - [[Adamantine Armor]]
 - [[Ammunition, +1, +2, or +3]]

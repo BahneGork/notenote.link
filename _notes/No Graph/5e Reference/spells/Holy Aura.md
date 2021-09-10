@@ -1,4 +1,4 @@
----title: Holy Aura---
+---title: Holy Auratags: notesseason: summertoc: truecomments: true---
 # Holy Aura
 
 *8th-level abjuration*

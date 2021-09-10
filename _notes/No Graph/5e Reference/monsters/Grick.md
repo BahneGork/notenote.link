@@ -1,4 +1,4 @@
----title: Grick---
+---title: Gricktags: notesseason: summertoc: truecomments: true---
 # Grick
 
 *Medium monstrosity, neutral*

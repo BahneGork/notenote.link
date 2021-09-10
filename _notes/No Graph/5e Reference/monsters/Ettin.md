@@ -1,4 +1,4 @@
----title: Ettin---
+---title: Ettintags: notesseason: summertoc: truecomments: true---
 # Ettin
 
 *Large giant, chaotic evil*

@@ -1,4 +1,4 @@
----title: Brooch of Shielding---
+---title: Brooch of Shieldingtags: notesseason: summertoc: truecomments: true---
 # Brooch of Shielding
 
 *Wondrous item, uncommon (requires attunement)*

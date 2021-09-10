@@ -1,4 +1,4 @@
----title: Dwarven Thrower---
+---title: Dwarven Throwertags: notesseason: summertoc: truecomments: true---
 # Dwarven Thrower
 
 *Weapon (warhammer), very rare (requires attunement by a dwarf)*

@@ -1,4 +1,4 @@
----title: Rod of Alertness---
+---title: Rod of Alertnesstags: notesseason: summertoc: truecomments: true---
 # Rod of Alertness
 
 *Rod, very rare (requires attunement)*

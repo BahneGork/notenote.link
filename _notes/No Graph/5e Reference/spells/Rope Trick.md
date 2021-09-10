@@ -1,4 +1,4 @@
----title: Rope Trick---
+---title: Rope Tricktags: notesseason: summertoc: truecomments: true---
 # Rope Trick
 
 *2nd-level transmutation*

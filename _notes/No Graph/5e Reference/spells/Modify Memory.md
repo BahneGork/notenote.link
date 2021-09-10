@@ -1,4 +1,4 @@
----title: Modify Memory---
+---title: Modify Memorytags: notesseason: summertoc: truecomments: true---
 # Modify Memory
 
 *5th-level enchantment*

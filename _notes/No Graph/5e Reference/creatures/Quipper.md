@@ -1,4 +1,4 @@
----title: Quipper---
+---title: Quippertags: notesseason: summertoc: truecomments: true---
 # Quipper
 
 *Tiny beast, unaligned*

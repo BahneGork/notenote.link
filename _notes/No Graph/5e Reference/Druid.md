@@ -1,4 +1,4 @@
----title: Druid---
+---title: Druidtags: notesseason: summertoc: truecomments: true---
 # Druid
 
 ### Class Features

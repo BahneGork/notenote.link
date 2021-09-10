@@ -1,4 +1,4 @@
----title: Mace of Terror---
+---title: Mace of Terrortags: notesseason: summertoc: truecomments: true---
 # Mace of Terror
 
 *Weapon (mace), rare (requires attunement)*

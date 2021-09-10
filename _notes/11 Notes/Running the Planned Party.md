@@ -1,4 +1,4 @@
----title: Running the Planned Party---
+---title: Running the Planned Partytags: notesseason: summertoc: truecomments: true---
 # Running the Planned Party    
 Main:
 Related: [[annual founders celebration]]

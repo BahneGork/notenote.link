@@ -1,4 +1,4 @@
----title: Arendur Rising Campaign MOC---
+---title: Arendur Rising Campaign MOCtags: notesseason: summertoc: truecomments: true---
 ---
 alias: [Campaign]
 ---

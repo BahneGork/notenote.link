@@ -1,4 +1,4 @@
----title: Fireball---
+---title: Fireballtags: notesseason: summertoc: truecomments: true---
 # Fireball
 
 *3rd-level evocation*

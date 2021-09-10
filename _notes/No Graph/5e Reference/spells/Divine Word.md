@@ -1,4 +1,4 @@
----title: Divine Word---
+---title: Divine Wordtags: notesseason: summertoc: truecomments: true---
 # Divine Word
 
 *7th-level evocation*

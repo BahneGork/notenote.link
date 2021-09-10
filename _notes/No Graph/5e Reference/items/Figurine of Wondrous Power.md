@@ -1,4 +1,4 @@
----title: Figurine of Wondrous Power---
+---title: Figurine of Wondrous Powertags: notesseason: summertoc: truecomments: true---
 # Figurine of Wondrous Power
 
 *Wondrous item, rarity by figurine*

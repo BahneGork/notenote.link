@@ -1,4 +1,4 @@
----title: Plate Armor of Etherealness---
+---title: Plate Armor of Etherealnesstags: notesseason: summertoc: truecomments: true---
 # Plate Armor of Etherealness
 
 *Armor (plate), legendary (requires attunement)*

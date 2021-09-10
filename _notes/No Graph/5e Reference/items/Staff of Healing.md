@@ -1,4 +1,4 @@
----title: Staff of Healing---
+---title: Staff of Healingtags: notesseason: summertoc: truecomments: true---
 # Staff of Healing
 
 *Staff, rare (requires attunement by a bard, cleric, or druid)*

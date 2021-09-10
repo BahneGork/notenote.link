@@ -1,4 +1,4 @@
----title: Heal---
+---title: Healtags: notesseason: summertoc: truecomments: true---
 # Heal
 
 *6th-level evocation*

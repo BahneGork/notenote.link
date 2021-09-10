@@ -1,4 +1,4 @@
----title: Dominate Monster---
+---title: Dominate Monstertags: notesseason: summertoc: truecomments: true---
 # Dominate Monster
 
 *8th-level enchantment*

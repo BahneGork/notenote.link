@@ -1,4 +1,4 @@
----title: Tiger---
+---title: Tigertags: notesseason: summertoc: truecomments: true---
 # Tiger
 
 *Large beast, unaligned*

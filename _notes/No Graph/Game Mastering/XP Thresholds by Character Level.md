@@ -1,4 +1,4 @@
----title: XP Thresholds by Character Level---
+---title: XP Thresholds by Character Leveltags: notesseason: summertoc: truecomments: true---
 #XP 
 Main: [[Encounter building]]
 Related: [[XP advancement]]

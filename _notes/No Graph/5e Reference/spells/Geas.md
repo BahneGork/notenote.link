@@ -1,4 +1,4 @@
----title: Geas---
+---title: Geastags: notesseason: summertoc: truecomments: true---
 # Geas
 
 *5th-level enchantment*

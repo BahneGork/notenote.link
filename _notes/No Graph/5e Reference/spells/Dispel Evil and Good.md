@@ -1,4 +1,4 @@
----title: Dispel Evil and Good---
+---title: Dispel Evil and Goodtags: notesseason: summertoc: truecomments: true---
 # Dispel Evil and Good
 
 *5th-level abjuration*

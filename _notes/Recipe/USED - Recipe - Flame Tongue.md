@@ -1,4 +1,4 @@
----title: USED - Recipe - Flame Tongue---
+---title: USED - Recipe - Flame Tonguetags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Flame Tongue
 

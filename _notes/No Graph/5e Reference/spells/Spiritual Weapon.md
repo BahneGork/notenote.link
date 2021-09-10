@@ -1,4 +1,4 @@
----title: Spiritual Weapon---
+---title: Spiritual Weapontags: notesseason: summertoc: truecomments: true---
 # Spiritual Weapon
 
 *2nd-level evocation*

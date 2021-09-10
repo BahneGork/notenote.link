@@ -1,4 +1,4 @@
----title: Cloudkill---
+---title: Cloudkilltags: notesseason: summertoc: truecomments: true---
 # Cloudkill
 
 *5th-level conjuration*

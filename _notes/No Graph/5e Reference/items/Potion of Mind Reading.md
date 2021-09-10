@@ -1,4 +1,4 @@
----title: Potion of Mind Reading---
+---title: Potion of Mind Readingtags: notesseason: summertoc: truecomments: true---
 # Potion of Mind Reading
 
 *Potion, rare*

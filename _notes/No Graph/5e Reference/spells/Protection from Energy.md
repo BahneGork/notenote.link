@@ -1,4 +1,4 @@
----title: Protection from Energy---
+---title: Protection from Energytags: notesseason: summertoc: truecomments: true---
 # Protection from Energy
 
 *3rd-level abjuration*

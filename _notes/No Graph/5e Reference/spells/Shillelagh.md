@@ -1,4 +1,4 @@
----title: Shillelagh---
+---title: Shillelaghtags: notesseason: summertoc: truecomments: true---
 # Shillelagh
 
 *Transmutation cantrip*

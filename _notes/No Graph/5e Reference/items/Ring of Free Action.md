@@ -1,4 +1,4 @@
----title: Ring of Free Action---
+---title: Ring of Free Actiontags: notesseason: summertoc: truecomments: true---
 # Ring of Free Action
 
 *Ring, rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Circle of Death---
+---title: Circle of Deathtags: notesseason: summertoc: truecomments: true---
 # Circle of Death
 
 *6th-level necromancy*

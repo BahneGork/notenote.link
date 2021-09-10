@@ -1,4 +1,4 @@
----title: True Resurrection---
+---title: True Resurrectiontags: notesseason: summertoc: truecomments: true---
 # True Resurrection
 
 *9th-level necromancy*

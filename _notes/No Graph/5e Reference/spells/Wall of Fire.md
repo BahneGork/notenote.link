@@ -1,4 +1,4 @@
----title: Wall of Fire---
+---title: Wall of Firetags: notesseason: summertoc: truecomments: true---
 # Wall of Fire
 
 *4th-level evocation*

@@ -1,4 +1,4 @@
----title: Holy Avenger---
+---title: Holy Avengertags: notesseason: summertoc: truecomments: true---
 # Holy Avenger
 
 *Weapon (any sword), legendary (requires attunement by a paladin)*

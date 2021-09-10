@@ -1,4 +1,4 @@
----title: Griffon---
+---title: Griffontags: notesseason: summertoc: truecomments: true---
 # Griffon
 
 *Large monstrosity, unaligned*

@@ -1,4 +1,4 @@
----title: Weasel---
+---title: Weaseltags: notesseason: summertoc: truecomments: true---
 # Weasel
 
 *Tiny beast, unaligned*

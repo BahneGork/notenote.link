@@ -1,4 +1,4 @@
----title: Acid Arrow---
+---title: Acid Arrowtags: notesseason: summertoc: truecomments: true---
 # Acid Arrow
 
 *2nd-level evocation*

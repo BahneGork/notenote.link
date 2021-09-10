@@ -1,4 +1,4 @@
----title: Shocking Grasp---
+---title: Shocking Grasptags: notesseason: summertoc: truecomments: true---
 # Shocking Grasp
 
 *Evocation cantrip*

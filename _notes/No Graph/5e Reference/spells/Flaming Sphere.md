@@ -1,4 +1,4 @@
----title: Flaming Sphere---
+---title: Flaming Spheretags: notesseason: summertoc: truecomments: true---
 # Flaming Sphere
 
 *2nd-level conjuration*

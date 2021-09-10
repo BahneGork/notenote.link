@@ -1,4 +1,4 @@
----title: Paladin---
+---title: Paladintags: notesseason: summertoc: truecomments: true---
 # Paladin
 
 ### Class Features

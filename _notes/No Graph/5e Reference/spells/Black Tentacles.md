@@ -1,4 +1,4 @@
----title: Black Tentacles---
+---title: Black Tentaclestags: notesseason: summertoc: truecomments: true---
 # Black Tentacles
 
 *4th-level conjuration*

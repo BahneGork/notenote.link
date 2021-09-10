@@ -1,4 +1,4 @@
----title: Restorative Ointment---
+---title: Restorative Ointmenttags: notesseason: summertoc: truecomments: true---
 # Restorative Ointment
 
 *Wondrous item, uncommon*

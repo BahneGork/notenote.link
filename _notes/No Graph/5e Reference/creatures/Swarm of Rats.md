@@ -1,4 +1,4 @@
----title: Swarm of Rats---
+---title: Swarm of Ratstags: notesseason: summertoc: truecomments: true---
 # Swarm of Rats
 
 *Medium swarm of Tiny beasts, unaligned*

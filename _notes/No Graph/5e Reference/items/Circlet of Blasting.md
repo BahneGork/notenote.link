@@ -1,4 +1,4 @@
----title: Circlet of Blasting---
+---title: Circlet of Blastingtags: notesseason: summertoc: truecomments: true---
 # Circlet of Blasting
 
 *Wondrous item, uncommon*

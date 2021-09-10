@@ -1,4 +1,4 @@
----title: Crystal Ball---
+---title: Crystal Balltags: notesseason: summertoc: truecomments: true---
 # Crystal Ball
 
 *Wondrous item, very rare or legendary (requires attunement)*

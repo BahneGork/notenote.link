@@ -1,4 +1,4 @@
----title: Arcanists Magic Aura---
+---title: Arcanists Magic Auratags: notesseason: summertoc: truecomments: true---
 # Arcanist's Magic Aura
 
 *2nd-level illusion*

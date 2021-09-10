@@ -1,4 +1,4 @@
----title: Ring of Spell Turning---
+---title: Ring of Spell Turningtags: notesseason: summertoc: truecomments: true---
 # Ring of Spell Turning
 
 *Ring, legendary (requires attunement)*

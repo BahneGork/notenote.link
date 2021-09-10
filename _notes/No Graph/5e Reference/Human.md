@@ -1,4 +1,4 @@
----title: Human---
+---title: Humantags: notesseason: summertoc: truecomments: true---
 # Human
 
 ### Human Traits

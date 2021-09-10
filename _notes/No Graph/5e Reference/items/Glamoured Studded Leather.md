@@ -1,4 +1,4 @@
----title: Glamoured Studded Leather---
+---title: Glamoured Studded Leathertags: notesseason: summertoc: truecomments: true---
 # Glamoured Studded Leather
 
 *Armor (studded leather), rare*

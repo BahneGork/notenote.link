@@ -1,4 +1,4 @@
----title: Antipathy slash Sympathy---
+---title: Antipathy slash Sympathytags: notesseason: summertoc: truecomments: true---
 # Antipathy/Sympathy
 
 *8th-level enchantment*

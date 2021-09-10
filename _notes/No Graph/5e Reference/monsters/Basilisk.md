@@ -1,4 +1,4 @@
----title: Basilisk---
+---title: Basilisktags: notesseason: summertoc: truecomments: true---
 # Basilisk
 
 *Medium monstrosity, unaligned*

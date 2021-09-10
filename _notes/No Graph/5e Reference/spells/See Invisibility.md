@@ -1,4 +1,4 @@
----title: See Invisibility---
+---title: See Invisibilitytags: notesseason: summertoc: truecomments: true---
 # See Invisibility
 
 *2nd-level divination*

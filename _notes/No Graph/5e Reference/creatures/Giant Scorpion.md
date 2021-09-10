@@ -1,4 +1,4 @@
----title: Giant Scorpion---
+---title: Giant Scorpiontags: notesseason: summertoc: truecomments: true---
 # Giant Scorpion
 
 *Large beast, unaligned*

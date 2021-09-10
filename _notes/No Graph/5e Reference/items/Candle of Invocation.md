@@ -1,4 +1,4 @@
----title: Candle of Invocation---
+---title: Candle of Invocationtags: notesseason: summertoc: truecomments: true---
 # Candle of Invocation
 
 *Wondrous item, very rare (requires attunement)*

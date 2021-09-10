@@ -1,4 +1,4 @@
----title: Recipe - Bead of Force---
+---title: Recipe - Bead of Forcetags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Bead of Force
 

@@ -1,4 +1,4 @@
----title: Bag of Tricks---
+---title: Bag of Trickstags: notesseason: summertoc: truecomments: true---
 # Bag of Tricks
 
 *Wondrous item, uncommon*

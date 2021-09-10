@@ -1,4 +1,4 @@
----title: Branding Smite---
+---title: Branding Smitetags: notesseason: summertoc: truecomments: true---
 # Branding Smite
 
 *2nd-­level evocation*

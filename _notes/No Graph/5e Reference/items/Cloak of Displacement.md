@@ -1,4 +1,4 @@
----title: Cloak of Displacement---
+---title: Cloak of Displacementtags: notesseason: summertoc: truecomments: true---
 # Cloak of Displacement
 
 *Wondrous item, rare (requires attunement)*

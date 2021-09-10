@@ -1,4 +1,4 @@
----title: Giant Crocodile---
+---title: Giant Crocodiletags: notesseason: summertoc: truecomments: true---
 # Giant Crocodile
 
 *Huge beast, unaligned*

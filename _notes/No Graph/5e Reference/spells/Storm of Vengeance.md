@@ -1,4 +1,4 @@
----title: Storm of Vengeance---
+---title: Storm of Vengeancetags: notesseason: summertoc: truecomments: true---
 # Storm of Vengeance
 
 *9th-level conjuration*

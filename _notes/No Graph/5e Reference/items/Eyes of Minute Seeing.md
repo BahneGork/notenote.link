@@ -1,4 +1,4 @@
----title: Eyes of Minute Seeing---
+---title: Eyes of Minute Seeingtags: notesseason: summertoc: truecomments: true---
 # Eyes of Minute Seeing
 
 *Wondrous item, uncommon*

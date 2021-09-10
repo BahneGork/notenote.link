@@ -1,4 +1,4 @@
----title: Pearl of Power---
+---title: Pearl of Powertags: notesseason: summertoc: truecomments: true---
 # Pearl of Power
 
 *Wondrous item, uncommon (requires attunement by a spellcaster)*

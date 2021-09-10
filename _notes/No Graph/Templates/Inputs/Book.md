@@ -1,4 +1,4 @@
----title: Book---
+---title: Booktags: notesseason: summertoc: truecomments: true---
 ---
 tags: 📥️/📚️
 aliases: 

@@ -1,4 +1,4 @@
----title: Healing Word---
+---title: Healing Wordtags: notesseason: summertoc: truecomments: true---
 # Healing Word
 
 *1st-level evocation*

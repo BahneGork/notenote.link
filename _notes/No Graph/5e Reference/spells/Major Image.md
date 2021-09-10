@@ -1,4 +1,4 @@
----title: Major Image---
+---title: Major Imagetags: notesseason: summertoc: truecomments: true---
 # Major Image
 
 *3rd-level illusion*

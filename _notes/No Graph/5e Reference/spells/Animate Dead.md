@@ -1,4 +1,4 @@
----title: Animate Dead---
+---title: Animate Deadtags: notesseason: summertoc: truecomments: true---
 # Animate Dead
 
 *3rd-level necromancy*

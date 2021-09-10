@@ -1,4 +1,4 @@
----title: Rhinoceros---
+---title: Rhinocerostags: notesseason: summertoc: truecomments: true---
 # Rhinoceros
 
 *Large beast, unaligned*

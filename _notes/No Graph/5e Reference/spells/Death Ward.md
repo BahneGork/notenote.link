@@ -1,4 +1,4 @@
----title: Death Ward---
+---title: Death Wardtags: notesseason: summertoc: truecomments: true---
 # Death Ward
 
 *4th-level abjuration*

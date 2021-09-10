@@ -1,4 +1,4 @@
----title: Shadow Company Titles---
+---title: Shadow Company Titlestags: notesseason: summertoc: truecomments: true---
 #faction  #playerfaction 
 # The Shadow Company titles
 [[Commander]]

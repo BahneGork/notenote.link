@@ -1,4 +1,4 @@
----title: Spell Scroll---
+---title: Spell Scrolltags: notesseason: summertoc: truecomments: true---
 # Spell Scroll
 
 *Scroll, varies*

@@ -1,4 +1,4 @@
----title: Monster Statistics---
+---title: Monster Statisticstags: notesseason: summertoc: truecomments: true---
 # Monster Statistics
 
 ## Type

@@ -1,4 +1,4 @@
----title: Cloak of Arachnida---
+---title: Cloak of Arachnidatags: notesseason: summertoc: truecomments: true---
 # Cloak of Arachnida
 
 *Wondrous item, very rare (requires attunement)*

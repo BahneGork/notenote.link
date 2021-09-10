@@ -1,4 +1,4 @@
----title: +home---
+---title: +hometags: notesseason: summertoc: truecomments: true---
 # Home
 ## Main MOCs
 Running the game

@@ -1,4 +1,4 @@
----title: Archmage---
+---title: Archmagetags: notesseason: summertoc: truecomments: true---
 # Archmage
 
 *Medium humanoid (any race), any alignment*

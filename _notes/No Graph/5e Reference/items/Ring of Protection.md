@@ -1,4 +1,4 @@
----title: Ring of Protection---
+---title: Ring of Protectiontags: notesseason: summertoc: truecomments: true---
 # Ring of Protection
 
 *Ring, rare (requires attunement)*

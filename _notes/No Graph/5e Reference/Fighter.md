@@ -1,4 +1,4 @@
----title: Fighter---
+---title: Fightertags: notesseason: summertoc: truecomments: true---
 # Fighter
 
 ### Class Features

@@ -1,4 +1,4 @@
----title: Giants---
+---title: Giantstags: notesseason: summertoc: truecomments: true---
 # Giants
 
 

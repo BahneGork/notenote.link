@@ -1,4 +1,4 @@
----title: Hobgoblin---
+---title: Hobgoblintags: notesseason: summertoc: truecomments: true---
 # Hobgoblin
 
 *Medium humanoid (goblinoid), lawful evil*

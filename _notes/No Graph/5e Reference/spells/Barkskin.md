@@ -1,4 +1,4 @@
----title: Barkskin---
+---title: Barkskintags: notesseason: summertoc: truecomments: true---
 # Barkskin
 
 *2nd-level transmutation*

@@ -1,4 +1,4 @@
----title: annual founders celebration---
+---title: annual founders celebrationtags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'founders festival'
 

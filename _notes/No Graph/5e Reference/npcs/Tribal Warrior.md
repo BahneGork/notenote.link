@@ -1,4 +1,4 @@
----title: Tribal Warrior---
+---title: Tribal Warriortags: notesseason: summertoc: truecomments: true---
 # Tribal Warrior
 
 *Medium humanoid (any race), any alignment*

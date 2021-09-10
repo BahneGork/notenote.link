@@ -1,4 +1,4 @@
----title: Clairvoyance---
+---title: Clairvoyancetags: notesseason: summertoc: truecomments: true---
 # Clairvoyance
 
 *3rd-level divination*

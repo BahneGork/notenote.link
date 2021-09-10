@@ -1,4 +1,4 @@
----title: Alter Self---
+---title: Alter Selftags: notesseason: summertoc: truecomments: true---
 # Alter Self
 
 *2nd-level transmutation*

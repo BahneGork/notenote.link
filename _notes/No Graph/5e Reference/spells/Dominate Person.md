@@ -1,4 +1,4 @@
----title: Dominate Person---
+---title: Dominate Persontags: notesseason: summertoc: truecomments: true---
 # Dominate Person
 
 *5th-level enchantment*

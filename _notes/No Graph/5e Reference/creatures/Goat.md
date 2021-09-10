@@ -1,4 +1,4 @@
----title: Goat---
+---title: Goattags: notesseason: summertoc: truecomments: true---
 # Goat
 
 *Medium beast, unaligned*

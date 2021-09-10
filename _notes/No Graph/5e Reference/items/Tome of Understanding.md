@@ -1,4 +1,4 @@
----title: Tome of Understanding---
+---title: Tome of Understandingtags: notesseason: summertoc: truecomments: true---
 # Tome of Understanding
 
 *Wondrous item, very rare*

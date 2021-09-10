@@ -1,4 +1,4 @@
----title: Fire Bolt---
+---title: Fire Bolttags: notesseason: summertoc: truecomments: true---
 # Fire Bolt
 
 *Evocation cantrip*

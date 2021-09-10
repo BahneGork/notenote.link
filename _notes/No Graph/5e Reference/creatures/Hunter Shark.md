@@ -1,4 +1,4 @@
----title: Hunter Shark---
+---title: Hunter Sharktags: notesseason: summertoc: truecomments: true---
 # Hunter Shark
 
 *Large beast, unaligned*

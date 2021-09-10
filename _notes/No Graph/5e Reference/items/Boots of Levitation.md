@@ -1,4 +1,4 @@
----title: Boots of Levitation---
+---title: Boots of Levitationtags: notesseason: summertoc: truecomments: true---
 # Boots of Levitation
 
 *Wondrous item, rare (requires attunement)*

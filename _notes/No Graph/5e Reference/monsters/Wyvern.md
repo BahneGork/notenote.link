@@ -1,4 +1,4 @@
----title: Wyvern---
+---title: Wyverntags: notesseason: summertoc: truecomments: true---
 # Wyvern
 
 *Large dragon, unaligned*

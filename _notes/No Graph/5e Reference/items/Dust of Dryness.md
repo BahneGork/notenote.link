@@ -1,4 +1,4 @@
----title: Dust of Dryness---
+---title: Dust of Drynesstags: notesseason: summertoc: truecomments: true---
 # Dust of Dryness
 
 *Wondrous item, uncommon*

@@ -1,4 +1,4 @@
----title: Potion of Gaseous Form---
+---title: Potion of Gaseous Formtags: notesseason: summertoc: truecomments: true---
 # Potion of Gaseous Form
 
 *Potion, rare*

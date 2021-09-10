@@ -1,4 +1,4 @@
----title: Giant Insect---
+---title: Giant Insecttags: notesseason: summertoc: truecomments: true---
 # Giant Insect
 
 *4th-level transmutation*

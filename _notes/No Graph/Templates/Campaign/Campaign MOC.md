@@ -1,4 +1,4 @@
----title: Campaign MOC---
+---title: Campaign MOCtags: notesseason: summertoc: truecomments: true---
 ---
 alias: [Campaign]
 ---

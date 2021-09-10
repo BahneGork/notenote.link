@@ -1,4 +1,4 @@
----title: Rod of Security---
+---title: Rod of Securitytags: notesseason: summertoc: truecomments: true---
 # Rod of Security
 
 *Rod, very rare*

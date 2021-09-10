@@ -1,4 +1,4 @@
----title: The Heroes MOC---
+---title: The Heroes MOCtags: notesseason: summertoc: truecomments: true---
 #MOC #players #playercharacters #playerfaction #retainers 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related:
 # The Heroes MOC

@@ -1,4 +1,4 @@
----title: Kingdoms and Empires MOC---
+---title: Kingdoms and Empires MOCtags: notesseason: summertoc: truecomments: true---
 #MOC 
 Main: [[+home]]
 

@@ -1,4 +1,4 @@
----title: Warhorse---
+---title: Warhorsetags: notesseason: summertoc: truecomments: true---
 # Warhorse
 
 *Large beast, unaligned*

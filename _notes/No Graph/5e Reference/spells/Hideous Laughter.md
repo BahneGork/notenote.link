@@ -1,4 +1,4 @@
----title: Hideous Laughter---
+---title: Hideous Laughtertags: notesseason: summertoc: truecomments: true---
 # Hideous Laughter
 
 *1st-level enchantment*

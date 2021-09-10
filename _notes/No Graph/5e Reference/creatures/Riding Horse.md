@@ -1,4 +1,4 @@
----title: Riding Horse---
+---title: Riding Horsetags: notesseason: summertoc: truecomments: true---
 # Riding Horse
 
 *Large beast, unaligned*

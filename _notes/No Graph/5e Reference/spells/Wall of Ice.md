@@ -1,4 +1,4 @@
----title: Wall of Ice---
+---title: Wall of Icetags: notesseason: summertoc: truecomments: true---
 # Wall of Ice
 
 *6th-level evocation*

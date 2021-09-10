@@ -1,4 +1,4 @@
----title: Giant Crab---
+---title: Giant Crabtags: notesseason: summertoc: truecomments: true---
 # Giant Crab
 
 *Medium beast, unaligned*

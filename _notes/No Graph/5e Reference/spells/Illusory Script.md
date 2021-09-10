@@ -1,4 +1,4 @@
----title: Illusory Script---
+---title: Illusory Scripttags: notesseason: summertoc: truecomments: true---
 # Illusory Script
 
 *1st-level illusion (ritual)*

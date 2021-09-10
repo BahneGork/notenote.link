@@ -1,4 +1,4 @@
----title: Dominate Beast---
+---title: Dominate Beasttags: notesseason: summertoc: truecomments: true---
 # Dominate Beast
 
 *4th-level enchantment*

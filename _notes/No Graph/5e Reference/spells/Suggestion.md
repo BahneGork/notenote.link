@@ -1,4 +1,4 @@
----title: Suggestion---
+---title: Suggestiontags: notesseason: summertoc: truecomments: true---
 # Suggestion
 
 *2nd-level enchantment*

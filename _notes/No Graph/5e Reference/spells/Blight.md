@@ -1,4 +1,4 @@
----title: Blight---
+---title: Blighttags: notesseason: summertoc: truecomments: true---
 # Blight
 
 *4th-level necromancy*

@@ -1,4 +1,4 @@
----title: Robe of the Archmagi---
+---title: Robe of the Archmagitags: notesseason: summertoc: truecomments: true---
 # Robe of the Archmagi
 
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*

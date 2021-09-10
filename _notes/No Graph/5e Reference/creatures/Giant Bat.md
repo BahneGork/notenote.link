@@ -1,4 +1,4 @@
----title: Giant Bat---
+---title: Giant Battags: notesseason: summertoc: truecomments: true---
 # Giant Bat
 
 *Large beast, unaligned*

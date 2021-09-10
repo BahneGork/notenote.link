@@ -1,4 +1,4 @@
----title: Flame Tongue---
+---title: Flame Tonguetags: notesseason: summertoc: truecomments: true---
 # Flame Tongue
 
 *Weapon (any sword), rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Detect Thoughts---
+---title: Detect Thoughtstags: notesseason: summertoc: truecomments: true---
 # Detect Thoughts
 
 *2nd-level divination*

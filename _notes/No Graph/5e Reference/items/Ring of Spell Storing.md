@@ -1,4 +1,4 @@
----title: Ring of Spell Storing---
+---title: Ring of Spell Storingtags: notesseason: summertoc: truecomments: true---
 # Ring of Spell Storing
 
 *Ring, rare (requires attunement)*

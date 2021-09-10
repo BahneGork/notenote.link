@@ -1,4 +1,4 @@
----title: Gem of Seeing---
+---title: Gem of Seeingtags: notesseason: summertoc: truecomments: true---
 # Gem of Seeing
 
 *Wondrous item, rare (requires attunement)*

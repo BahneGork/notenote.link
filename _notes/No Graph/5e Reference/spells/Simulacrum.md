@@ -1,4 +1,4 @@
----title: Simulacrum---
+---title: Simulacrumtags: notesseason: summertoc: truecomments: true---
 # Simulacrum
 
 *7th-level illusion*

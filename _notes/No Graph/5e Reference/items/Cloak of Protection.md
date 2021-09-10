@@ -1,4 +1,4 @@
----title: Cloak of Protection---
+---title: Cloak of Protectiontags: notesseason: summertoc: truecomments: true---
 # Cloak of Protection
 
 *Wondrous item, uncommon (requires attunement)*

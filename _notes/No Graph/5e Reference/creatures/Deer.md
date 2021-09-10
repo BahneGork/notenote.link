@@ -1,4 +1,4 @@
----title: Deer---
+---title: Deertags: notesseason: summertoc: truecomments: true---
 # Deer
 
 *Medium beast, unaligned*

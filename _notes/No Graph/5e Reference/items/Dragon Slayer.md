@@ -1,4 +1,4 @@
----title: Dragon Slayer---
+---title: Dragon Slayertags: notesseason: summertoc: truecomments: true---
 # Dragon Slayer
 
 *Weapon (any sword), rare*

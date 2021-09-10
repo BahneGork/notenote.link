@@ -1,4 +1,4 @@
----title: Troll---
+---title: Trolltags: notesseason: summertoc: truecomments: true---
 # Troll
 
 *Large giant, chaotic evil*

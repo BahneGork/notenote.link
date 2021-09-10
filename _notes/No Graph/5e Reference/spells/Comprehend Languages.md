@@ -1,4 +1,4 @@
----title: Comprehend Languages---
+---title: Comprehend Languagestags: notesseason: summertoc: truecomments: true---
 # Comprehend Languages
 
 *1st-level divination (ritual)*

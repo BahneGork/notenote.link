@@ -1,4 +1,4 @@
----title: Foresight---
+---title: Foresighttags: notesseason: summertoc: truecomments: true---
 # Foresight
 
 *9th-level divination*

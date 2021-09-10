@@ -1,4 +1,4 @@
----title: Thunderwave---
+---title: Thunderwavetags: notesseason: summertoc: truecomments: true---
 # Thunderwave
 
 *1st-level evocation*

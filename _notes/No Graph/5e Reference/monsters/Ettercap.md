@@ -1,4 +1,4 @@
----title: Ettercap---
+---title: Ettercaptags: notesseason: summertoc: truecomments: true---
 # Ettercap
 
 *Medium monstrosity, neutral evil*

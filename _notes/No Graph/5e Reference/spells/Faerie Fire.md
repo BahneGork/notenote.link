@@ -1,4 +1,4 @@
----title: Faerie Fire---
+---title: Faerie Firetags: notesseason: summertoc: truecomments: true---
 # Faerie Fire
 
 *1st-level evocation*

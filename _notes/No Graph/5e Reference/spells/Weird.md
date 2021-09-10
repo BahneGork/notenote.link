@@ -1,4 +1,4 @@
----title: Weird---
+---title: Weirdtags: notesseason: summertoc: truecomments: true---
 # Weird
 
 *9th-level illusion*

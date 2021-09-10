@@ -1,4 +1,4 @@
----title: Medusa---
+---title: Medusatags: notesseason: summertoc: truecomments: true---
 # Medusa
 
 *Medium monstrosity, lawful evil*

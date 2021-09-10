@@ -1,4 +1,4 @@
----title: Wall of Stone---
+---title: Wall of Stonetags: notesseason: summertoc: truecomments: true---
 # Wall of Stone
 
 *5th-level evocation*

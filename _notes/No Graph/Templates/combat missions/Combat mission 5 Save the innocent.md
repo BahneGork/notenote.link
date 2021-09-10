@@ -1,4 +1,4 @@
----title: Combat mission 5 Save the innocent---
+---title: Combat mission 5 Save the innocenttags: notesseason: summertoc: truecomments: true---
 ### Mission 5: Save the Innocent
 
 _“We’re their only hope…_

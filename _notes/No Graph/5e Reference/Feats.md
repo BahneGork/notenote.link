@@ -1,4 +1,4 @@
----title: Feats---
+---title: Featstags: notesseason: summertoc: truecomments: true---
 # Feats
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.

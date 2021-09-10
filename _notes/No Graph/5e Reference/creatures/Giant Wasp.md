@@ -1,4 +1,4 @@
----title: Giant Wasp---
+---title: Giant Wasptags: notesseason: summertoc: truecomments: true---
 # Giant Wasp
 
 *Medium beast, unaligned*

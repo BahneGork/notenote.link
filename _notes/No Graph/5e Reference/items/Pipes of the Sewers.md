@@ -1,4 +1,4 @@
----title: Pipes of the Sewers---
+---title: Pipes of the Sewerstags: notesseason: summertoc: truecomments: true---
 # Pipes of the Sewers
 
 *Wondrous item, uncommon (requires attunement)*

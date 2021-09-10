@@ -1,4 +1,4 @@
----title: Giant Octopus---
+---title: Giant Octopustags: notesseason: summertoc: truecomments: true---
 # Giant Octopus
 
 *Large beast, unaligned*

@@ -1,4 +1,4 @@
----title: Locate Object---
+---title: Locate Objecttags: notesseason: summertoc: truecomments: true---
 # Locate Object
 
 *2nd-level divination*

@@ -1,4 +1,4 @@
----title: Sea Horse---
+---title: Sea Horsetags: notesseason: summertoc: truecomments: true---
 # Sea Horse
 
 *Tiny beast, unaligned*

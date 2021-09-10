@@ -1,4 +1,4 @@
----title: Bulette---
+---title: Bulettetags: notesseason: summertoc: truecomments: true---
 # Bulette
 
 *Large monstrosity, unaligned*

@@ -1,4 +1,4 @@
----title: Eyes of Charming---
+---title: Eyes of Charmingtags: notesseason: summertoc: truecomments: true---
 # Eyes of Charming
 
 *Wondrous item, uncommon (requires attunement)*

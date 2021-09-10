@@ -1,4 +1,4 @@
----title: Giant Constrictor Snake---
+---title: Giant Constrictor Snaketags: notesseason: summertoc: truecomments: true---
 # Giant Constrictor Snake
 
 *Huge beast, unaligned*

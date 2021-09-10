@@ -1,4 +1,4 @@
----title: Potion of Growth---
+---title: Potion of Growthtags: notesseason: summertoc: truecomments: true---
 # Potion of Growth
 
 *Potion, uncommon*

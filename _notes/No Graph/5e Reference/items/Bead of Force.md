@@ -1,4 +1,4 @@
----title: Bead of Force---
+---title: Bead of Forcetags: notesseason: summertoc: truecomments: true---
 # Bead of Force
 
 *Wondrous item, rare*

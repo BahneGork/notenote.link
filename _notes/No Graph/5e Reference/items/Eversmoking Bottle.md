@@ -1,4 +1,4 @@
----title: Eversmoking Bottle---
+---title: Eversmoking Bottletags: notesseason: summertoc: truecomments: true---
 # Eversmoking Bottle
 
 *Wondrous item, uncommon*

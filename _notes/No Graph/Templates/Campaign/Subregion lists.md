@@ -1,4 +1,4 @@
----title: Subregion lists---
+---title: Subregion liststags: notesseason: summertoc: truecomments: true---
 #randomencounters  #subregionlist #subregion  
 Main: region  - campaign       Related:  session note
 

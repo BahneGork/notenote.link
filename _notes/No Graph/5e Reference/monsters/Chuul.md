@@ -1,4 +1,4 @@
----title: Chuul---
+---title: Chuultags: notesseason: summertoc: truecomments: true---
 # Chuul
 
 *Large aberration, chaotic evil*

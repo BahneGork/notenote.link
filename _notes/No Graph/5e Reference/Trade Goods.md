@@ -1,4 +1,4 @@
----title: Trade Goods---
+---title: Trade Goodstags: notesseason: summertoc: truecomments: true---
 # Trade Goods
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).

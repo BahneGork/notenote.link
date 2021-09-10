@@ -1,4 +1,4 @@
----title: Sword of Wounding---
+---title: Sword of Woundingtags: notesseason: summertoc: truecomments: true---
 # Sword of Wounding
 
 *Weapon (any sword), rare (requires attunement)*

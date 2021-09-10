@@ -1,4 +1,4 @@
----title: Inflict Wounds---
+---title: Inflict Woundstags: notesseason: summertoc: truecomments: true---
 # Inflict Wounds
 
 *1st-level necromancy*

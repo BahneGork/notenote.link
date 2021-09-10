@@ -1,4 +1,4 @@
----title: Deck of Illusions---
+---title: Deck of Illusionstags: notesseason: summertoc: truecomments: true---
 # Deck of Illusions
 
 *Wondrous item, uncommon*

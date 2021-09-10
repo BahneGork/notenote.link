@@ -1,4 +1,4 @@
----title: Jackal---
+---title: Jackaltags: notesseason: summertoc: truecomments: true---
 # Jackal
 
 *Small beast, unaligned*

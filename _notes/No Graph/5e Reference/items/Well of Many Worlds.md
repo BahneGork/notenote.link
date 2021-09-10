@@ -1,4 +1,4 @@
----title: Well of Many Worlds---
+---title: Well of Many Worldstags: notesseason: summertoc: truecomments: true---
 # Well of Many Worlds
 
 *Wondrous item, legendary*

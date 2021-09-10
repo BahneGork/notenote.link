@@ -1,4 +1,4 @@
----title: Antimagic Field---
+---title: Antimagic Fieldtags: notesseason: summertoc: truecomments: true---
 # Antimagic Field
 
 *8th-level abjuration*

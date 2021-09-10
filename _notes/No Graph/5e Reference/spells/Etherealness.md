@@ -1,4 +1,4 @@
----title: Etherealness---
+---title: Etherealnesstags: notesseason: summertoc: truecomments: true---
 # Etherealness
 
 *7th-level transmutation*

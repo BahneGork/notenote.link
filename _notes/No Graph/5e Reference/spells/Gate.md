@@ -1,4 +1,4 @@
----title: Gate---
+---title: Gatetags: notesseason: summertoc: truecomments: true---
 # Gate
 
 *9th-level conjuration*

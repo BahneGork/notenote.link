@@ -1,4 +1,4 @@
----title: Half-Orc---
+---title: Half-Orctags: notesseason: summertoc: truecomments: true---
 # Half-Orc
 
 ### Half-Orc Traits

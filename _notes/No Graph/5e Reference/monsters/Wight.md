@@ -1,4 +1,4 @@
----title: Wight---
+---title: Wighttags: notesseason: summertoc: truecomments: true---
 # Wight
 
 *Medium undead, neutral evil*

@@ -1,4 +1,4 @@
----title: Counterspell---
+---title: Counterspelltags: notesseason: summertoc: truecomments: true---
 # Counterspell
 
 *3rd-­level abjuration*

@@ -1,4 +1,4 @@
----title: Owlbear---
+---title: Owlbeartags: notesseason: summertoc: truecomments: true---
 # Owlbear
 
 *Large monstrosity, unaligned*

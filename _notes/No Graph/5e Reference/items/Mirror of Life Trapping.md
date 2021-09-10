@@ -1,4 +1,4 @@
----title: Mirror of Life Trapping---
+---title: Mirror of Life Trappingtags: notesseason: summertoc: truecomments: true---
 # Mirror of Life Trapping
 
 *Wondrous item, very rare*

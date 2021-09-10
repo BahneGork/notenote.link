@@ -1,4 +1,4 @@
----title: Stoneskin---
+---title: Stoneskintags: notesseason: summertoc: truecomments: true---
 # Stoneskin
 
 *4th-level abjuration*

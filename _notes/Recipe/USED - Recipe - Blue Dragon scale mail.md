@@ -1,4 +1,4 @@
----title: USED - Recipe - Blue Dragon scale mail---
+---title: USED - Recipe - Blue Dragon scale mailtags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Blue Dragon Scale Mail
 

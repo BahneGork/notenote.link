@@ -1,4 +1,4 @@
----title: Priest---
+---title: Priesttags: notesseason: summertoc: truecomments: true---
 # Priest
 
 *Medium humanoid (any race), any alignment*

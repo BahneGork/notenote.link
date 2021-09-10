@@ -1,4 +1,4 @@
----title: Planar Ally---
+---title: Planar Allytags: notesseason: summertoc: truecomments: true---
 # Planar Ally
 
 *6th-level conjuration*

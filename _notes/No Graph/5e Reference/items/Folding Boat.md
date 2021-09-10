@@ -1,4 +1,4 @@
----title: Folding Boat---
+---title: Folding Boattags: notesseason: summertoc: truecomments: true---
 # Folding Boat
 
 *Wondrous item, rare*

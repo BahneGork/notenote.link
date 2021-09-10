@@ -1,4 +1,4 @@
----title: Satyr---
+---title: Satyrtags: notesseason: summertoc: truecomments: true---
 # Satyr
 
 *Medium fey, chaotic neutral*

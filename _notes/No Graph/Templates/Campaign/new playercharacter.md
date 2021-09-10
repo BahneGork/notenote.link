@@ -1,4 +1,4 @@
----title: new playercharacter---
+---title: new playercharactertags: notesseason: summertoc: truecomments: true---
 ---
 alias: ''
 type: 'pc'

@@ -1,4 +1,4 @@
----title: Create Food and Water---
+---title: Create Food and Watertags: notesseason: summertoc: truecomments: true---
 # Create Food and Water
 
 *3rd-level conjuration*

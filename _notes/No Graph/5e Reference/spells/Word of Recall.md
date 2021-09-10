@@ -1,4 +1,4 @@
----title: Word of Recall---
+---title: Word of Recalltags: notesseason: summertoc: truecomments: true---
 # Word of Recall
 
 *6th-level conjuration*

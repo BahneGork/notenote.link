@@ -1,4 +1,4 @@
----title: Protection from Evil and Good---
+---title: Protection from Evil and Goodtags: notesseason: summertoc: truecomments: true---
 # Protection from Evil and Good
 
 *1st-level abjuration*

@@ -1,4 +1,4 @@
----title: Blood Hawk---
+---title: Blood Hawktags: notesseason: summertoc: truecomments: true---
 # Blood Hawk
 
 *Small beast, unaligned*

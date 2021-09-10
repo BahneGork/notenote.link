@@ -1,4 +1,4 @@
----title: Ranch 5 Tenere---
+---title: Ranch 5 Teneretags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'Ranch 5, Tenere, Ranch Tenere'
 ---

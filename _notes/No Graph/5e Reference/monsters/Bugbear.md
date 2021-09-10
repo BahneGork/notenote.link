@@ -1,4 +1,4 @@
----title: Bugbear---
+---title: Bugbeartags: notesseason: summertoc: truecomments: true---
 # Bugbear
 
 *Medium humanoid (goblinoid), chaotic evil*

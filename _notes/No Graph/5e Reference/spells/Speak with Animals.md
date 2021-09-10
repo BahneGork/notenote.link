@@ -1,4 +1,4 @@
----title: Speak with Animals---
+---title: Speak with Animalstags: notesseason: summertoc: truecomments: true---
 # Speak with Animals
 
 *1st-level divination (ritual)*

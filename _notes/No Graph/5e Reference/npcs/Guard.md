@@ -1,4 +1,4 @@
----title: Guard---
+---title: Guardtags: notesseason: summertoc: truecomments: true---
 # Guard
 
 *Medium humanoid (any race), any alignment*

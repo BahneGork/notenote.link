@@ -1,4 +1,4 @@
----title: Ring of Evasion---
+---title: Ring of Evasiontags: notesseason: summertoc: truecomments: true---
 # Ring of Evasion
 
 *Ring, rare (requires attunement)*

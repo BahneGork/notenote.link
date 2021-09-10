@@ -1,4 +1,4 @@
----title: Light---
+---title: Lighttags: notesseason: summertoc: truecomments: true---
 # Light
 
 *Evocation cantrip*

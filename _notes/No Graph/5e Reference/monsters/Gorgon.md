@@ -1,4 +1,4 @@
----title: Gorgon---
+---title: Gorgontags: notesseason: summertoc: truecomments: true---
 # Gorgon
 
 *Large monstrosity, unaligned*

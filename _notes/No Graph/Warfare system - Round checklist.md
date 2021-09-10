@@ -1,4 +1,4 @@
----title: Warfare system - Round checklist---
+---title: Warfare system - Round checklisttags: notesseason: summertoc: truecomments: true---
 At the beginning of the round, check for collapsing ranks.
 
 Commanders take turns in initiative order.  

@@ -1,4 +1,4 @@
----title: Speak with Dead---
+---title: Speak with Deadtags: notesseason: summertoc: truecomments: true---
 # Speak with Dead
 
 *3rd-level necromancy*

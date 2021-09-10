@@ -1,4 +1,4 @@
----title: Vulture---
+---title: Vulturetags: notesseason: summertoc: truecomments: true---
 # Vulture
 
 *Medium beast, unaligned*

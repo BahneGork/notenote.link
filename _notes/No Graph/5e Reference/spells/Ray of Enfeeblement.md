@@ -1,4 +1,4 @@
----title: Ray of Enfeeblement---
+---title: Ray of Enfeeblementtags: notesseason: summertoc: truecomments: true---
 # Ray of Enfeeblement
 
 *2nd-level necromancy*

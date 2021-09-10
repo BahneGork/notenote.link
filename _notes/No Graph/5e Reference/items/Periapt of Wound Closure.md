@@ -1,4 +1,4 @@
----title: Periapt of Wound Closure---
+---title: Periapt of Wound Closuretags: notesseason: summertoc: truecomments: true---
 # Periapt of Wound Closure
 
 *Wondrous item, uncommon (requires attunement)*

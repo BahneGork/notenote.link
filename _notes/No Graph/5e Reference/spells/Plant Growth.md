@@ -1,4 +1,4 @@
----title: Plant Growth---
+---title: Plant Growthtags: notesseason: summertoc: truecomments: true---
 # Plant Growth
 
 *3rd-level transmutation*

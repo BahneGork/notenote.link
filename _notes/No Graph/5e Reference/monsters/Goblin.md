@@ -1,4 +1,4 @@
----title: Goblin---
+---title: Goblintags: notesseason: summertoc: truecomments: true---
 # Goblin
 
 *Small humanoid (goblinoid), neutral evil*

@@ -1,4 +1,4 @@
----title: Legendary Creatures---
+---title: Legendary Creaturestags: notesseason: summertoc: truecomments: true---
 # Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.

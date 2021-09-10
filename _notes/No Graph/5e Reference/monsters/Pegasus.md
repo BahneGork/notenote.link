@@ -1,4 +1,4 @@
----title: Pegasus---
+---title: Pegasustags: notesseason: summertoc: truecomments: true---
 # Pegasus
 
 *Large celestial, chaotic good*

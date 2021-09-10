@@ -1,4 +1,4 @@
----title: Tongues---
+---title: Tonguestags: notesseason: summertoc: truecomments: true---
 # Tongues
 
 *3rd-level divination*

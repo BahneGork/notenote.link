@@ -1,4 +1,4 @@
----title: Ring of Resistance---
+---title: Ring of Resistancetags: notesseason: summertoc: truecomments: true---
 # Ring of Resistance
 
 *Ring, rare (requires attunement)*

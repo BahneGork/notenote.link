@@ -1,4 +1,4 @@
----title: Magic Missile---
+---title: Magic Missiletags: notesseason: summertoc: truecomments: true---
 # Magic Missile
 
 *1st-level evocation*

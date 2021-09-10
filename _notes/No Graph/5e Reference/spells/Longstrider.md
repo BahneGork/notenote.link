@@ -1,4 +1,4 @@
----title: Longstrider---
+---title: Longstridertags: notesseason: summertoc: truecomments: true---
 # Longstrider
 
 *1st-level transmutation*

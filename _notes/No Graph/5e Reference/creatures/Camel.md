@@ -1,4 +1,4 @@
----title: Camel---
+---title: Cameltags: notesseason: summertoc: truecomments: true---
 # Camel
 
 *Large beast, unaligned*

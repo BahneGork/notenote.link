@@ -1,4 +1,4 @@
----title: Delayed Blast Fireball---
+---title: Delayed Blast Fireballtags: notesseason: summertoc: truecomments: true---
 # Delayed Blast Fireball
 
 *7th-level evocation*

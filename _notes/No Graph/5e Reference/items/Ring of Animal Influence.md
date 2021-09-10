@@ -1,4 +1,4 @@
----title: Ring of Animal Influence---
+---title: Ring of Animal Influencetags: notesseason: summertoc: truecomments: true---
 # Ring of Animal Influence
 
 *Ring, rare*

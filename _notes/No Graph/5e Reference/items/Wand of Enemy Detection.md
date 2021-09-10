@@ -1,4 +1,4 @@
----title: Wand of Enemy Detection---
+---title: Wand of Enemy Detectiontags: notesseason: summertoc: truecomments: true---
 # Wand of Enemy Detection
 
 *Wand, rare (requires attunement)*

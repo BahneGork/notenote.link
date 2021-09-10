@@ -1,4 +1,4 @@
----title: Silence---
+---title: Silencetags: notesseason: summertoc: truecomments: true---
 # Silence
 
 *2nd-level illusion (ritual)*

@@ -1,4 +1,4 @@
----title: Will-o-Wisp---
+---title: Will-o-Wisptags: notesseason: summertoc: truecomments: true---
 # Will-o'-Wisp
 
 *Tiny undead, chaotic evil*

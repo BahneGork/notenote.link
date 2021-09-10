@@ -1,4 +1,4 @@
----title: Sword of Sharpness---
+---title: Sword of Sharpnesstags: notesseason: summertoc: truecomments: true---
 # Sword of Sharpness
 
 *Weapon (any sword that deals slashing damage), very rare (requires attunement)*

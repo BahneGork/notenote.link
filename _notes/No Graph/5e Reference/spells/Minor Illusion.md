@@ -1,4 +1,4 @@
----title: Minor Illusion---
+---title: Minor Illusiontags: notesseason: summertoc: truecomments: true---
 # Minor Illusion
 
 *Illusion cantrip*

@@ -1,4 +1,4 @@
----title: Defender---
+---title: Defendertags: notesseason: summertoc: truecomments: true---
 # Defender
 
 *Weapon (any sword), legendary (requires attunement)*

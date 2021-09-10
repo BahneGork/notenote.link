@@ -1,4 +1,4 @@
----title: Helm of Telepathy---
+---title: Helm of Telepathytags: notesseason: summertoc: truecomments: true---
 # Helm of Telepathy
 
 *Wondrous item, uncommon (requires attunement)*

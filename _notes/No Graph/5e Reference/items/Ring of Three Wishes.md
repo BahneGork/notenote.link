@@ -1,4 +1,4 @@
----title: Ring of Three Wishes---
+---title: Ring of Three Wishestags: notesseason: summertoc: truecomments: true---
 # Ring of Three Wishes
 
 *Ring, legendary*

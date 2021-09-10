@@ -1,4 +1,4 @@
----title: Shield of Missile Attraction---
+---title: Shield of Missile Attractiontags: notesseason: summertoc: truecomments: true---
 # Shield of Missile Attraction
 
 *Armor (shield), rare (requires attunement)*

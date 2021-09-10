@@ -1,4 +1,4 @@
----title: Armor, +1, +2, or +3---
+---title: Armor, +1, +2, or +3tags: notesseason: summertoc: truecomments: true---
 # Armor, +1, +2, or +3
 
 *Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)*

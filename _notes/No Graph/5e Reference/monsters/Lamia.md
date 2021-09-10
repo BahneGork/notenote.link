@@ -1,4 +1,4 @@
----title: Lamia---
+---title: Lamiatags: notesseason: summertoc: truecomments: true---
 # Lamia
 
 *Large monstrosity, chaotic evil*

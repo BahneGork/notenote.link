@@ -1,4 +1,4 @@
----title: Cultist---
+---title: Cultisttags: notesseason: summertoc: truecomments: true---
 # Cultist
 
 *Medium humanoid (any race), any non-good alignment*

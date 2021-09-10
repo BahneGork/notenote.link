@@ -1,4 +1,4 @@
----title: Plane Shift---
+---title: Plane Shifttags: notesseason: summertoc: truecomments: true---
 # Plane Shift
 
 *7th-level conjuration*

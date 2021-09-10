@@ -1,4 +1,4 @@
----title: Narae---
+---title: Naraetags: notesseason: summertoc: truecomments: true---
 ---
 alias: 'Narae'
 type: 'pc'

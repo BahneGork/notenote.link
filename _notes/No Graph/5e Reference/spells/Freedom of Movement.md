@@ -1,4 +1,4 @@
----title: Freedom of Movement---
+---title: Freedom of Movementtags: notesseason: summertoc: truecomments: true---
 # Freedom of Movement
 
 *4th-level abjuration*

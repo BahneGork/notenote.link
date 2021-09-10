@@ -1,4 +1,4 @@
----title: Reverse Gravity---
+---title: Reverse Gravitytags: notesseason: summertoc: truecomments: true---
 # Reverse Gravity
 
 *7th-level transmutation*

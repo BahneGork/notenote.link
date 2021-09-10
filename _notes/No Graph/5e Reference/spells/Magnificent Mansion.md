@@ -1,4 +1,4 @@
----title: Magnificent Mansion---
+---title: Magnificent Mansiontags: notesseason: summertoc: truecomments: true---
 # Magnificent Mansion
 
 *7th-level conjuration*

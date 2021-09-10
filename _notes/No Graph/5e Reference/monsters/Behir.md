@@ -1,4 +1,4 @@
----title: Behir---
+---title: Behirtags: notesseason: summertoc: truecomments: true---
 # Behir
 
 *Huge monstrosity, neutral evil*

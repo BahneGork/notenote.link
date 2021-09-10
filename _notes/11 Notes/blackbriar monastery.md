@@ -1,4 +1,4 @@
----title: blackbriar monastery---
+---title: blackbriar monasterytags: notesseason: summertoc: truecomments: true---
 #location #House-Omero #St-Worlock-the-just
 
 Major sponsor [[House Omero]]

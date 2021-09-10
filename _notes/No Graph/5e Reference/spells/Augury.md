@@ -1,4 +1,4 @@
----title: Augury---
+---title: Augurytags: notesseason: summertoc: truecomments: true---
 # Augury
 
 *2nd-level divination (ritual)*

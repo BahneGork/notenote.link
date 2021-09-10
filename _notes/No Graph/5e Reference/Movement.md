@@ -1,4 +1,4 @@
----title: Movement---
+---title: Movementtags: notesseason: summertoc: truecomments: true---
 # Movement
 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope-all sorts of movement play a key role in fantasy gaming adventures.

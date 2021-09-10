@@ -1,4 +1,4 @@
----title: Shatter---
+---title: Shattertags: notesseason: summertoc: truecomments: true---
 # Shatter
 
 *2nd-level evocation*

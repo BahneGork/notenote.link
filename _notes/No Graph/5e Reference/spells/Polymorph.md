@@ -1,4 +1,4 @@
----title: Polymorph---
+---title: Polymorphtags: notesseason: summertoc: truecomments: true---
 # Polymorph
 
 *4th-level transmutation*

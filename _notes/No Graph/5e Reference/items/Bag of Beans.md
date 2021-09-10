@@ -1,4 +1,4 @@
----title: Bag of Beans---
+---title: Bag of Beanstags: notesseason: summertoc: truecomments: true---
 # Bag of Beans
 
 *Wondrous item, rare*

@@ -1,4 +1,4 @@
----title: Hell Hound---
+---title: Hell Houndtags: notesseason: summertoc: truecomments: true---
 # Hell Hound
 
 *Medium fiend, lawful evil*

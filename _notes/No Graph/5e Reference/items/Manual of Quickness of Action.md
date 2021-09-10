@@ -1,4 +1,4 @@
----title: Manual of Quickness of Action---
+---title: Manual of Quickness of Actiontags: notesseason: summertoc: truecomments: true---
 # Manual of Quickness of Action
 
 *Wondrous item, very rare*

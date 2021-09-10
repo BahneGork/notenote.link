@@ -1,4 +1,4 @@
----title: Dire Wolf---
+---title: Dire Wolftags: notesseason: summertoc: truecomments: true---
 # Dire Wolf
 
 *Large beast, unaligned*

@@ -1,4 +1,4 @@
----title: Elven Chain---
+---title: Elven Chaintags: notesseason: summertoc: truecomments: true---
 # Elven Chain
 
 *Armor (chain shirt), rare*

@@ -1,4 +1,4 @@
----title: Bat---
+---title: Battags: notesseason: summertoc: truecomments: true---
 # Bat
 
 *Tiny beast, unaligned*

@@ -1,4 +1,4 @@
----title: Amulet of the Planes---
+---title: Amulet of the Planestags: notesseason: summertoc: truecomments: true---
 # Amulet of the Planes
 
 *Wondrous item, very rare (requires attunement)*

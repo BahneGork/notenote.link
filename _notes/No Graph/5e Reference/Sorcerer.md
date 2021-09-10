@@ -1,4 +1,4 @@
----title: Sorcerer---
+---title: Sorcerertags: notesseason: summertoc: truecomments: true---
 # Sorcerer
 
 ### Class Features

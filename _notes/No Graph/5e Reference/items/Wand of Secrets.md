@@ -1,4 +1,4 @@
----title: Wand of Secrets---
+---title: Wand of Secretstags: notesseason: summertoc: truecomments: true---
 # Wand of Secrets
 
 *Wand, uncommon*

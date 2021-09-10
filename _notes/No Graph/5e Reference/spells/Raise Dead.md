@@ -1,4 +1,4 @@
----title: Raise Dead---
+---title: Raise Deadtags: notesseason: summertoc: truecomments: true---
 # Raise Dead
 
 *5th-level necromancy*

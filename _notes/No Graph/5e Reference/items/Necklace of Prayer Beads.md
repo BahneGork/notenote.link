@@ -1,4 +1,4 @@
----title: Necklace of Prayer Beads---
+---title: Necklace of Prayer Beadstags: notesseason: summertoc: truecomments: true---
 # Necklace of Prayer Beads
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*

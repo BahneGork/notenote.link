@@ -1,4 +1,4 @@
----title: Lion---
+---title: Liontags: notesseason: summertoc: truecomments: true---
 # Lion
 
 *Large beast, unaligned*

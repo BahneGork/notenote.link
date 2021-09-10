@@ -1,4 +1,4 @@
----title: Horseshoes of Speed---
+---title: Horseshoes of Speedtags: notesseason: summertoc: truecomments: true---
 # Horseshoes of Speed
 
 *Wondrous item, rare*

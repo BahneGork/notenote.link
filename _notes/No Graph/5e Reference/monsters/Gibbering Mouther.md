@@ -1,4 +1,4 @@
----title: Gibbering Mouther---
+---title: Gibbering Mouthertags: notesseason: summertoc: truecomments: true---
 # Gibbering Mouther
 
 *Medium aberration, neutral*

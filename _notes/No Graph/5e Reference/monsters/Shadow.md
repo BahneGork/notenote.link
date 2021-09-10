@@ -1,4 +1,4 @@
----title: Shadow---
+---title: Shadowtags: notesseason: summertoc: truecomments: true---
 # Shadow
 
 *Medium undead, chaotic evil*

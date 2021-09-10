@@ -1,4 +1,4 @@
----title: Wind Walk---
+---title: Wind Walktags: notesseason: summertoc: truecomments: true---
 # Wind Walk
 
 *6th-level transmutation*

@@ -1,4 +1,4 @@
----title: Protection from Poison---
+---title: Protection from Poisontags: notesseason: summertoc: truecomments: true---
 # Protection from Poison
 
 *2nd-level abjuration*

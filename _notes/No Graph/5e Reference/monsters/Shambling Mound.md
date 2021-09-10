@@ -1,4 +1,4 @@
----title: Shambling Mound---
+---title: Shambling Moundtags: notesseason: summertoc: truecomments: true---
 # Shambling Mound
 
 *Large plant, unaligned*

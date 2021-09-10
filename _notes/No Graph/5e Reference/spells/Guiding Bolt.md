@@ -1,4 +1,4 @@
----title: Guiding Bolt---
+---title: Guiding Bolttags: notesseason: summertoc: truecomments: true---
 # Guiding Bolt
 
 *1st-level evocation*

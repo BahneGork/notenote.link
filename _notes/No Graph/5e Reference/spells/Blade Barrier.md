@@ -1,4 +1,4 @@
----title: Blade Barrier---
+---title: Blade Barriertags: notesseason: summertoc: truecomments: true---
 # Blade Barrier
 
 *6th-level evocation*

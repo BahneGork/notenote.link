@@ -1,4 +1,4 @@
----title: Symbol---
+---title: Symboltags: notesseason: summertoc: truecomments: true---
 # Symbol
 
 *7th-level abjuration*

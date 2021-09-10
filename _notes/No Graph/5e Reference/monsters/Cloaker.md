@@ -1,4 +1,4 @@
----title: Cloaker---
+---title: Cloakertags: notesseason: summertoc: truecomments: true---
 # Cloaker
 
 *Large aberration, chaotic neutral*

@@ -1,4 +1,4 @@
----title: Customizing NPCs---
+---title: Customizing NPCstags: notesseason: summertoc: truecomments: true---
 # Customizing NPCs
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.

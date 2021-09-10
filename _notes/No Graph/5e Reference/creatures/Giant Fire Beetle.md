@@ -1,4 +1,4 @@
----title: Giant Fire Beetle---
+---title: Giant Fire Beetletags: notesseason: summertoc: truecomments: true---
 # Giant Fire Beetle
 
 *Small beast, unaligned*

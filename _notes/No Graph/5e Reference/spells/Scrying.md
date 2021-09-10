@@ -1,4 +1,4 @@
----title: Scrying---
+---title: Scryingtags: notesseason: summertoc: truecomments: true---
 # Scrying
 
 *5th-level divination*

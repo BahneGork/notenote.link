@@ -1,4 +1,4 @@
----title: Merfolk---
+---title: Merfolktags: notesseason: summertoc: truecomments: true---
 # Merfolk
 
 *Medium humanoid (merfolk), neutral*

@@ -1,4 +1,4 @@
----title: Winged Boots---
+---title: Winged Bootstags: notesseason: summertoc: truecomments: true---
 # Winged Boots
 
 *Wondrous item, uncommon (requires attunement)*

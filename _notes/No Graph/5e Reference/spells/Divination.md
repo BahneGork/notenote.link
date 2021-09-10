@@ -1,4 +1,4 @@
----title: Divination---
+---title: Divinationtags: notesseason: summertoc: truecomments: true---
 # Divination
 
 *4th-level divination (ritual)*

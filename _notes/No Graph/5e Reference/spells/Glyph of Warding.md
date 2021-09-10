@@ -1,4 +1,4 @@
----title: Glyph of Warding---
+---title: Glyph of Wardingtags: notesseason: summertoc: truecomments: true---
 # Glyph of Warding
 
 *3rd-level abjuration*

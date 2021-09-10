@@ -1,4 +1,4 @@
----title: Universal Solvent---
+---title: Universal Solventtags: notesseason: summertoc: truecomments: true---
 # Universal Solvent
 
 *Wondrous item, legendary*

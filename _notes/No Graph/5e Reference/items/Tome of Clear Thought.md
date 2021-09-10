@@ -1,4 +1,4 @@
----title: Tome of Clear Thought---
+---title: Tome of Clear Thoughttags: notesseason: summertoc: truecomments: true---
 # Tome of Clear Thought
 
 *Wondrous item, very rare*

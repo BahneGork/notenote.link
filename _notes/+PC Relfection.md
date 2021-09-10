@@ -1,4 +1,4 @@
----title: +PC Relfection---
+---title: +PC Relfectiontags: notesseason: summertoc: truecomments: true---
 #playercharacters #reflection
 Main: [[The Heroes MOC]]
 Related: [[The Shadow Company MOC]]

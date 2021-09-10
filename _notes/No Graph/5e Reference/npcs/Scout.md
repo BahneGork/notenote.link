@@ -1,4 +1,4 @@
----title: Scout---
+---title: Scouttags: notesseason: summertoc: truecomments: true---
 # Scout
 
 *Medium humanoid (any race), any alignment*

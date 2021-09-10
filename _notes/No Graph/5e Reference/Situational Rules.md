@@ -1,4 +1,4 @@
----title: Situational Rules---
+---title: Situational Rulestags: notesseason: summertoc: truecomments: true---
 # Situational Rules
 
 ## Traps

@@ -1,4 +1,4 @@
----title: Aboleth---
+---title: Abolethtags: notesseason: summertoc: truecomments: true---
 # Aboleth
 
 *Large aberration, lawful evil*

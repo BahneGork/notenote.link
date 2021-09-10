@@ -1,4 +1,4 @@
----title: Darkmantle---
+---title: Darkmantletags: notesseason: summertoc: truecomments: true---
 # Darkmantle
 
 *Small monstrosity, unaligned*

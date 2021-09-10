@@ -1,4 +1,4 @@
----title: Giant Badger---
+---title: Giant Badgertags: notesseason: summertoc: truecomments: true---
 # Giant Badger
 
 *Medium beast, unaligned*

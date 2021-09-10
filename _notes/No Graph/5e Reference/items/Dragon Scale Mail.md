@@ -1,4 +1,4 @@
----title: Dragon Scale Mail---
+---title: Dragon Scale Mailtags: notesseason: summertoc: truecomments: true---
 # Dragon Scale Mail
 
 *Armor (scale mail), very rare (requires attunement)*

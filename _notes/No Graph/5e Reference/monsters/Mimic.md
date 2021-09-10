@@ -1,4 +1,4 @@
----title: Mimic---
+---title: Mimictags: notesseason: summertoc: truecomments: true---
 # Mimic
 
 *Medium monstrosity (shapechanger), neutral*

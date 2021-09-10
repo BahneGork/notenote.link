@@ -1,4 +1,4 @@
----title: Sahuagin---
+---title: Sahuagintags: notesseason: summertoc: truecomments: true---
 # Sahuagin
 
 *Medium humanoid (sahuagin), lawful evil*

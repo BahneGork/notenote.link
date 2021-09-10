@@ -1,4 +1,4 @@
----title: Frost Brand---
+---title: Frost Brandtags: notesseason: summertoc: truecomments: true---
 # Frost Brand
 
 *Weapon (any sword), very rare (requires attunement)*

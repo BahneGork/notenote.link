@@ -1,4 +1,4 @@
----title: Gloves of Swimming and Climbing---
+---title: Gloves of Swimming and Climbingtags: notesseason: summertoc: truecomments: true---
 # Gloves of Swimming and Climbing
 
 *Wondrous item, uncommon (requires attunement)*

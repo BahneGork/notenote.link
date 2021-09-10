@@ -1,4 +1,4 @@
----title: Salamander---
+---title: Salamandertags: notesseason: summertoc: truecomments: true---
 # Salamander
 
 *Large elemental, neutral evil*

@@ -1,4 +1,4 @@
----title: Giant Wolf Spider---
+---title: Giant Wolf Spidertags: notesseason: summertoc: truecomments: true---
 # Giant Wolf Spider
 
 *Medium beast, unaligned*

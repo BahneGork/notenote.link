@@ -1,4 +1,4 @@
----title: Manticore---
+---title: Manticoretags: notesseason: summertoc: truecomments: true---
 # Manticore
 
 *Large monstrosity, lawful evil*

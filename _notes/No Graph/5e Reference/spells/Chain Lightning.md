@@ -1,4 +1,4 @@
----title: Chain Lightning---
+---title: Chain Lightningtags: notesseason: summertoc: truecomments: true---
 # Chain Lightning
 
 *6th-level evocation*

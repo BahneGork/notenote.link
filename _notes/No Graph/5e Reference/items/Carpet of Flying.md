@@ -1,4 +1,4 @@
----title: Carpet of Flying---
+---title: Carpet of Flyingtags: notesseason: summertoc: truecomments: true---
 # Carpet of Flying
 
 *Wondrous item, very rare*

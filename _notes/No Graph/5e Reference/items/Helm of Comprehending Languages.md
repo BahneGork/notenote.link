@@ -1,4 +1,4 @@
----title: Helm of Comprehending Languages---
+---title: Helm of Comprehending Languagestags: notesseason: summertoc: truecomments: true---
 # Helm of Comprehending Languages
 
 *Wondrous item, uncommon*

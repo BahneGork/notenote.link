@@ -1,4 +1,4 @@
----title: Power Word Stun---
+---title: Power Word Stuntags: notesseason: summertoc: truecomments: true---
 # Power Word Stun
 
 *8th-level enchantment*

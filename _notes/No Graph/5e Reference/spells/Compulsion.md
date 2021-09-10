@@ -1,4 +1,4 @@
----title: Compulsion---
+---title: Compulsiontags: notesseason: summertoc: truecomments: true---
 # Compulsion
 
 *4th-­level enchantment*

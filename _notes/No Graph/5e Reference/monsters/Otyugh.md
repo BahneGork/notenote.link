@@ -1,4 +1,4 @@
----title: Otyugh---
+---title: Otyughtags: notesseason: summertoc: truecomments: true---
 # Otyugh
 
 *Large aberration, neutral*

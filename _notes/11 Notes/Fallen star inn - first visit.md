@@ -1,4 +1,4 @@
----title: Fallen star inn - first visit---
+---title: Fallen star inn - first visittags: notesseason: summertoc: truecomments: true---
 [[Fallen star inn Shadow Company HQ]]
 
 ## Patrons

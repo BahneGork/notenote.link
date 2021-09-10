@@ -1,4 +1,4 @@
----title: Recipe - Gem of Seeing---
+---title: Recipe - Gem of Seeingtags: notesseason: summertoc: truecomments: true---
 #magicitemformula #recipe 
 ### Gem of Seeing
 

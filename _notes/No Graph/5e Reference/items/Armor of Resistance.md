@@ -1,4 +1,4 @@
----title: Armor of Resistance---
+---title: Armor of Resistancetags: notesseason: summertoc: truecomments: true---
 # Armor of Resistance
 
 *Armor (light, medium, or heavy), rare (requires attunement)*

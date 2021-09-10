@@ -1,4 +1,4 @@
----title: Logged - Session 27---
+---title: Logged - Session 27tags: notesseason: summertoc: truecomments: true---
 #logged 
 # Session 27 - Next 
 

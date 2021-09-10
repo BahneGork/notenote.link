@@ -1,4 +1,4 @@
----title: Arrow of Slaying---
+---title: Arrow of Slayingtags: notesseason: summertoc: truecomments: true---
 # Arrow of Slaying
 
 *Weapon (arrow), very rare*

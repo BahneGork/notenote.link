@@ -1,4 +1,4 @@
----title: Tiny Hut---
+---title: Tiny Huttags: notesseason: summertoc: truecomments: true---
 # Tiny Hut
 
 *3rd-level evocation (ritual)*

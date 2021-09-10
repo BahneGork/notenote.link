@@ -1,4 +1,4 @@
----title: Handout - blue dragonscale mail recipe---
+---title: Handout - blue dragonscale mail recipetags: notesseason: summertoc: truecomments: true---
 #handout #recipe #magicitemformula 
 Main: [[Master loot]] Related: [[Dragon Scale Mail]]
 ### Blue Dragon Scale Mail

@@ -1,4 +1,4 @@
----title: Efreeti Bottle---
+---title: Efreeti Bottletags: notesseason: summertoc: truecomments: true---
 # Efreeti Bottle
 
 *Wondrous item, very rare*

@@ -1,4 +1,4 @@
----title: Speak with Plants---
+---title: Speak with Plantstags: notesseason: summertoc: truecomments: true---
 # Speak with Plants
 
 *3rd-level transmutation*

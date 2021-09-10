@@ -1,4 +1,4 @@
----title: Potion of Poison---
+---title: Potion of Poisontags: notesseason: summertoc: truecomments: true---
 # Potion of Poison
 
 *Potion, uncommon*

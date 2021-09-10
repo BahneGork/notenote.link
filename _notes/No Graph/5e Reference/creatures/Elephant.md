@@ -1,4 +1,4 @@
----title: Elephant---
+---title: Elephanttags: notesseason: summertoc: truecomments: true---
 # Elephant
 
 *Huge beast, unaligned*

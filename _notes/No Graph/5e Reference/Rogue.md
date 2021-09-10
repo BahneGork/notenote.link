@@ -1,4 +1,4 @@
----title: Rogue---
+---title: Roguetags: notesseason: summertoc: truecomments: true---
 # Rogue
 
 ### Class Features

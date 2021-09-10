@@ -1,4 +1,4 @@
----title: Wand of Fireballs---
+---title: Wand of Fireballstags: notesseason: summertoc: truecomments: true---
 # Wand of Fireballs
 
 *Wand, rare (requires attunement by a spellcaster)*

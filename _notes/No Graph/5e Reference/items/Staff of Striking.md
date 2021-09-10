@@ -1,4 +1,4 @@
----title: Staff of Striking---
+---title: Staff of Strikingtags: notesseason: summertoc: truecomments: true---
 # Staff of Striking
 
 *Staff, very rare (requires attunement)*

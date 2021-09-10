@@ -1,4 +1,4 @@
----title: Ring of Djinni Summoning---
+---title: Ring of Djinni Summoningtags: notesseason: summertoc: truecomments: true---
 # Ring of Djinni Summoning
 
 *Ring, legendary (requires attunement)*

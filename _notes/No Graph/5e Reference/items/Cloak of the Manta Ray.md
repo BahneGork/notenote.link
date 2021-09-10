@@ -1,4 +1,4 @@
----title: Cloak of the Manta Ray---
+---title: Cloak of the Manta Raytags: notesseason: summertoc: truecomments: true---
 # Cloak of the Manta Ray
 
 *Wondrous item, uncommon*

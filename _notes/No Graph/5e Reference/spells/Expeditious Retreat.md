@@ -1,4 +1,4 @@
----title: Expeditious Retreat---
+---title: Expeditious Retreattags: notesseason: summertoc: truecomments: true---
 # Expeditious Retreat
 
 *1st-level transmutation*

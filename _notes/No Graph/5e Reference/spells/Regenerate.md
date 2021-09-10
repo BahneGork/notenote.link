@@ -1,4 +1,4 @@
----title: Regenerate---
+---title: Regeneratetags: notesseason: summertoc: truecomments: true---
 # Regenerate
 
 *7th-level transmutation*

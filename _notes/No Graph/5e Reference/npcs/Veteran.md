@@ -1,4 +1,4 @@
----title: Veteran---
+---title: Veterantags: notesseason: summertoc: truecomments: true---
 # Veteran
 
 *Medium humanoid (any race), any alignment*

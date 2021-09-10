@@ -1,4 +1,4 @@
----title: Blink Dog---
+---title: Blink Dogtags: notesseason: summertoc: truecomments: true---
 # Blink Dog
 
 *Medium fey, lawful good*

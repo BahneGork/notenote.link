@@ -1,4 +1,4 @@
----title: Medallion of Thoughts---
+---title: Medallion of Thoughtstags: notesseason: summertoc: truecomments: true---
 # Medallion of Thoughts
 
 *Wondrous item, uncommon (requires attunement)*

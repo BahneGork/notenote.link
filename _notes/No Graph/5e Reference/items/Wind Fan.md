@@ -1,4 +1,4 @@
----title: Wind Fan---
+---title: Wind Fantags: notesseason: summertoc: truecomments: true---
 # Wind Fan
 
 *Wondrous item, uncommon*

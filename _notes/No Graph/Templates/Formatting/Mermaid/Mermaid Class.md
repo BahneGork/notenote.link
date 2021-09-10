@@ -1,4 +1,4 @@
----title: Mermaid Class---
+---title: Mermaid Classtags: notesseason: summertoc: truecomments: true---
 ```mermaid
 %% https://mermaid-js.github.io/mermaid/#/classDiagram
  classDiagram

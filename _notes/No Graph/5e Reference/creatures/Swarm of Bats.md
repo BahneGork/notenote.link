@@ -1,4 +1,4 @@
----title: Swarm of Bats---
+---title: Swarm of Batstags: notesseason: summertoc: truecomments: true---
 # Swarm of Bats
 
 *Medium swarm of Tiny beasts, unaligned*

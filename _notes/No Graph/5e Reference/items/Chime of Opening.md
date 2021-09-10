@@ -1,4 +1,4 @@
----title: Chime of Opening---
+---title: Chime of Openingtags: notesseason: summertoc: truecomments: true---
 # Chime of Opening
 
 *Wondrous item, rare*

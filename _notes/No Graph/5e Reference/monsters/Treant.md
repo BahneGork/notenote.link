@@ -1,4 +1,4 @@
----title: Treant---
+---title: Treanttags: notesseason: summertoc: truecomments: true---
 # Treant
 
 *Huge plant, chaotic good*

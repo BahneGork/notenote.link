@@ -1,4 +1,4 @@
----title: Eyebite---
+---title: Eyebitetags: notesseason: summertoc: truecomments: true---
 # Eyebite
 
 *6th-level necromancy*

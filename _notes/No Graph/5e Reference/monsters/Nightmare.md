@@ -1,4 +1,4 @@
----title: Nightmare---
+---title: Nightmaretags: notesseason: summertoc: truecomments: true---
 # Nightmare
 
 *Large fiend, neutral evil*

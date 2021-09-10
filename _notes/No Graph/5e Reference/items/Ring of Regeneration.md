@@ -1,4 +1,4 @@
----title: Ring of Regeneration---
+---title: Ring of Regenerationtags: notesseason: summertoc: truecomments: true---
 # Ring of Regeneration
 
 *Ring, very rare (requires attunement)*

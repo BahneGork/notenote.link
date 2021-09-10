@@ -1,4 +1,4 @@
----title: Delios---
+---title: Deliostags: notesseason: summertoc: truecomments: true---
 #town #bedegaarnBaroni #location #subregion 
 Main: [[Misty Falls]] Related: [[The Bedegaarn Barony MOC]]
 

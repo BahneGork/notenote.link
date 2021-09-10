@@ -1,4 +1,4 @@
----title: Wall of Thorns---
+---title: Wall of Thornstags: notesseason: summertoc: truecomments: true---
 # Wall of Thorns
 
 *6th-level conjuration*

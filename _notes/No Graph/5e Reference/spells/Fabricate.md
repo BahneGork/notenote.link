@@ -1,4 +1,4 @@
----title: Fabricate---
+---title: Fabricatetags: notesseason: summertoc: truecomments: true---
 # Fabricate
 
 *4th-level transmutation*

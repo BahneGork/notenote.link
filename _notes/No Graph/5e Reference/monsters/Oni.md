@@ -1,4 +1,4 @@
----title: Oni---
+---title: Onitags: notesseason: summertoc: truecomments: true---
 # Oni
 
 *Large giant, lawful evil*

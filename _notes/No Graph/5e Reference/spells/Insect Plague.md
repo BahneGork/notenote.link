@@ -1,4 +1,4 @@
----title: Insect Plague---
+---title: Insect Plaguetags: notesseason: summertoc: truecomments: true---
 # Insect Plague
 
 *5th-level conjuration*

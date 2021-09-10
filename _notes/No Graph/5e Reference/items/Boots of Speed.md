@@ -1,4 +1,4 @@
----title: Boots of Speed---
+---title: Boots of Speedtags: notesseason: summertoc: truecomments: true---
 # Boots of Speed
 
 *Wondrous item, rare (requires attunement)*

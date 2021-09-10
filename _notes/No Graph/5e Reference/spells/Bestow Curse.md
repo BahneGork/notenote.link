@@ -1,4 +1,4 @@
----title: Bestow Curse---
+---title: Bestow Cursetags: notesseason: summertoc: truecomments: true---
 # Bestow Curse
 
 *3rd-level necromancy*

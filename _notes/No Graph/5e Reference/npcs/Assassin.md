@@ -1,4 +1,4 @@
----title: Assassin---
+---title: Assassintags: notesseason: summertoc: truecomments: true---
 # Assassin
 
 *Medium humanoid (any race), any non-good alignment*

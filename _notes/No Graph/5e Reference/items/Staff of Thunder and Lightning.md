@@ -1,4 +1,4 @@
----title: Staff of Thunder and Lightning---
+---title: Staff of Thunder and Lightningtags: notesseason: summertoc: truecomments: true---
 # Staff of Thunder and Lightning
 
 *Staff, very rare (requires attunement)*

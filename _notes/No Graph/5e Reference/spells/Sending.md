@@ -1,4 +1,4 @@
----title: Sending---
+---title: Sendingtags: notesseason: summertoc: truecomments: true---
 # Sending
 
 *3rd-level evocation*

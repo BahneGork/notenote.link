@@ -1,4 +1,4 @@
----title: Giant Boar---
+---title: Giant Boartags: notesseason: summertoc: truecomments: true---
 # Giant Boar
 
 *Large beast, unaligned*

@@ -1,4 +1,4 @@
----title: Mammoth---
+---title: Mammothtags: notesseason: summertoc: truecomments: true---
 # Mammoth
 
 *Huge beast, unaligned*

@@ -1,4 +1,4 @@
----title: Giant Goat---
+---title: Giant Goattags: notesseason: summertoc: truecomments: true---
 # Giant Goat
 
 *Large beast, unaligned*

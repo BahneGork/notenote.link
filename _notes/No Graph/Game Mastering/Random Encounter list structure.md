@@ -1,4 +1,4 @@
----title: Random Encounter list structure---
+---title: Random Encounter list structuretags: notesseason: summertoc: truecomments: true---
 Complications
 
 2d10

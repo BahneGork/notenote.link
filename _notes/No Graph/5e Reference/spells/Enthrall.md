@@ -1,4 +1,4 @@
----title: Enthrall---
+---title: Enthralltags: notesseason: summertoc: truecomments: true---
 # Enthrall
 
 *2nd-level enchantment*

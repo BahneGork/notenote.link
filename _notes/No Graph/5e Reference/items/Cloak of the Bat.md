@@ -1,4 +1,4 @@
----title: Cloak of the Bat---
+---title: Cloak of the Battags: notesseason: summertoc: truecomments: true---
 # Cloak of the Bat
 
 *Wondrous item, rare (requires attunement)*

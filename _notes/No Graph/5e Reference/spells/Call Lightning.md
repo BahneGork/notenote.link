@@ -1,4 +1,4 @@
----title: Call Lightning---
+---title: Call Lightningtags: notesseason: summertoc: truecomments: true---
 # Call Lightning
 
 *3rd-level conjuration*

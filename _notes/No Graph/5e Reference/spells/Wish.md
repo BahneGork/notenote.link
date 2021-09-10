@@ -1,4 +1,4 @@
----title: Wish---
+---title: Wishtags: notesseason: summertoc: truecomments: true---
 # Wish
 
 *9th-level conjuration*

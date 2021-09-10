@@ -1,4 +1,4 @@
----title: Luck Blade---
+---title: Luck Bladetags: notesseason: summertoc: truecomments: true---
 # Luck Blade
 
 *Weapon (any sword), legendary (requires attunement)*

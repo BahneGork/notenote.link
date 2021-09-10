@@ -1,4 +1,4 @@
----title: Winter Wolf---
+---title: Winter Wolftags: notesseason: summertoc: truecomments: true---
 # Winter Wolf
 
 *Large monstrosity, neutral evil*

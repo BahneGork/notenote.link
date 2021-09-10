@@ -1,4 +1,4 @@
----title: Orc---
+---title: Orctags: notesseason: summertoc: truecomments: true---
 # Orc
 
 *Medium humanoid (orc), chaotic evil*

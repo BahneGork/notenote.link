@@ -1,4 +1,4 @@
----title: Staff of Frost---
+---title: Staff of Frosttags: notesseason: summertoc: truecomments: true---
 # Staff of Frost
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*

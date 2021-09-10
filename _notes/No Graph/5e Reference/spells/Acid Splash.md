@@ -1,4 +1,4 @@
----title: Acid Splash---
+---title: Acid Splashtags: notesseason: summertoc: truecomments: true---
 # Acid Splash
 
 *Conjuration cantrip*

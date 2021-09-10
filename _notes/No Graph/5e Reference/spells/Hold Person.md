@@ -1,4 +1,4 @@
----title: Hold Person---
+---title: Hold Persontags: notesseason: summertoc: truecomments: true---
 # Hold Person
 
 *2nd-level enchantment*

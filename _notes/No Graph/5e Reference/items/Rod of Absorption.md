@@ -1,4 +1,4 @@
----title: Rod of Absorption---
+---title: Rod of Absorptiontags: notesseason: summertoc: truecomments: true---
 # Rod of Absorption
 
 *Rod, very rare (requires attunement)*

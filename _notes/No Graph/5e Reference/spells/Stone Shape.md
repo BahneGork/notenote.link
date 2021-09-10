@@ -1,4 +1,4 @@
----title: Stone Shape---
+---title: Stone Shapetags: notesseason: summertoc: truecomments: true---
 # Stone Shape
 
 *4th-level transmutation*

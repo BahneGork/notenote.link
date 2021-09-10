@@ -1,4 +1,4 @@
----title: Rakshasa---
+---title: Rakshasatags: notesseason: summertoc: truecomments: true---
 # Rakshasa
 
 *Medium fiend, lawful evil*

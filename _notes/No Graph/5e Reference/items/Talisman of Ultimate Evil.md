@@ -1,4 +1,4 @@
----title: Talisman of Ultimate Evil---
+---title: Talisman of Ultimate Eviltags: notesseason: summertoc: truecomments: true---
 # Talisman of Ultimate Evil
 
 *Wondrous item, legendary (requires attunement by a creature of evil alignment)*

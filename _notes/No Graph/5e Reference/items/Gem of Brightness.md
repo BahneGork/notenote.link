@@ -1,4 +1,4 @@
----title: Gem of Brightness---
+---title: Gem of Brightnesstags: notesseason: summertoc: truecomments: true---
 # Gem of Brightness
 
 *Wondrous item, uncommon*

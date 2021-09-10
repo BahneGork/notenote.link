@@ -1,4 +1,4 @@
----title: Haste---
+---title: Hastetags: notesseason: summertoc: truecomments: true---
 # Haste
 
 *3rd-level transmutation*

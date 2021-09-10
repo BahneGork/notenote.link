@@ -1,4 +1,4 @@
----title: Hyena---
+---title: Hyenatags: notesseason: summertoc: truecomments: true---
 # Hyena
 
 *Medium beast, unaligned*

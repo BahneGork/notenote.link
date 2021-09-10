@@ -1,4 +1,4 @@
----title: Elemental Gem---
+---title: Elemental Gemtags: notesseason: summertoc: truecomments: true---
 # Elemental Gem
 
 *Wondrous item, uncommon*

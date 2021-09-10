@@ -1,4 +1,4 @@
----title: Giant Sea Horse---
+---title: Giant Sea Horsetags: notesseason: summertoc: truecomments: true---
 # Giant Sea Horse
 
 *Large beast, unaligned*

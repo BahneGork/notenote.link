@@ -1,4 +1,4 @@
----title: Monk---
+---title: Monktags: notesseason: summertoc: truecomments: true---
 # Monk
 
 ### Class Features

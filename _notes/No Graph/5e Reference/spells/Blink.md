@@ -1,4 +1,4 @@
----title: Blink---
+---title: Blinktags: notesseason: summertoc: truecomments: true---
 # Blink
 
 *3rd-level transmutation*

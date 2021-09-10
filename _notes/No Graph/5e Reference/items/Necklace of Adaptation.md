@@ -1,4 +1,4 @@
----title: Necklace of Adaptation---
+---title: Necklace of Adaptationtags: notesseason: summertoc: truecomments: true---
 # Necklace of Adaptation
 
 *Wondrous item, uncommon (requires attunement)*

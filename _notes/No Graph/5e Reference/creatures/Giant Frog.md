@@ -1,4 +1,4 @@
----title: Giant Frog---
+---title: Giant Frogtags: notesseason: summertoc: truecomments: true---
 # Giant Frog
 
 *Medium beast, unaligned*

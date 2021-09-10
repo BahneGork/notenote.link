@@ -1,4 +1,4 @@
----title: Octopus---
+---title: Octopustags: notesseason: summertoc: truecomments: true---
 # Octopus
 
 *Small beast, unaligned*

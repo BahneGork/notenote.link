@@ -1,4 +1,4 @@
----title: Elk---
+---title: Elktags: notesseason: summertoc: truecomments: true---
 # Elk
 
 *Large beast, unaligned*

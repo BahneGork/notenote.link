@@ -1,4 +1,4 @@
----title: Commoner---
+---title: Commonertags: notesseason: summertoc: truecomments: true---
 # Commoner
 
 *Medium humanoid (any race), any alignment*

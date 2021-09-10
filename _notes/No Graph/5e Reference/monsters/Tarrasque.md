@@ -1,4 +1,4 @@
----title: Tarrasque---
+---title: Tarrasquetags: notesseason: summertoc: truecomments: true---
 # Tarrasque
 
 *Gargantuan monstrosity (titan), unaligned*

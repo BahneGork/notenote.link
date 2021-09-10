@@ -1,4 +1,4 @@
----title: Ring of Mind Shielding---
+---title: Ring of Mind Shieldingtags: notesseason: summertoc: truecomments: true---
 # Ring of Mind Shielding
 
 *Ring, uncommon (requires attunement)*

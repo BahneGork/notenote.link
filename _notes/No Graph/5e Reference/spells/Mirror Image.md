@@ -1,4 +1,4 @@
----title: Mirror Image---
+---title: Mirror Imagetags: notesseason: summertoc: truecomments: true---
 # Mirror Image
 
 *2nd-level illusion*

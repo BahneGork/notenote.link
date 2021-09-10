@@ -1,4 +1,4 @@
----title: Random hooks---
+---title: Random hookstags: notesseason: summertoc: truecomments: true---
 
 [[Baron Hexton]] offers [[The Shadow company]] to join his growing army, intermediate contact
 [[the Clock]] offers [[The Shadow company]] alliance if they rescue their leader from the barons prison (Lord regent adventure)

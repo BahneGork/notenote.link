@@ -1,4 +1,4 @@
----title: Manual of Gainful Exercise---
+---title: Manual of Gainful Exercisetags: notesseason: summertoc: truecomments: true---
 # Manual of Gainful Exercise
 
 *Wondrous item, very rare*

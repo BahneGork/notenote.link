@@ -1,4 +1,4 @@
----title: Homunculus---
+---title: Homunculustags: notesseason: summertoc: truecomments: true---
 # Homunculus
 
 *Tiny construct, neutral*

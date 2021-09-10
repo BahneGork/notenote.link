@@ -1,4 +1,4 @@
----title: Shield of Faith---
+---title: Shield of Faithtags: notesseason: summertoc: truecomments: true---
 # Shield of Faith
 
 *1st-level abjuration*

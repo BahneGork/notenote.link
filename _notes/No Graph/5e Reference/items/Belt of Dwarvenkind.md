@@ -1,4 +1,4 @@
----title: Belt of Dwarvenkind---
+---title: Belt of Dwarvenkindtags: notesseason: summertoc: truecomments: true---
 # Belt of Dwarvenkind
 
 *Wondrous item, rare (requires attunement)*

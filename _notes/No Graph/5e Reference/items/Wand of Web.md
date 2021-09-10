@@ -1,4 +1,4 @@
----title: Wand of Web---
+---title: Wand of Webtags: notesseason: summertoc: truecomments: true---
 # Wand of Web
 
 *Wand, uncommon (requires attunement by a spellcaster)*

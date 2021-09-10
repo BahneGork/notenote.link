@@ -1,4 +1,4 @@
----title: Phantom Steed---
+---title: Phantom Steedtags: notesseason: summertoc: truecomments: true---
 # Phantom Steed
 
 *3rd-level illusion (ritual)*

@@ -1,4 +1,4 @@
----title: Vicious Weapon---
+---title: Vicious Weapontags: notesseason: summertoc: truecomments: true---
 # Vicious Weapon
 
 *Weapon (any), rare*

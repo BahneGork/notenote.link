@@ -1,4 +1,4 @@
----title: Sphere of Annihilation---
+---title: Sphere of Annihilationtags: notesseason: summertoc: truecomments: true---
 # Sphere of Annihilation
 
 *Wondrous item, legendary*

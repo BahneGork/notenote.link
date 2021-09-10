@@ -1,4 +1,4 @@
----title: Sequester---
+---title: Sequestertags: notesseason: summertoc: truecomments: true---
 # Sequester
 
 *7th-level transmutation*

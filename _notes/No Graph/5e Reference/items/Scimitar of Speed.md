@@ -1,4 +1,4 @@
----title: Scimitar of Speed---
+---title: Scimitar of Speedtags: notesseason: summertoc: truecomments: true---
 # Scimitar of Speed
 
 *Weapon (scimitar), very rare (requires attunement)*

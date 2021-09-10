@@ -1,4 +1,4 @@
----title: Staff of Fire---
+---title: Staff of Firetags: notesseason: summertoc: truecomments: true---
 # Staff of Fire
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*

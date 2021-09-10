@@ -1,4 +1,4 @@
----title: Chimera---
+---title: Chimeratags: notesseason: summertoc: truecomments: true---
 # Chimera
 
 *Large monstrosity, chaotic evil*

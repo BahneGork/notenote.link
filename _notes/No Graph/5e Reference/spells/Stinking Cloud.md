@@ -1,4 +1,4 @@
----title: Stinking Cloud---
+---title: Stinking Cloudtags: notesseason: summertoc: truecomments: true---
 # Stinking Cloud
 
 *3rd-level conjuration*

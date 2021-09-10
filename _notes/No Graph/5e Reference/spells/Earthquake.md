@@ -1,4 +1,4 @@
----title: Earthquake---
+---title: Earthquaketags: notesseason: summertoc: truecomments: true---
 # Earthquake
 
 *8th-level evocation*

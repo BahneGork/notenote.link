@@ -1,4 +1,4 @@
----title: Forbiddance---
+---title: Forbiddancetags: notesseason: summertoc: truecomments: true---
 # Forbiddance
 
 *6th-level abjuration (ritual)*

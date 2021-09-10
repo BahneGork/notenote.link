@@ -1,4 +1,4 @@
----title: The real agenda of JAWBREAKER---
+---title: The real agenda of JAWBREAKERtags: notesseason: summertoc: truecomments: true---
 #thinking #plot
 
 Main: 

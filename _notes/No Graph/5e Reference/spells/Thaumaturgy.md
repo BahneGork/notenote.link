@@ -1,4 +1,4 @@
----title: Thaumaturgy---
+---title: Thaumaturgytags: notesseason: summertoc: truecomments: true---
 # Thaumaturgy
 
 *Transmutation cantrip*

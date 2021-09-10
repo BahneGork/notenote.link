@@ -1,4 +1,4 @@
----title: Helm of Brilliance---
+---title: Helm of Brilliancetags: notesseason: summertoc: truecomments: true---
 # Helm of Brilliance
 
 *Wondrous item, very rare (requires attunement)*

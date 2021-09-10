@@ -1,4 +1,4 @@
----title: Invisibility---
+---title: Invisibilitytags: notesseason: summertoc: truecomments: true---
 # Invisibility
 
 *2nd-level illusion*

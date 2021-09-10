@@ -1,4 +1,4 @@
----title: Alarm---
+---title: Alarmtags: notesseason: summertoc: truecomments: true---
 # Alarm
 
 *1st-level abjuration (ritual)*

@@ -1,4 +1,4 @@
----title: Enlarge slash Reduce---
+---title: Enlarge slash Reducetags: notesseason: summertoc: truecomments: true---
 # Enlarge/Reduce
 
 *2nd-level transmutation*

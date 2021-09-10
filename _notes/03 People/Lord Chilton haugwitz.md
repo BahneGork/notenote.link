@@ -1,4 +1,4 @@
----title: Lord Chilton haugwitz---
+---title: Lord Chilton haugwitztags: notesseason: summertoc: truecomments: true---
 #npc #delios 
 
 [[Lord Chilton Haugwitz.jpg]]

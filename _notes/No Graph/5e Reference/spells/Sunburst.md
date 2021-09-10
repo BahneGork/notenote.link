@@ -1,4 +1,4 @@
----title: Sunburst---
+---title: Sunbursttags: notesseason: summertoc: truecomments: true---
 # Sunburst
 
 *8th-level evocation*

@@ -1,4 +1,4 @@
----title: Greater Invisibility---
+---title: Greater Invisibilitytags: notesseason: summertoc: truecomments: true---
 # Greater Invisibility
 
 *4th-level illusion*

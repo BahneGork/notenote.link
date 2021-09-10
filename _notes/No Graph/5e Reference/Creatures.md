@@ -1,4 +1,4 @@
----title: Creatures---
+---title: Creaturestags: notesseason: summertoc: truecomments: true---
 # Creatures
 - [[Ape]]
 - [[Awakened Shrub]]

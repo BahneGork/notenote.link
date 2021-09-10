@@ -1,4 +1,4 @@
----title: True Polymorph---
+---title: True Polymorphtags: notesseason: summertoc: truecomments: true---
 # True Polymorph
 
 *9th-level transmutation*

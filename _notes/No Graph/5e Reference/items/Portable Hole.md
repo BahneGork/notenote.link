@@ -1,4 +1,4 @@
----title: Portable Hole---
+---title: Portable Holetags: notesseason: summertoc: truecomments: true---
 # Portable Hole
 
 *Wondrous item, rare*

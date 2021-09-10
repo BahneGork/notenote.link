@@ -1,4 +1,4 @@
----title: Fire Storm---
+---title: Fire Stormtags: notesseason: summertoc: truecomments: true---
 # Fire Storm
 
 *7th-level evocation*

@@ -1,4 +1,4 @@
----title: Contingency---
+---title: Contingencytags: notesseason: summertoc: truecomments: true---
 # Contingency
 
 *6th-level evocation*

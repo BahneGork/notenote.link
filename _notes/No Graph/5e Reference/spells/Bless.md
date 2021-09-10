@@ -1,4 +1,4 @@
----title: Bless---
+---title: Blesstags: notesseason: summertoc: truecomments: true---
 # Bless
 
 *1st-level enchantment*

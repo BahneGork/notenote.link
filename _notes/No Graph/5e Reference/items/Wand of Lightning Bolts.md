@@ -1,4 +1,4 @@
----title: Wand of Lightning Bolts---
+---title: Wand of Lightning Boltstags: notesseason: summertoc: truecomments: true---
 # Wand of Lightning Bolts
 
 *Wand, rare (requires attunement by a spellcaster)*

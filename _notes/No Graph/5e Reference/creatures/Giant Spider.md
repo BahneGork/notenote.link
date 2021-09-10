@@ -1,4 +1,4 @@
----title: Giant Spider---
+---title: Giant Spidertags: notesseason: summertoc: truecomments: true---
 # Giant Spider
 
 *Large beast, unaligned*

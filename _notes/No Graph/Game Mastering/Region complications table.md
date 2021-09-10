@@ -1,4 +1,4 @@
----title: Region complications table---
+---title: Region complications tabletags: notesseason: summertoc: truecomments: true---
 a region complications table consists of a random encounters table 2d10 which acts as a master list ontop of other lists.
 
 Hazards list

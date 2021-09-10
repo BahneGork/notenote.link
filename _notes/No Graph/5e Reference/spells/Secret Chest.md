@@ -1,4 +1,4 @@
----title: Secret Chest---
+---title: Secret Chesttags: notesseason: summertoc: truecomments: true---
 # Secret Chest
 
 *4th-level conjuration*

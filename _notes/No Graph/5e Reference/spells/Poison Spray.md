@@ -1,4 +1,4 @@
----title: Poison Spray---
+---title: Poison Spraytags: notesseason: summertoc: truecomments: true---
 # Poison Spray
 
 *Conjuration cantrip*

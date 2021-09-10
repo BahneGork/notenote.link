@@ -1,4 +1,4 @@
----title: Unseen Servant---
+---title: Unseen Servanttags: notesseason: summertoc: truecomments: true---
 # Unseen Servant
 
 *1st-level conjuration (ritual)*

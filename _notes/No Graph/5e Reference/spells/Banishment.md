@@ -1,4 +1,4 @@
----title: Banishment---
+---title: Banishmenttags: notesseason: summertoc: truecomments: true---
 # Banishment
 
 *4th-level abjuration*

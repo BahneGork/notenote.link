@@ -1,4 +1,4 @@
----title: Ring of the Ram---
+---title: Ring of the Ramtags: notesseason: summertoc: truecomments: true---
 # Ring of the Ram
 
 *Ring, rare (requires attunement)*

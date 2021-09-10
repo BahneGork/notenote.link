@@ -1,4 +1,4 @@
----title: Shield Guardian---
+---title: Shield Guardiantags: notesseason: summertoc: truecomments: true---
 # Shield Guardian
 
 *Large construct, unaligned*

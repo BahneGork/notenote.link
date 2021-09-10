@@ -1,4 +1,4 @@
----title: Manual of Golems---
+---title: Manual of Golemstags: notesseason: summertoc: truecomments: true---
 # Manual of Golems
 
 *Wondrous item, very rare*

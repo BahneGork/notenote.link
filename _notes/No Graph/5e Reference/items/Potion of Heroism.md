@@ -1,4 +1,4 @@
----title: Potion of Heroism---
+---title: Potion of Heroismtags: notesseason: summertoc: truecomments: true---
 # Potion of Heroism
 
 *Potion, rare*

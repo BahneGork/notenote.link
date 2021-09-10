@@ -1,4 +1,4 @@
----title: Bard---
+---title: Bardtags: notesseason: summertoc: truecomments: true---
 # Bard
 
 ### Class Features

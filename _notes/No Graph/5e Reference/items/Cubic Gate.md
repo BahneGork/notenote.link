@@ -1,4 +1,4 @@
----title: Cubic Gate---
+---title: Cubic Gatetags: notesseason: summertoc: truecomments: true---
 # Cubic Gate
 
 *Wondrous item, legendary*

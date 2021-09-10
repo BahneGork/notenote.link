@@ -1,4 +1,4 @@
----title: Arrow-Catching Shield---
+---title: Arrow-Catching Shieldtags: notesseason: summertoc: truecomments: true---
 # Arrow-Catching Shield
 
 *Armor (shield), rare (requires attunement)*

@@ -1,4 +1,4 @@
----title: Create Undead---
+---title: Create Undeadtags: notesseason: summertoc: truecomments: true---
 # Create Undead
 
 *6th-level necromancy*

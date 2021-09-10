@@ -1,4 +1,4 @@
----title: Necklace of Fireballs---
+---title: Necklace of Fireballstags: notesseason: summertoc: truecomments: true---
 # Necklace of Fireballs
 
 *Wondrous item, rare*

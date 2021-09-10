@@ -1,4 +1,4 @@
----title: Delios Festival Script---
+---title: Delios Festival Scripttags: notesseason: summertoc: truecomments: true---
 #script #delios #festival
 [[Delios]] [[annual founders celebration|founders festival]]
 

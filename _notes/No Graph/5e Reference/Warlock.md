@@ -1,4 +1,4 @@
----title: Warlock---
+---title: Warlocktags: notesseason: summertoc: truecomments: true---
 # Warlock
 
 ### Class Features

@@ -1,4 +1,4 @@
----title: Wand of Magic Missiles---
+---title: Wand of Magic Missilestags: notesseason: summertoc: truecomments: true---
 # Wand of Magic Missiles
 
 *Wand, uncommon*

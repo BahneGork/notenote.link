@@ -1,4 +1,4 @@
----title: Identify---
+---title: Identifytags: notesseason: summertoc: truecomments: true---
 # Identify
 
 *1st-level divination (ritual)*

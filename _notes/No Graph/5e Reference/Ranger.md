@@ -1,4 +1,4 @@
----title: Ranger---
+---title: Rangertags: notesseason: summertoc: truecomments: true---
 # Ranger
 
 ### Class Features

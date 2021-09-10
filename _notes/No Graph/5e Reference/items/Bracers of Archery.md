@@ -1,4 +1,4 @@
----title: Bracers of Archery---
+---title: Bracers of Archerytags: notesseason: summertoc: truecomments: true---
 # Bracers of Archery
 
 *Wondrous item, uncommon (requires attunement)*

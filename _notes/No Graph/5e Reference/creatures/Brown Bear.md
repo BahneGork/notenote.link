@@ -1,4 +1,4 @@
----title: Brown Bear---
+---title: Brown Beartags: notesseason: summertoc: truecomments: true---
 # Brown Bear
 
 *Large beast, unaligned*

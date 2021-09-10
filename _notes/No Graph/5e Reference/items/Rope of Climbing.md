@@ -1,4 +1,4 @@
----title: Rope of Climbing---
+---title: Rope of Climbingtags: notesseason: summertoc: truecomments: true---
 # Rope of Climbing
 
 *Wondrous item, uncommon*

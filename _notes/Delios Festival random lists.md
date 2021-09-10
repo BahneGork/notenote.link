@@ -1,4 +1,4 @@
----title: Delios Festival random lists---
+---title: Delios Festival random liststags: notesseason: summertoc: truecomments: true---
 [[Delios Festival Script]] [[annual founders celebration|founders festival]]
 
 19 random events

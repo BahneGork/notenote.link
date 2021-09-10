@@ -1,4 +1,4 @@
----title: Maze---
+---title: Mazetags: notesseason: summertoc: truecomments: true---
 # Maze
 
 *8th-level conjuration*

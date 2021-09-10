@@ -1,4 +1,4 @@
----title: Staff of Charming---
+---title: Staff of Charmingtags: notesseason: summertoc: truecomments: true---
 # Staff of Charming
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*

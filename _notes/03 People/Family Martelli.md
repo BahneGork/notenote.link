@@ -1,4 +1,4 @@
----title: Family Martelli---
+---title: Family Martellitags: notesseason: summertoc: truecomments: true---
 #npc #faction #delios #Mistyfalls #lumberranch
 Main: [[Ranch 1 Falca]], [[Delios]]
 Related: [[Misty Falls]], [[Factions MOC]]

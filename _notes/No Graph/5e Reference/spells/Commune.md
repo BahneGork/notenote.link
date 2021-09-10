@@ -1,4 +1,4 @@
----title: Commune---
+---title: Communetags: notesseason: summertoc: truecomments: true---
 # Commune
 
 *5th-level divination (ritual)*

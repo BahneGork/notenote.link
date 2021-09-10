@@ -1,4 +1,4 @@
----title: Giant Centipede---
+---title: Giant Centipedetags: notesseason: summertoc: truecomments: true---
 # Giant Centipede
 
 *Small beast, unaligned*

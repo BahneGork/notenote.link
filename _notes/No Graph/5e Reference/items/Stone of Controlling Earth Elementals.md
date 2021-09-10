@@ -1,4 +1,4 @@
----title: Stone of Controlling Earth Elementals---
+---title: Stone of Controlling Earth Elementalstags: notesseason: summertoc: truecomments: true---
 # Stone of Controlling Earth Elementals
 
 *Wondrous item, rare*

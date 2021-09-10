@@ -1,4 +1,4 @@
----title: Click claw moors---
+---title: Click claw moorstags: notesseason: summertoc: truecomments: true---
 #location #subregion #Mistyfalls #bedegaarnBaroni 
 Main: [[Misty Falls]]
 Related: [[Random encounters Misty falls]], [[Misty Falls Region map]], [[Mistyfalls subregion lists]]

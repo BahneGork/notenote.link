@@ -1,4 +1,4 @@
----title: Spy---
+---title: Spytags: notesseason: summertoc: truecomments: true---
 # Spy
 
 *Medium humanoid (any race), any alignment*

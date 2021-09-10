@@ -1,4 +1,4 @@
----title: Calm Emotions---
+---title: Calm Emotionstags: notesseason: summertoc: truecomments: true---
 # Calm Emotions
 
 *2nd-level enchantment*

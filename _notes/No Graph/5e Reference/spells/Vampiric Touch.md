@@ -1,4 +1,4 @@
----title: Vampiric Touch---
+---title: Vampiric Touchtags: notesseason: summertoc: truecomments: true---
 # Vampiric Touch
 
 *3rd-level necromancy*

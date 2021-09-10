@@ -1,4 +1,4 @@
----title: Meld into Stone---
+---title: Meld into Stonetags: notesseason: summertoc: truecomments: true---
 # Meld into Stone
 
 *3rd-level transmutation (ritual)*

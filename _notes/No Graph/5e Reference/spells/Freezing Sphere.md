@@ -1,4 +1,4 @@
----title: Freezing Sphere---
+---title: Freezing Spheretags: notesseason: summertoc: truecomments: true---
 # Freezing Sphere
 
 *6th-level evocation*

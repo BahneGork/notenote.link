@@ -1,4 +1,4 @@
----title: Private Sanctum---
+---title: Private Sanctumtags: notesseason: summertoc: truecomments: true---
 # Private Sanctum
 
 *4th-level abjuration*

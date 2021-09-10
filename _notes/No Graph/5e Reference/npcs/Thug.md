@@ -1,4 +1,4 @@
----title: Thug---
+---title: Thugtags: notesseason: summertoc: truecomments: true---
 # Thug
 
 *Medium humanoid (any race), any non-good alignment*

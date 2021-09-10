@@ -1,4 +1,4 @@
----title: Giant Owl---
+---title: Giant Owltags: notesseason: summertoc: truecomments: true---
 # Giant Owl
 
 *Large beast, neutral*

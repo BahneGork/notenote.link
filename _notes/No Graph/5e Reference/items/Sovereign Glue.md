@@ -1,4 +1,4 @@
----title: Sovereign Glue---
+---title: Sovereign Gluetags: notesseason: summertoc: truecomments: true---
 # Sovereign Glue
 
 *Wondrous item, legendary*

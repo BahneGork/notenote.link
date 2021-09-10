@@ -1,4 +1,4 @@
----title: Devils---
+---title: Devilstags: notesseason: summertoc: truecomments: true---
 # Devils
 
 

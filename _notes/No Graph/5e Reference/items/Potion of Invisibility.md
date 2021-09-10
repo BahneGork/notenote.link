@@ -1,4 +1,4 @@
----title: Potion of Invisibility---
+---title: Potion of Invisibilitytags: notesseason: summertoc: truecomments: true---
 # Potion of Invisibility
 
 *Potion, very rare*

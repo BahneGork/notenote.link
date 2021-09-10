@@ -1,4 +1,4 @@
----title: Potion of Giant Strength---
+---title: Potion of Giant Strengthtags: notesseason: summertoc: truecomments: true---
 # Potion of Giant Strength
 
 *Potion, rarity varies*

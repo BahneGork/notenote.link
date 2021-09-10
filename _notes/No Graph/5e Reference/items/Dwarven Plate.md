@@ -1,4 +1,4 @@
----title: Dwarven Plate---
+---title: Dwarven Platetags: notesseason: summertoc: truecomments: true---
 # Dwarven Plate
 
 *Armor (plate), very rare*

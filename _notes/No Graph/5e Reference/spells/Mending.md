@@ -1,4 +1,4 @@
----title: Mending---
+---title: Mendingtags: notesseason: summertoc: truecomments: true---
 # Mending
 
 *Transmutation cantrip*

@@ -1,4 +1,4 @@
----title: Awakened Tree---
+---title: Awakened Treetags: notesseason: summertoc: truecomments: true---
 # Awakened Tree
 
 *Huge plant, unaligned*

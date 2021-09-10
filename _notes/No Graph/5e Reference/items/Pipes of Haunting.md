@@ -1,4 +1,4 @@
----title: Pipes of Haunting---
+---title: Pipes of Hauntingtags: notesseason: summertoc: truecomments: true---
 # Pipes of Haunting
 
 *Wondrous item, uncommon*

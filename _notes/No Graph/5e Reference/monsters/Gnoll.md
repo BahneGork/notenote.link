@@ -1,4 +1,4 @@
----title: Gnoll---
+---title: Gnolltags: notesseason: summertoc: truecomments: true---
 # Gnoll
 
 *Medium humanoid (gnoll), chaotic evil*

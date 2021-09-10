@@ -1,4 +1,4 @@
----title: Giant Weasel---
+---title: Giant Weaseltags: notesseason: summertoc: truecomments: true---
 # Giant Weasel
 
 *Medium beast, unaligned*

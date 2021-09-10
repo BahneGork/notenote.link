@@ -1,4 +1,4 @@
----title: Lantern of Revealing---
+---title: Lantern of Revealingtags: notesseason: summertoc: truecomments: true---
 # Lantern of Revealing
 
 *Wondrous item, uncommon*

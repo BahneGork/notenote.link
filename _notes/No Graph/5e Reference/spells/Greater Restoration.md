@@ -1,4 +1,4 @@
----title: Greater Restoration---
+---title: Greater Restorationtags: notesseason: summertoc: truecomments: true---
 # Greater Restoration
 
 *5th-level abjuration*

@@ -1,4 +1,4 @@
----title: Magic Jar---
+---title: Magic Jartags: notesseason: summertoc: truecomments: true---
 # Magic Jar
 
 *6th-level necromancy*

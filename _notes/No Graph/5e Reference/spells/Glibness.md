@@ -1,4 +1,4 @@
----title: Glibness---
+---title: Glibnesstags: notesseason: summertoc: truecomments: true---
 # Glibness
 
 *8th-level transmutation*

@@ -1,4 +1,4 @@
----title: Gauntlets of Ogre Power---
+---title: Gauntlets of Ogre Powertags: notesseason: summertoc: truecomments: true---
 # Gauntlets of Ogre Power
 
 *Wondrous item, uncommon (requires attunement)*

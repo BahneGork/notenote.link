@@ -1,4 +1,4 @@
----title: Robe of Eyes---
+---title: Robe of Eyestags: notesseason: summertoc: truecomments: true---
 # Robe of Eyes
 
 *Wondrous item, rare (requires attunement)*

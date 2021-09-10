@@ -1,4 +1,4 @@
----title: Spare the Dying---
+---title: Spare the Dyingtags: notesseason: summertoc: truecomments: true---
 # Spare the Dying
 
 *Necromancy cantrip*

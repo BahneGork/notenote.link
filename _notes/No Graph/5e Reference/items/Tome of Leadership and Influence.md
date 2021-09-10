@@ -1,4 +1,4 @@
----title: Tome of Leadership and Influence---
+---title: Tome of Leadership and Influencetags: notesseason: summertoc: truecomments: true---
 # Tome of Leadership and Influence
 
 *Wondrous item, very rare*
